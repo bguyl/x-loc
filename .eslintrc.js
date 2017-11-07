@@ -28,6 +28,7 @@ module.exports = {
     'no-multi-assign': 0,
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
-    'no-console': process.env.NODE_ENV === 'production' ? 2 : 0
+    'no-console': process.env.NODE_ENV === 'production' ? 2 : 0,
+    'no-unused-vars': 1
   }
 }

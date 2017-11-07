@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "author": "Bastien Guyl <bastien@guyl.me>",
   "description": "Extra localizations/translations manager for Stardew Valley",
-  "license": null,
+  "repository": "https://github.com/bguyl/x-loc",
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
@@ -62,7 +63,8 @@
     "materialize-css": "^0.100.2",
     "vue": "^2.3.3",
     "vue-electron": "^1.0.6",
-    "vue-router": "^2.5.3"
+    "vue-router": "^2.5.3",
+    "winreg": "^1.2.4"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
