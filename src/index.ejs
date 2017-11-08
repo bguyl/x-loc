@@ -3,13 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>x-loc</title>
-
-    <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="../node_modules/materialize-css/dist/css/materialize.min.css"  media="screen,projection"/>
-
-    <!--Import font-awesome-->
-    <link rel="stylesheet" href="../node_modules/font-awesome/css/font-awesome.min.css">
-
     <% if (htmlWebpackPlugin.options.nodeModules) { %>
       <!-- Add `node_modules/` to global paths so `require` works properly in development -->
       <script>
@@ -22,15 +15,6 @@
     <!-- Set `__static` path to static files in production -->
     <script>
       if (process.env.NODE_ENV !== 'development') window.__static = require('path').join(__dirname, '/static').replace(/\\/g, '\\\\')
-      
-      /* import materialize.js */
-      var $ = jQuery = require('jquery');
-      $(document).ready(function() {
-        $('select').material_select();
-      });
-          
-      require('hammerjs');
-      require('materialize-css');
     </script>
 
     <!-- webpack builds are automatically injected -->

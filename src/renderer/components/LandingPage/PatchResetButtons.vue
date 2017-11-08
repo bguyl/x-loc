@@ -7,11 +7,7 @@
 
 <script>
 export default {
-  name: 'patch-reset-buttons',
-  data () {
-    return {
-    };
-  }
+  name: 'patch-reset-buttons'
 };
 </script>
 

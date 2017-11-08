@@ -16,10 +16,10 @@
 </template>
 
 <script>
-  const fs = require('fs');
-  const os = require('os');
-  const path = require('path');
-  const Registry = require('winreg');
+  import * as fs from 'fs';
+  import * as path from 'path';
+  import * as os from 'os';
+  import * as Registry from 'winreg';
 
   export default {
     name: 'folder-form',
@@ -35,8 +35,7 @@
     },
     beforeMount: function() {
       getDefaultPath()
-        .then(gamepath => { this.gamepath = gamepath; })
-        .catch(err => console.log(err));
+        .then(gamepath => { this.gamepath = gamepath; });
     }
   };
 
@@ -61,7 +60,7 @@
         }
       } return Promise.reject(Error('Steam path not found'));
     }
-    ).catch(err => console.log(err));
+    );
   }
 
   function getDefaultPath() {

@@ -8,14 +8,14 @@
 </template>
 
 <script>
-const fs = require('fs');
-const path = require('path');
+import * as fs from 'fs';
+import * as path from 'path';
 
 export default {
   name: 'select-lang',
   data () {
     return {
-      langs: ['fr-FR', 'en-EN']
+      langs: []
     };
   },
   mounted: function() {
@@ -23,6 +23,12 @@ export default {
     // get the name of all avalaible languages
     // look for directories in the static folder
     this.langs = dirs(__static);
+  },
+  beforeUpdate() {
+    window.$('select').material_select('destroy');
+  },
+  updated() {
+    window.$('select').material_select();
   }
 };
 </script>
