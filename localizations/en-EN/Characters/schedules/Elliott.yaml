@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1330 ElliottHouse 1 5 0/1800 ElliottHouse 7 7 2/2000 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+    marriage_Mon: "830 Beach 46 11 2 \"Hello, @. I'm just watching the waves from here.\"/1700 BusStop -1 23 3" #!String
+    summer_9: "900 ElliottHouse 1 5 0/1030 Hospital 12 14 0 \"Hello there. What brings you to this terrible place?\"/1330 Hospital 4 6 1 \"My back has been hurting, doctor... you know, with all the hunching over to write my novel.\"/1600 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+    winter: "GOTO fall" #!String
+    fall: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 ArchaeologyHouse 21 11 2 elliott_read/1730 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+    Thu: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 SeedShop 10 20 0/1730 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+    Sun: "GOTO Fri" #!String
+    Fri: "NOT friendship Leah 6/800 ElliottHouse 1 5 0/1100 Beach 24 32 3 square_1_5_3/1700 Saloon 4 19 2 elliott_drink/2340 ElliottHouse 13 4 1" #!String
+    Fri6: "GOTO Thu" #!String
+    summer: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 Forest 96 39 2/1800 ElliottHouse 7 7 2/2200 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+    spring: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1200 Beach 49 19 2/1330 ElliottHouse 1 5 0/1500 Town 55 104 1/1800 ElliottHouse 7 7 2/2000 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
+

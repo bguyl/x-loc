@@ -1,0 +1,60 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.Int32Reader"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<Int32,String>
+    0: "Cowboy Hat/The leather is old and cracked, but surprisingly supple. It smells musty./false/true" #!String
+    1: "Bowler Hat/Made from smooth felt./false/true" #!String
+    2: "Top Hat/A gentleman's classic./false/true" #!String
+    3: "Sombrero/A festively decorated hat made from woven straw./false/true" #!String
+    4: "Straw Hat/Light and cool, it's a farmer's delight./false/true" #!String
+    5: "Official Cap/Looks like it belonged to a postman or policeman. Either way, it's still very soft and smells okay./false/true" #!String
+    6: "Blue Bonnet/Harken back to simpler times with this prairie bonnet./false/true" #!String
+    7: "Plum Chapeau/Looks alright./false/true" #!String
+    8: "Skeleton Mask/The red eyes are glowing mysteriously./true/true" #!String
+    9: "Goblin Mask/Freak out the neighborhood with this creepy mask. Rubber ear joints for effect./true/true" #!String
+    10: "Chicken Mask/You'll be sure to get thim grinning with this one./true/true" #!String
+    11: "Earmuffs/Keep your ears toasty. Lined with artisanal velvet from Castle Village./true/false" #!String
+    12: "Delicate Bow/Little pink jewels glisten as you examine it./true/false" #!String
+    13: "Tropiclip/It's shaped like a little palm tree./true/false" #!String
+    14: "Butterfly Bow/This one is very soft./true/false" #!String
+    15: "Hunter's Cap/The wool lining should stay warm deep into the forest./false/true" #!String
+    16: "Trucker Hat/Mesh in the back to keep your head cool./false/true" #!String
+    17: "Sailor's Cap/It's fresh and starchy./false/true" #!String
+    18: "Good Ol' Cap/A floppy old topper with a creased bill. Looks like it's been through a lot./false/true" #!String
+    19: "Fedora/A city-slicker's standard./false/true" #!String
+    20: "Cool Cap/It looks really faded, but it used to be a vibrant blue./false/true" #!String
+    21: "Lucky Bow/The middle is made of solid gold./true/false" #!String
+    22: "Polka Bow/This one's sure to be turn heads./true/false" #!String
+    23: "Gnome's Cap/This gnome had a very large head./false/true" #!String
+    24: "Eye Patch/You can't tell if it's real or just from a costume shop./true/true" #!String
+    25: "Santa Hat/Celebrate the magical season./false/true" #!String
+    26: "Tiara/This one has a big amethyst encircled by gold./true/true" #!String
+    27: "Hard Hat/Keep your dome in one piece./false/true" #!String
+    28: "Sou'wester/The shape helps to keep sailors dry during storms./false/true" #!String
+    29: "Daisy/A fresh spring daisy to put in your hair./true/false" #!String
+    30: "Watermelon Band/The color scheme was inspired by the beloved summer melon./true/false" #!String
+    31: "Mouse Ears/Made from synthetic fibers./true/true" #!String
+    32: "Cat Ears/Whiskers included./true/true" #!String
+    33: "Cowgal Hat/The band is studded with fake diamonds./false/true" #!String
+    34: "Cowpoke Hat/For dairy experts./false/true" #!String
+    35: "Archer's Cap/Fashionable whether you're an archer or not./false/true" #!String
+    36: "Panda Hat/A lovely panda hat./false/true" #!String
+

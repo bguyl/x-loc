@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO winter" #!String
+    marriageJob: "630 Hospital 1 5 0 \"Hi Honey. What are you doing at the clinic?#$e#Ah, you just came to see me. That's nice.$h\"/1250 Hospital 10 14 2/1330 Hospital 5 5 2/1410 Hospital 5 6 3 harvey_examine_left/1550 Hospital 5 5 2/1610 Hospital 4 5 0/1630 Hospital 3 15 0/1800 BusStop -1 23 3" #!String
+    marriage_Mon: "830 SeedShop 2 26 2 \"Hi! I'm just shopping for some essentials, so I can continue to cook healthy meals for us.\"/1200 Town 23 27 1 \"The sound of running water is relaxing for me.\"/1700 BusStop -1 23 3" #!String
+    Tue: "730 Hospital 1 5 0/1250 Hospital 10 14 2/1330 Hospital 5 5 2/1410 Hospital 5 6 3 harvey_examine_left/1550 Hospital 5 5 2/1610 Hospital 4 5 0/1630 Hospital 3 15 0/1800 HarveyRoom 9 5 0/2300 HarveyRoom 13 4 1" #!String
+    Thu: "GOTO Tue" #!String
+    Fri: "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 SeedShop 2 23 3 \"This stuff can definitely be incorporated into a healthy diet.\"/1500 HarveyRoom 21 7 0 \"I'm just putting away these groceries.\"/1630 HarveyRoom 3 4 0/1900 HarveyRoom 8 5 0/2100 HarveyRoom 6 4 0/2200 HarveyRoom 13 4 1" #!String
+    Sat: "700 HarveyRoom 21 7 0/830 ArhcaeologyHouse 16 9 0/1500 HarveyRoom 21 7 0 \"I'm just putting away these groceries.\"/1630 HarveyRoom 3 4 0/1900 HarveyRoom 8 5 0/2100 HarveyRoom 6 4 0/2200 HarveyRoom 13 4 1" #!String
+    winter: "800 HarveyRoom 19 7 0/840 Hospital 6 15 2/1200 HarveyRoom 4 5 1 harvey_radio/1600 HarveyRoom 11 5 3 harvey_read/1730 Saloon 18 20 0/2200 HarveyRoom 13 4 1" #!String
+    fall: "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 Town 46 102 2/1700 HarveyRoom 4 5 1 harvey_radio/2200 HarveyRoom 13 4 1" #!String
+    summer: "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 Town 23 36 2 square_7_5/1730 Hospital 9 15 3/1840 HarveyRoom 11 5 3 harvey_read/2200 HarveyRoom 13 4 1" #!String
+    spring: "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 Town 10 64 2 square_5_5/1730 Hospital 9 15 3/1840 HarveyRoom 11 5 3 harvey_read/2200 HarveyRoom 13 4 1" #!String
+

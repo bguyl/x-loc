@@ -1,0 +1,38 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    6: "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1500 Mountain 46 23 2 abigail_flute/2000 SeedShop 1 9 3" #!String
+    11: "NOT friendship Sebastian 6/1000 SebastianRoom 5 4 2 abigail_sit_down/1700 SeedShop 1 9 3" #!String
+    16: "GOTO 6" #!String
+    25: "NOT friendship Sebastian 6/GOTO 11" #!String
+    rain: "900 SeedShop 9 5 0/1100 SeedShop 13 20 0/1300 SeedShop 39 5 0/1500 SeedShop 7 9 2/1900 SeedShop 6 4 0/2200 SeedShop 1 9 3" #!String
+    rain2: "900 SeedShop 34 5 0/1100 SeedShop 9 17 3/1400 Saloon 42 17 2 abigail_sit_down/2000 SeedShop 1 9 3" #!String
+    marriage_Mon: "830 SeedShop 6 19 0 \"Dad seems to be doing okay without me around.\"/1300 Town 47 87 0 \"Hey, @. I like to relax here... it's so peaceful.\"/1700 Saloon 33 18 0 \"Urgh... I still can't beat it by myself.$s\"/2030 BusStop -1 23 3" #!String
+    marriage_Fri: "800 SeedShop 36 9 0 \"What's up, @? I'm just saying hi to the mom.\"/1100 Mountain 49 31 2 abigail_flute/1500 Saloon 42 17 2 abigail_sit_down \"It's nice to see the ol' gang again. Nothing's changed.$h\"/2030 BusStop -1 23 3" #!String
+    fall_Mon: "900 SeedShop 10 5 0/1100 Beach 13 39 2/1800 SeedShop 1 9 3" #!String
+    spring_4: "900 SeedShop 11 5 0 \"Ugh... I have a doctor's appointment later.$s\"/1230 Hospital 13 14 0 \"I'm just here for my annual check-up! Don't worry, I'm not preg... I mean, I'm not sick! Heh.$9\"/1330 Hospital 4 6 1 \"How much longer do you need, doc? I'm hungry.$s\"/1600 SeedShop 10 5 0/2000 SeedShop 1 9 3" #!String
+    Sun: "900 SeedShop 4 5 0/1030 SeedShop 20 5 1 \"We're hiding in here so we don't have to talk to anyone.\"/1300 Forest 14 40 2/2000 SeedShop 1 9 3" #!String
+    11_6: "GOTO spring" #!String
+    25_6: "GOTO spring" #!String
+    Wed: "1000 ArchaeologyHouse 11 9 0/1800 Town 47 87 0/2200 SeedShop 1 9 3" #!String
+    Fri: "900 SeedShop 34 5 0/1100 SeedShop 9 17 3/1500 Saloon 42 17 2 abigail_sit_down/2100 SeedShop 1 9 3" #!String
+    fall: "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 BusStop 22 5 2/1700 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3" #!String
+    winter: "900 SeedShop 39 5 0/1030 ScienceHouse 5 19 1/1430 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3" #!String
+    summer: "900 SeedShop 39 5 0/1030 Railroad 30 45 0/1400 Mountain 49 31 1/1740 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3" #!String
+    spring: "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1300 Town 73 54 2/1630 SeedShop 3 6 0 abigail_videogames/1930 SeedShop 1 9 3" #!String
+

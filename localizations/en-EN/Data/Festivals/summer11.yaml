@@ -1,0 +1,73 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    name: "Luau" #!String
+    conditions: "Beach/900 1400" #!String
+    set-up: "event2/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Luau/loadActors Set-Up/addTemporaryActor Governor 16 32 32 4 2/advancedMove Vincent true 3 0 3 3000 -3 0 3 3000/advancedMove Jas true 3 0 1 3000 -3 0 1 3000/advancedMove Pam true 4 25000 -5 0 4 20000 5 0/advancedMove Gus True 0 -1 3 4000 0 1 3 4000/advancedMove Shane true 1 10000 0 1 1 10000 0 -1/advancedMove Clint true 4 15000 -3 0 4 15000 6 0 4 10000 -3 0/animate Emily false true 250 16 17 16 17 20 21 20 21 18 19 18 19 22 23 22 23/animate Robin false true 500 20 21 20 22/animate Demetrius false true 500 24 25 24 26/animate Marnie false true 200 17 18 17 19/positionOffset Marnie 0 16/viewport 38 2 clamp true/pause 1000/playerControl luau" #!String
+    mainEvent: "pause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis \"Well folks, it's time once again for the potluck ceremony.#$b#I trust that you all put high-quality ingredients in the pot this year. We don't want the governor to regret his visit to the valley!\"/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis \"Well... Governor? Would you do us the honor of tasting the soup?\"/pause 500/speak Governor \"Of course! I've been looking forward to this all year.\"/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor \"...$h\"/pause 300/cutscene governorTaste/null" #!String
+    governorReaction5: "emote Governor 40/pause 400/speak Governor \"Hmmm... Well it's not bad, but it's missing something...$s#$b#Did everyone in town contribute an ingredient to the soup? I feel like it's missing someone's unique voice.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"You're right... It's a little bland.$s\"/pause 1000/speak Lewis \"Well, thanks for joining us this year, Governor. Sorry the soup wasn't anything special.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Now... who else wants some soup?\"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"The soup was bland, but the luau was still fun!\"/pause 500/message \"Time to head home.\"/end" #!String
+    governorReaction4: "emote Governor 16/pause 600/shake Governor 1000/jump Governor/pause 800/playMusic SettlingIn/speak Governor \"Oh my... that's the best soup I've ever tasted!$h\"/shake Governor 5000/animate Governor false true 100 9 10 11 11 10/pause 800/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"You're right... It's delicious!$h\"/pause 500/faceDirection Lewis 2/speak Lewis \"Wonderful job, everyone! Now... who else wants a taste?$h\"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"The Governor wasn't kidding... the soup was out of this world!\"/pause 500/message \"Time to head home.\"/end" #!String
+    governorReaction3: "emote Governor 32/pause 400/playMusic jaunty/speak Governor \"Ah... that's a very pleasant soup. The produce from this valley never disappoints!\"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Mmm... tasty. You all did very well today.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Now... who else wants some soup?\"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"The Luau was a success! Good thing I brought something tasty for the soup.\"/pause 500/message \"Time to head home.\"/end" #!String
+    governorReaction2: "pause 400/playMusic ocean/speak Governor \"Hmm... I don't have much to say about this. It's an average soup.\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"He's right... It's nothing special. Not bad, though.\"/pause 500/faceDirection Lewis 2/speak Lewis \"Well... who else wants some soup?\"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"The soup was just average, but otherwise the Luau was a success!\"/pause 500/message \"Time to head home.\"/end" #!String
+    governorReaction1: "emote Governor 28/pause 400/playMusic ocean/speak Governor \"Um... It's actually kind of disgusting. I think I'll pass on the soup this year.$s\"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis \"Yuck. Someone must have ruined it with a poor-quality ingredient.$s\"/pause 500/faceDirection Lewis 2/speak Lewis \"Well... does anyone want any?\"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message \"The soup wasn't very good, but otherwise the Luau was a success!\"/pause 500/message \"Time to head home.\"/end" #!String
+    governorReaction0: "pause 500/showFrame Governor 13/pause 500/shake Governor 2000/emote Governor 12/pause 500/speak Governor \"Blech! This is vile! I think I'm going to be sick... $u\"/showFrame Governor 13/jump Lewis/pause 800/speak Governor \"I need to lie down...$u\"/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis \"Good going, people... Whoever put that foul ingredient in the soup made the Governor pass out! I'm ashamed.$4\"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis \"Go home, the festival is over.$s\"/pause 500/globalFade/viewport -1000 -1000/message \"What a disaster...\"/pause 500/message \"Time to head home.\"/end" #!String
+    Governor: "What a lovely occasion... It's always a joy to visit Stardew Valley.#$e#I must speak to the missus about purchasing a vacation home here." #!String
+    Abigail_spouse: "Don't let me stop you from having fun today. I just feel like watching the sea by myself." #!String
+    Leah_spouse: "It's nice to see everyone once in a while, but mostly I want to get back to the farm." #!String
+    Maru_spouse: "Harvey keeps trying to talk to me, but all I want is a piece of this roast." #!String
+    Penny_spouse: "I'm just humoring some old friends. What I really want is a bowl of that soup." #!String
+    Haley_spouse: "Phew... I'm afraid to move, or else I might start to sweat." #!String
+    Sebastian_spouse: "I'm doing my best to stay in a good mood..." #!String
+    Sam_spouse: "I guess it wouldn't be very nice to put something nasty in the soup..." #!String
+    Alex_spouse: "Hey, I'll take any excuse to come hang out at the beach. This weather is amazing!" #!String
+    Harvey_spouse: "Oh dear... I've got sand in my socks...$s" #!String
+    Elliott_spouse: "The old cabin seems to be holding up well. Every time I return I half expect the thing to be rotted..." #!String
+    Abigail: "It's tiring to socialize with everyone... I'd rather watch the sea." #!String
+    Emily: "%She's unresponsive." #!String
+    Robin: "Ow... you stepped on my foot, dear." #!String
+    Demetrius: "This is tiring, honey. Are you ready to visit the buffet soon? *pant*" #!String
+    Maru: "Whatever Linus is roasting smells awfully good... *slurp*" #!String
+    Sebastian: "One year Sam put a pound of anchovies in the potluck soup.#$e#Ever wondered why Sam leads the town in community service hours?$h" #!String
+    Linus: "A slow, continuous rotation is key to achieving the perfect roast." #!String
+    Pierre: "Hmm... maybe if I get on the governor's good side he'll give my business a tax break...#$b#I wonder if he likes aged whiskey?#$e#Now if only the Mayor would stop shmoozing with him all afternoon." #!String
+    Caroline: "I put fresh vegetables from my garden into the communal soup pot." #!String
+    Alex: "Perfect weather for a beach party, huh?" #!String
+    George: "That music! It's too loud.#$b#Can't I have a little peace and quiet to enjoy the ocean?" #!String
+    Evelyn: "Ahh... The smell of the ocean takes me back many years. Long before you were born." #!String
+    Lewis: "Look sharp! The governor's here for his annual visit.#$b#If you brought something for the potluck make sure and add it to the soup cauldron." #!String
+    Clint: "I'm full, but what else is there to do besides eat?" #!String
+    Penny: "We do this festival every year to give the governor a taste of everything the valley has to offer.#$e#Mayor Lewis hopes it will get the governor on our good side. That's why he's so neurotic about the way the soup tastes." #!String
+    Pam: "Heh... free buffet. One of the perks of living here. Enjoy it, kid!" #!String
+    Haley: "I would dance, but I don't want to get sweaty." #!String
+    Jodi: "I hope the soup is good this year." #!String
+    Kent: "Hey, good to see you." #!String
+    Marlon: "I'll be back here by the trees... the air is a lot cooler." #!String
+    Sam: "Governor? Who cares...#$e#Why should I care about some random old guy?" #!String
+    Leah: "How's the farming coming along? It must be a busy season for you." #!String
+    Shane: "Wow... you don't get hot pepper chutney like this in the big city..." #!String
+    Marnie: "If you brought something for the soup, climb the stairs on the other side and throw it in." #!String
+    Elliott: "I woke up late, stepped out of the door and found myself in the middle of all this hubbub!#$e#I forgot that today was the Luau.$h" #!String
+    Gus: "These blasted sand-flies keep landing on the food!" #!String
+    Dwarf: "You say it's raining up above? *gasp*#$e#Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it." #!String
+    Wizard: "The merpeople are curious about your festivities.#$e#They become upset when you litter into the ocean." #!String
+    Harvey: "Good thing I came with sunscreen.#$e#I wonder if Maru could use some sunscreen on her shoulders?" #!String
+    Sandy: "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s" #!String
+    Jas: "Vincent isn't a good dancer." #!String
+    Vincent: "I'm bored..." #!String
+    Willy: "Hi there, @. Taking a breather?#$e#To tell you the truth, I'd rather be fishing right now." #!String
+

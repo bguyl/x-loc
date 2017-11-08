@@ -1,0 +1,90 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Fried Egg: "-5 1/10 10/194/default" #!String
+    Omelet: "-5 1 -6 1/1 10/195/l 10" #!String
+    Salad: "20 1 22 1 419 1/25 5/196/f Emily 3" #!String
+    Cheese Cauli.: "190 1 424 1/5 5/197/f Pam 3" #!String
+    Baked Fish: "145 1 132 1 246 1/6 5/198/l 12" #!String
+    Parsnip Soup: "24 1 -6 1 419 1/1 8/199/f Caroline 3" #!String
+    Vegetable Stew: "256 1 284 1/1 8/200/f Caroline 7" #!String
+    Complete Breakfast: "194 1 -6 1 210 1 211 1/2 2/201/l 26" #!String
+    Fried Calamari: "151 1 246 1 247 1/3 3/202/f Jodi 3" #!String
+    Strange Bun: "246 1 722 1 308 1/1 1/203/f Shane 3" #!String
+    Lucky Lunch: "154 1 229 1 597 1/20 1/204/s Luck 8" #!String
+    Fried Mushroom: "404 1 257 1 247 1/22 3/205/f Demetrius 3" #!String
+    Pizza: "246 1 256 1 424 1/6 4/206/l 20" #!String
+    Bean Hotpot: "188 2/1 8/207/f Clint 7" #!String
+    Glazed Yams: "280 1 245 1/1 10/208/l 22" #!String
+    Carp Surprise: "142 4/1 6/209/l 16" #!String
+    Hashbrowns: "192 1 247 1/1 9/210/l 14" #!String
+    Pancakes: "246 1 -5 1/5 5/211/l 18" #!String
+    Salmon Dinner: "139 1 300 1 250 1/3 3/212/f Gus 3" #!String
+    Fish Taco: "130 1 229 1 266 1 306 1/1 4/213/f Linus 7" #!String
+    Crispy Bass: "136 1 246 1 247 1/1 5/214/f Kent 3" #!String
+    Pepper Poppers: "260 1 424 1/10 3/215/f Shane 3" #!String
+    Bread: "246 1/50 2/216/l 11" #!String
+    Tom Kha Soup: "88 1 720 1 404 1/15 2/218/f Sandy 7" #!String
+    Trout Soup: "138 1 153 1/5 4/219/l 19" #!String
+    Chocolate Cake: "246 1 245 1 -5 1/5 5/220/l 23" #!String
+    Pink Cake: "254 1 246 1 245 1 -5 1/6 5/221/l 25" #!String
+    Rhubarb Pie: "252 1 246 1 245 1/2 4/222/f Marnie 7" #!String
+    Cookies: "246 1 245 1 -5 1/3 7/223/null" #!String
+    Spaghetti: "246 1 256 1/5 5/224/f Lewis 3" #!String
+    Fried Eel: "148 1 247 1/3 4/225/f George 3" #!String
+    Spicy Eel: "148 1 260 1/10 3/226/f George 7" #!String
+    Sashimi: "-4 1/20 1/227/f Linus 3" #!String
+    Maki Roll: "-4 1 152 1 423 1/10 3/228/l 15" #!String
+    Tortilla: "270 1/5 4/229/l 13" #!String
+    Red Plate: "266 1 264 1/15 3/230/f Emily 7" #!String
+    Eggplant Parm.: "272 1 256 1/30 2/231/f Lewis 7" #!String
+    Rice Pudding: "-6 1 245 1 423 1/9 3/232/f Evelyn 7" #!String
+    Ice Cream: "-6 1 245 1/2 4/233/f Jodi 7" #!String
+    Blueberry Tart: "258 1 246 1 245 1 -5 1/10 3/234/f Pierre 3" #!String
+    Autumn's Bounty: "280 1 276 1/50 1/235/f Demetrius 7" #!String
+    Pumpkin Soup: "276 1 -6 1/2 4/236/f Robin 7" #!String
+    Super Meal: "278 1 282 1 274 1/1 7/237/f Kent 7" #!String
+    Cran. Sauce: "282 1 245 1/9 3/238/f Gus 7" #!String
+    Stuffing: "216 1 282 1 408 1/2 4/239/f Pam 7" #!String
+    Farmer's Lunch: "195 1 24 1/60 1/240/s Farming 3" #!String
+    Survival Burger: "216 1 78 1 272 1/70 1/241/s Foraging 2" #!String
+    Dish o' The Sea: "131 2 210 1/38 2/242/s Fishing 3" #!String
+    Miner's Treat: "78 2 245 1 -6 1/60 1/243/s Mining 3" #!String
+    Roots Platter: "78 1 412 1/1 10/244/s Combat 3" #!String
+    Algae Soup: "153 4/1 5/456/f Clint 3" #!String
+    Pale Broth: "157 2/1 4/457/f Marnie 3" #!String
+    Plum Pudding: "406 2 246 1 245 1/1 10/604/l 100" #!String
+    Artichoke Dip: "274 1 184 1/1 10/605/l 100" #!String
+    Stir Fry: "78 1 404 1 250 1 247 1/1 10/606/l 100" #!String
+    Roasted Hazelnuts: "408 3/1 10/607/l 100" #!String
+    Pumpkin Pie: "276 1 246 1 184 1 245 1/1 10/608/l 100" #!String
+    Radish Salad: "247 1 419 1 264 1/1 10/609/l 100" #!String
+    Fruit Salad: "258 1 254 1 634 1/1 10/610/l 100" #!String
+    Blackberry Cobbler: "410 2 245 1 246 1/1 10/611/l 100" #!String
+    Cranberry Candy: "282 1 613 1 245 1/1 10/612/l 100" #!String
+    Bruschetta: "216 1 247 1 256 1/1 10/618/l 100" #!String
+    Coleslaw: "266 1 419 1 306 1/1 10/648/l 100" #!String
+    Fiddlehead Risotto: "247 1 259 1 248 1/1 10/649/l 100" #!String
+    Poppyseed Muffin: "376 1 246 1 245 1/1 10/651/l 100" #!String
+    Chowder: "372 1 184 1/1 10/727/f Willy 3" #!String
+    Lobster Bisque: "715 1 184 1/1 10/730/f Willy 9" #!String
+    Escargot: "721 1 248 1/1 10/729/f Willy 5" #!String
+    Fish Stew: "716 1 719 1 722 1 256 1/1 10/728/f Willy 7" #!String
+    Maple Bar: "724 1 245 1 246 1/1 10/731/l 100" #!String
+    Crab Cakes: "717 1 246 1 -5 1 247 1/1 10/732/l 100" #!String
+

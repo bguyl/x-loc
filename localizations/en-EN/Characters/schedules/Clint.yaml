@@ -1,0 +1,24 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    winter_16: "900 Blacksmith 3 13 2 \"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\"/1030 Hospital 12 14 0 \"I'm seeing the doctor about my lungs... breathing in all that coal dust can't be good.\"/1330 Hospital 4 6 1 \"How do my lungs sound, doc? Sometimes they make a rattling sound when I exhale.\"/1600 Saloon 19 23 3/2400 Blacksmith 10 4 1" #!String
+    Fri: "850 CommunityCenter 62 14 0 square_3_1_0/1700 Saloon 19 23 3/2400 Blacksmith 10 4 1" #!String
+    CommunityCenter_Replacement: "JojaMart 27 5 0" #!String
+    spring: "850 Blacksmith 3 13 2/1700 Blacksmith 8 12 1 clint_hammer/1900 Saloon 19 23 3/2400 Blacksmith 10 4 1" #!String
+

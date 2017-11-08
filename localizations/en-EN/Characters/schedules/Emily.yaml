@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    Tue: "900 HaleyHouse 16 5 2/1000 SeedShop 27 16 2/1300 SeedShop 26 19 2 emily_exercise/1600 Saloon 15 17 2 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+    marriage_Mon: "830 HaleyHouse 12 17 1 \"It's good to the visit the old house. It's full of memories.\"/1100 Town 82 15 1 \"I'm trying to get a good walk in today. My legs feel like cannelloni.\"/1500 Saloon 15 17 0 \"Gus seems to have problems organizing everything without me around.\"/2200 BusStop -1 23 3" #!String
+    marriage_Fri: "830 Beach 10 37 3 \"I'm just looking for mermaids.\"/1300 SeedShop 2 26 2 \"I come here to smell the fruit.\"/1500 Saloon 15 17 0 \"Friday nights are busy, so I'm just helping out for old time's sake. It's fun!$h\"/2200 BusStop -1 23 3" #!String
+    winter_11: "900 HaleyHouse 16 5 2/1030 Hospital 12 14 0 \"Most of us visit the doctor for a yearly check-up.\"/1330 Hospital 4 6 1 \"Doctor, I'd like to go with the 'natural remedy' if possible.\"/1600 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+    Fri: "900 HaleyHouse 16 5 2/1000 CommunityCenter 10 25 2 \"What a lovely loom. I'm in heaven right now.\"/1530 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+    spring: "900 HaleyHouse 16 5 2/1200 HaleyHouse 3 16 0/1530 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+

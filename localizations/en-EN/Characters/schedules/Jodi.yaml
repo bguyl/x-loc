@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1130 SamHouse 4 12 2 jodi_sit_down/1600 SamHouse 5 5 0/1900 SamHouse 6 5 0 jodi_dishes/1930 SamHouse 8 13 1/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    spring_11: "900 SamHouse 3 5 2 \"Vincent hates going to the doctor more than anything, but he'll just have to deal with it.\"/1130 Hospital 13 14 3 \"Be brave, Vincent. Think of your father.\"/1330 Hospital 2 7 1 \"Doctor Harvey? I'm worried about Vincent's height. Isn't he a little short for his age?\"/1600 SamHouse 12 22 3 \"Vincent was very brave at the doctor's today. I'm proud of him.\"/2000 SamHouse 4 12 2 jodi_sit_down/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    spring_18: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1130 Hospital 12 14 0/1330 Hospital 4 6 1 \"Hey! You can't just barge into a private appointment!$u\"/1600 SamHouse 5 5 0/1900 SamHouse 6 5 0 jodi_dishes/1930 SamHouse 8 13 1/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    Tue: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SeedShop 22 17 1/1300 SeedShop 21 17 2 jodi_exercise/1600 SeedShop 24 14 2 \"Ohhh... My arms feel like gelatin... $s\"/1800 SamHouse 2 17 3/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    Wed: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1100 JojaMart 14 21 1/1330 JojaMart 9 14 3/1400 JojaMart 5 7 1/1440 JojaMart 20 5 0/1530 JojaMart 27 13 1/1600 JojaMart 11 25 3/1700 SamHouse 7 5 0/1930 SamHouse 5 7 3/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    JojaMart_Replacement: "SeedShop 2 22 3" #!String
+    Fri: "GOTO Wed" #!String
+    Sat: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1100 CommunityCenter 24 8 2 jodi_sit_down/1700 SamHouse 6 13 0/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    Sun: "800 SamHouse 6 5 0 jodi_dishes/900 SamHouse 5 5 0/1000 SeedShop 38 20 0/1400 SeedShop 2 20 3/1600 SamHouse 4 12 2 jodi_sit_down/1900 SamHouse 2 17 3/2100 SamHouse 10 22 3/2200 SamHouse 22 5 1" #!String
+    spring: "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1130 SamHouse 4 12 2 jodi_sit_down/1330 Town 22 72 1/1600 SamHouse 5 5 0/1900 SamHouse 6 5 0 jodi_dishes/1930 SamHouse 8 13 1/2100 SamHouse 10 22 3 \"Shhh... he's asleep.\"/2200 SamHouse 22 5 1" #!String
+

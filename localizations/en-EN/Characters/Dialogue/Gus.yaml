@@ -1,0 +1,37 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Well hello there! I'm Gus, chef and owner of the Stardrop Saloon.#$e#Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready.$h" #!String
+    Mon: "Yeah, I know a lot about the people living here.#$e#That's one of the benefits of being a bartender.$h#$e#Sometimes I hear too much..." #!String
+    Saloon: "Good evening. Can I get you anything?" #!String
+    Saloon4: "Good evening. Make yourself at home." #!String
+    SeedShop_Entry: "Hi, Pierre!/Now, what do I need.../Ah, that looks good!/Makin' my special sauce tonight!/Pierre! What's fresh?/Pierre! Waddya got for me?" #!String
+    Saloon8: "Hi there @. I'm glad to see you! You're always welcome here." #!String
+    Saloon_Tue: "Hi! Please relax and enjoy yourself." #!String
+    Saloon_Thu: "Hey, you look like you could use a beverage." #!String
+    Saloon_Fri: "Business has been really good tonight. I'm pleased." #!String
+    Tue: "I sell different dishes each week, so make sure and check in every now and then!#$e#You might taste something spectacular.$h#$e#Just let me know if you have any allergies.$s#$e#Okay, see you around." #!String
+    Wed: "Emily's been working here for a while now. I don't know what I'd do without her!#$e#I would hate to have to clean all those pots by myself.$s" #!String
+    Thu: "Pam and Clint come into the saloon almost every night.#$e#I'd probably go out of business if they stopped coming.$h#$e#So make sure you don't drive them away!" #!String
+    Thu6: "Clint comes into the saloon almost every night and sits at the same table by himself.#$e#Sometimes he glances over at Emily with a nervous look. Hmmm.#$e#Maybe that's why he comes in so often. Oh well, that means more business for me." #!String
+    Thu8: "Pam comes into the saloon almost every night and drinks way too much beer.#$e#Ah well, I shouldn't pass judgement on my customers." #!String
+    Fri: "Hi there, @. If you're ever thirsty, the Saloon is the place the be." #!String
+    Fri4: "I don't actually drink very much myself. I'm mainly doing this to make a living.#$e#Although I do enjoy a taste of the Stardew Valley vintage from time to time." #!String
+    Sat: "Are you much of a chef, @?#$e#If you have a kitchen and some recipes, you can cook some useful dishes.#$e#Home-cooked meals make great gifts, as well." #!String
+    Sun: "Business has been pretty steady thanks to my regular customers." #!String
+

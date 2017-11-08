@@ -1,0 +1,20 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    normal: "pause 400/speak Harvey \"Sorry I'm all disheveled... I didn't know you were coming over.$h\"/move farmer 0 -2 0/pause 600/speak Harvey \"Hey, I think I hear a plane overhead...\"/move Harvey 0 1 3/move Harvey -3 0 0/move Harvey 0 -2 0/speak Harvey \"@, get over here!\"/move farmer 0 -1 3/move farmer -4 0 0/move farmer 0 -2 0/speak Harvey \"Look!\"/globalFade/cutscene plane/viewport -1000 -1000/speak Harvey \"As a kid, my dream was always to be a pilot.\"/pause 1000/speak Harvey \"...But with my bad eyesight and a crippling fear of heights, that dream started to fade away.$s\"/faceDirection Harvey 3/faceDirection farmer 1/viewport 5 6 true/pause 1000/emote farmer 28/speak Harvey \"It's okay... don't be sad.#$b#I've grown to accept my station in life. Not everyone can achieve their dreams... that's just the way the world is.\"/pause 1600/speak Harvey \"Hey, let me show you my model airplanes. I just finished the new TR-Starbird deluxe set.$h\"/advancedMove Harvey false 0 2 4 0/faceDirection farmer 2/end" #!String
+

@@ -1,0 +1,2075 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    BarnDweller.cs.386: "{0} is sleeping." #!String
+    BarnDweller.cs.387: "{0} is looking happy today!" #!String
+    BarnDweller.cs.388: "{0} seems to be in a bad mood..." #!String
+    BluePrint.cs.1: "Use to see information about your animals." #!String
+    Buff.cs.453: "Goblin's Curse" #!String
+    Buff.cs.454: "-3 Speed" #!String
+    Buff.cs.455: "-3 Defense" #!String
+    Buff.cs.456: "Full" #!String
+    Buff.cs.457: "Quenched" #!String
+    Buff.cs.458: "Tipsy" #!String
+    Buff.cs.459: "-1 Speed" #!String
+    Buff.cs.460: "Slimed" #!String
+    Buff.cs.461: "-4 Speed" #!String
+    Buff.cs.462: "Spooked" #!String
+    Buff.cs.463: "-8 Attack" #!String
+    Buff.cs.464: "Jinxed" #!String
+    Buff.cs.465: "-8 Defense" #!String
+    Buff.cs.466: "Frozen" #!String
+    Buff.cs.467: "-8 Speed" #!String
+    Buff.cs.468: "Warrior Energy" #!String
+    Buff.cs.469: "+10 Attack" #!String
+    Buff.cs.470: "Yoba's Blessing" #!String
+    Buff.cs.471: "Invincible" #!String
+    Buff.cs.472: "Adrenaline Rush" #!String
+    Buff.cs.473: "+2 Speed" #!String
+    Buff.cs.474: "Oil of Garlic" #!String
+    Buff.cs.475: "Your skin exudes a pungent aroma" #!String
+    Buff.cs.476: "Duration: " #!String
+    Buff.cs.480: " Farming" #!String
+    Buff.cs.483: " Fishing" #!String
+    Buff.cs.486: " Mining" #!String
+    Buff.cs.489: " Luck" #!String
+    Buff.cs.492: " Foraging" #!String
+    Buff.cs.495: " Max Energy" #!String
+    Buff.cs.498: " Magnetic Radius" #!String
+    Buff.cs.501: " Defense" #!String
+    Buff.cs.504: " Attack" #!String
+    Buff.cs.507: " Speed" #!String
+    Buff.cs.508: "Source: " #!String
+    CoopDweller.cs.550: "{0} is sleeping." #!String
+    CoopDweller.cs.551: "{0} is looking happy today!" #!String
+    CoopDweller.cs.552: "{0} seems to be in a bad mood... " #!String
+    CraftingRecipe.cs.567: "Ingredients:" #!String
+    CraftingRecipe.cs.568: "Greens (Any)" #!String
+    CraftingRecipe.cs.569: "Gem (Any)" #!String
+    CraftingRecipe.cs.570: "Vegetable (Any)" #!String
+    CraftingRecipe.cs.571: "Fish (Any)" #!String
+    CraftingRecipe.cs.572: "Egg (Any)" #!String
+    CraftingRecipe.cs.573: "Milk (Any)" #!String
+    CraftingRecipe.cs.575: "Error Item" #!String
+    Crop.cs.588: "Inventory Full" #!String
+    Debris.cs.621: "Copper" #!String
+    Debris.cs.622: "Iron" #!String
+    Debris.cs.623: "Coal" #!String
+    Debris.cs.624: "Gold" #!String
+    Debris.cs.625: "Coins" #!String
+    Debris.cs.626: "Iridium" #!String
+    Debris.cs.627: "Wood" #!String
+    Debris.cs.628: "Stone" #!String
+    Debris.cs.629: "Fuel" #!String
+    Debris.cs.630: "Quartz" #!String
+    Dialogue.cs.679: "Purple" #!String
+    Dialogue.cs.680: "Gooey" #!String
+    Dialogue.cs.681: "Chalky" #!String
+    Dialogue.cs.682: "Green" #!String
+    Dialogue.cs.683: "Plush" #!String
+    Dialogue.cs.684: "Chunky" #!String
+    Dialogue.cs.685: "Gigantic" #!String
+    Dialogue.cs.686: "Greasy" #!String
+    Dialogue.cs.687: "Gloomy" #!String
+    Dialogue.cs.688: "Practical" #!String
+    Dialogue.cs.689: "Lanky" #!String
+    Dialogue.cs.690: "Dopey" #!String
+    Dialogue.cs.691: "Crusty" #!String
+    Dialogue.cs.692: "Fantastic" #!String
+    Dialogue.cs.693: "Rubbery" #!String
+    Dialogue.cs.694: "Silly" #!String
+    Dialogue.cs.695: "Courageous" #!String
+    Dialogue.cs.696: "Reasonable" #!String
+    Dialogue.cs.697: "Lonely" #!String
+    Dialogue.cs.698: "Bitter" #!String
+    Dialogue.cs.699: "Dragon" #!String
+    Dialogue.cs.700: "Buffet" #!String
+    Dialogue.cs.701: "Biscuit" #!String
+    Dialogue.cs.702: "Robot" #!String
+    Dialogue.cs.703: "Planet" #!String
+    Dialogue.cs.704: "Pepper" #!String
+    Dialogue.cs.705: "Tomb" #!String
+    Dialogue.cs.706: "Hyena" #!String
+    Dialogue.cs.707: "Lip" #!String
+    Dialogue.cs.708: "Quail" #!String
+    Dialogue.cs.709: "Cheese" #!String
+    Dialogue.cs.710: "Disaster" #!String
+    Dialogue.cs.711: "Raincoat" #!String
+    Dialogue.cs.712: "Shoe" #!String
+    Dialogue.cs.713: "Castle" #!String
+    Dialogue.cs.714: "Elf" #!String
+    Dialogue.cs.715: "Pump" #!String
+    Dialogue.cs.716: "Crisp" #!String
+    Dialogue.cs.717: "Wig" #!String
+    Dialogue.cs.718: "Mermaid" #!String
+    Dialogue.cs.719: "Drumstick" #!String
+    Dialogue.cs.720: "Puppet" #!String
+    Dialogue.cs.721: "Submarine" #!String
+    Dialogue.cs.722: "ran" #!String
+    Dialogue.cs.723: "danced" #!String
+    Dialogue.cs.724: "spoke" #!String
+    Dialogue.cs.725: "galloped" #!String
+    Dialogue.cs.726: "ate" #!String
+    Dialogue.cs.727: "floated" #!String
+    Dialogue.cs.728: "stood" #!String
+    Dialogue.cs.729: "flowed" #!String
+    Dialogue.cs.730: "smelled" #!String
+    Dialogue.cs.731: "swam" #!String
+    Dialogue.cs.732: "grilled" #!String
+    Dialogue.cs.733: "cracked" #!String
+    Dialogue.cs.734: "melted" #!String
+    Dialogue.cs.735: "atop" #!String
+    Dialogue.cs.736: "near" #!String
+    Dialogue.cs.737: "with" #!String
+    Dialogue.cs.738: "alongside" #!String
+    Dialogue.cs.739: "away from" #!String
+    Dialogue.cs.740: "too close to" #!String
+    Dialogue.cs.741: "dangerously close to" #!String
+    Dialogue.cs.742: "far, far away from" #!String
+    Dialogue.cs.743: "uncomfortably close to" #!String
+    Dialogue.cs.744: "way above the" #!String
+    Dialogue.cs.745: "miles below" #!String
+    Dialogue.cs.746: "on a different planet from" #!String
+    Dialogue.cs.747: "in a different century than" #!String
+    Dialogue.cs.748: "Castle Village" #!String
+    Dialogue.cs.749: "Basket Town" #!String
+    Dialogue.cs.750: "Pine Mesa City" #!String
+    Dialogue.cs.751: "Point Drake" #!String
+    Dialogue.cs.752: "Minister Valley" #!String
+    Dialogue.cs.753: "Grampleton" #!String
+    Dialogue.cs.754: "Zuzu City" #!String
+    Dialogue.cs.755: "a small island off the coast" #!String
+    Dialogue.cs.756: "Fort Josa" #!String
+    Dialogue.cs.757: "Chestervale" #!String
+    Dialogue.cs.758: "Fern Islands" #!String
+    Dialogue.cs.759: "Tanker Grove" #!String
+    Dialogue.cs.792: "Hello." #!String
+    Dialogue.cs.793: "baby" #!String
+    Dialogue.cs.794: "the second baby" #!String
+    Dialogue.cs.795: "/crimson" #!String
+    Dialogue.cs.796: "/green" #!String
+    Dialogue.cs.797: "/tan" #!String
+    Dialogue.cs.798: "/purple" #!String
+    Dialogue.cs.799: "/deep blue" #!String
+    Dialogue.cs.800: "/neon pink" #!String
+    Dialogue.cs.801: "/pale/yellow" #!String
+    Dialogue.cs.802: "/chocolate/brown" #!String
+    Dialogue.cs.803: "/sky/blue" #!String
+    Dialogue.cs.804: "/bubblegum/pink" #!String
+    Dialogue.cs.805: "/blood/red" #!String
+    Dialogue.cs.806: "/bright/orange" #!String
+    Dialogue.cs.807: "/aquamarine" #!String
+    Dialogue.cs.808: "/silvery" #!String
+    Dialogue.cs.809: "/glimmering/gold" #!String
+    Dialogue.cs.810: "/rainbow" #!String
+    Event.cs.1014: "Hey man, sorry you had to get caught up in our awkward family stuff...^Hey, sorry you had to get caught up in our awkward family stuff." #!String
+    Event.cs.1016: "I probably shouldn't have said anything...$5" #!String
+    Event.cs.1018: "Maybe I was being a little presumptuous earlier... sorry.$5" #!String
+    Event.cs.1020: "Thanks for helping out in the lab.$h" #!String
+    Event.cs.1022: "I'm so embarrassed... sorry.$s" #!String
+    Event.cs.1025: "That was a beautiful ceremony. Congratulations!$h" #!String
+    Event.cs.1055: "I must have hit my head pretty hard... I've forgotten everything about the last {0} levels of the mine." #!String
+    Event.cs.1057: "Ow..." #!String
+    Event.cs.1058: "I also seem to have lost {0}gp" #!String
+    Event.cs.1060: "It seems I've lost " #!String
+    Event.cs.1061: "an item from my backpack." #!String
+    Event.cs.1062: "{0} items from my backpack." #!String
+    Event.cs.1063: ", and " #!String
+    Event.cs.1068: "Dr. Harvey charged me {0}g for the hospital visit." #!String
+    Event.cs.1070: "I have no money, but Harvey was obligated to save my life free of charge. " #!String
+    Event.cs.1071: "It also appears that I've lost " #!String
+    Event.cs.1159: "Received 1000g " #!String
+    Event.cs.1164: "Received 2000g " #!String
+    Event.cs.1205: "Battered Sword" #!String
+    Event.cs.1206: "A rusty old sword." #!String
+    Event.cs.1209: "You got the Battered Sword! It was sent home to your toolbox." #!String
+    Event.cs.1212: "You got the 'Wand'! It seems like it could be a powerful item, but it's missing something... some kind of energy. It was sent home to your toolbox." #!String
+    Event.cs.1220: "Mushrooms" #!String
+    Event.cs.1222: "Bats" #!String
+    Event.cs.1223: "Which one would you prefer? " #!String
+    Event.cs.1236: "Choose a name" #!String
+    Event.cs.1241: "Will you adopt this " #!String
+    Event.cs.1242: "cat" #!String
+    Event.cs.1243: "dog" #!String
+    Event.cs.1244: "?" #!String
+    Event.cs.1247: "For" #!String
+    Event.cs.1250: "Against" #!String
+    Event.cs.1251: "Do you vote for or against the 3% shipping tax?" #!String
+    Event.cs.1257: "I finished writing my book, and it ended up being a mystery novel! Remember when you told me you were into mystery?$h#$b#Behold, '%book', a thrilling tale of deception and intrigue!$u#$b#I -almost- feel like I should split the profits with you, considering how much help you gave me!$h" #!String
+    Event.cs.1258: "I finished writing my book, and it ended up being a romance novel! ...You told me once that you enjoyed the genre, and, well, I've also been able to draw some inpsiration from real life experiences lately. $l#$b#Here it is, '%book'. It's about a train stewardess who falls in love with a traveling architect... but he's secretly engaged to the ticket collector's daughter!#$b#I *almost* feel like I should split the profits with you, considering how much help you gave me!$h" #!String
+    Event.cs.1259: "I finished writing my book, and it's a sci-fi novel! Remember when you told me you were a fan of sci-fi?$h#$b#Behold, '%book'. It's about a boy who forms a symbiotic partnership with a semi-telepathic lifeform. Together they unravel the dark mysteries of an interstellar cabal.$u#$b#I -almost- feel like I should split the profits with you, considering how much help you gave me!$h" #!String
+    Event.cs.1260: "I finished writing my book! $h#$b#Well, here it is... '%book'. It's about a government land surveyor who visits a tiny, isolated mining community... and discovers some disturbing secrets.$u#$b#I -almost- feel like I should split the profits with you, considering how much help you gave me!$h" #!String
+    Event.cs.1306: "The farm hasn't changed much all that much since we last spoke... but that's okay.#$b#If you're enjoying your new life, that's all that matters to me...#$b#I must return to the other world, now... but feel free to call on me again when you're ready." #!String
+    Event.cs.1307: "You've done a good job improving the place since we last spoke.#$b#It seems you've tried your best... that's all I can ask for. I'm proud of you.#$b#I must return to the other world, now... but feel free to call on me again when you're ready." #!String
+    Event.cs.1308: "You've done well, my boy.^You've done well, my dear.#$b#%farm Farm has never looked better. It's an honor to the family name.#$b#Grandpa is pleased.#$b#I must return to the other world, now... but feel free to call on me again when you're ready." #!String
+    Event.cs.1309: "I'm so proud of you, my boy!^I'm so proud of you, my dear!#$b#You've really turned the place around since we last spoke!#$b#You're a better farmer than I ever was, and you've brought great honor to the family name.#$b#I can feel it now... My spirit is finally put to rest. Bless you." #!String
+    Event.cs.1315: "The farm hasn't changed much in these past few years... but that's okay.#$b#If you're enjoying your new life, that's all that matters to me..." #!String
+    Event.cs.1316: "You've done a good job with the place.#$b#It seems you've tried your best... that's all I can ask for. I'm proud of you." #!String
+    Event.cs.1317: "You've done well, my boy.^You've done well, my dear.#$b#%farm Farm has never looked better. It's an honor to the family name.#$b#Grandpa is pleased." #!String
+    Event.cs.1318: "I'm so proud of you, my boy!^I'm so proud of you, my dear!#$b#You're a better farmer than I ever was, and you've brought great honor to the family name.#$b#I can feel it now... My spirit is finally put to rest. Bless you." #!String
+    Event.cs.1497: "Um, excuse me.#$b#I have a gift for you. I found it last summer when I was playing at the beach. I hope you like it.$h" #!String
+    Event.cs.1498: "I'm glad you moved here, farmer @!$h" #!String
+    Event.cs.1499: "Hey, @. I'm your secret gift-giver this year.#$b#Here, open it.$h" #!String
+    Event.cs.1500: "It's not much, but I hope you like it.$h" #!String
+    Event.cs.1501: "Hi. So, I'm your secret gift-giver this year.#$b#Well? Open it!" #!String
+    Event.cs.1503: "You don't like it, huh? Bah! Kids these days... no appreciation for anything. That was expensive, and I'm not made of money, you know!" #!String
+    Event.cs.1504: "It's nothing fancy, but It's the best I could afford." #!String
+    Event.cs.1514: "Time: {0}" #!String
+    Event.cs.1515: "Eggs: {0}" #!String
+    Event.cs.1521: "$q -1 null#Do you think everyone's ready for the egg hunt yet?#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet." #!String
+    Event.cs.1524: "$q -1 null#Well, should we start the dance now?#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet." #!String
+    Event.cs.1527: "$q -1 null#Should we move forward with the Luau? The governer seems a little hungry.#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet." #!String
+    Event.cs.1531: "$q -1 null#What do you think... should I launch the boat now?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet." #!String
+    Event.cs.1535: "$q -1 null#Oh... are you already finished setting up your grange display?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet." #!String
+    Event.cs.1548: "$q -1 null#Are you ready to participate in the ice fishing competition?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet." #!String
+    Event.cs.1584: "Your grange display has been judged. Return to Mayor Lewis for the result!" #!String
+    Event.cs.1591: "It feels great to be on top! Hah!$h#$e#Nice effort, though." #!String
+    Event.cs.1593: "I can't believe I lost...$s" #!String
+    Event.cs.1595: "Well, I didn't win... but it was still satisfying to share all my hard work!" #!String
+    Event.cs.1597: "Wow, I got a low score. I guess Mayor Lewis isn't much of a fish man. Oh well...$s" #!String
+    Event.cs.1600: "That was some strange-looking purple lettuce in your grange display!$h#$b#I swear, It looked just like Mayor Lewis' special und... $3#$b#Oh!... heh... nevermind!$4" #!String
+    Event.cs.1602: "Well, here goes nothing..." #!String
+    Event.cs.1604: "Hey, good luck." #!String
+    Event.cs.1606: "I don't have high hopes of winning... the fish look nice but they don't exactly smell great...$s" #!String
+    Event.cs.1613: "B... But... I wanted to dance with...$s#$b#Just kidding! Of course I'm dancing with you. I love you.$h" #!String
+    Event.cs.1615: "I accept!$h#$b#*whisper* Thanks for going through with the formalities, dear." #!String
+    Event.cs.1617: "Of course... *whisper* Then can we go home and snuggle?$l" #!String
+    Event.cs.1619: "Finally! I was starting to get worried you wanted to dance with someone else!$h" #!String
+    Event.cs.1621: "*sigh*... My days of being Flower Queen are over... so it's a bittersweet dance for me.$s#$b#But, yes..." #!String
+    Event.cs.1623: "Ugh... do we have to? Alright." #!String
+    Event.cs.1625: "Aw, I gotta put on that dorky suit again? I thought now that we're married... Well, alright.$s" #!String
+    Event.cs.1627: "I've been looking forward to it all afternoon! You look radiant in the fresh spring air, my love.$l" #!String
+    Event.cs.1629: "Yes... could I refuse that soft, kind face? The touch of spring-time's sweet embrace?" #!String
+    Event.cs.1631: "Okay, this should be fun... I hope I can remember the moves this year! It's been a while...$h" #!String
+    Event.cs.1632: "Of course I'll dance with you!$h" #!String
+    Event.cs.1633: "You want to be my partner for the flower dance?#$b#Okay. I look forward to it.$h" #!String
+    Event.cs.1634: "You want to be my partner for the flower dance?#$b#Okay! I'd love to.$h" #!String
+    Event.cs.1635: "I'm sorry... I already have a partner." #!String
+    Event.cs.1645: "Orange" #!String
+    Event.cs.1647: "Green" #!String
+    Event.cs.1650: "I don't want to play" #!String
+    Event.cs.1652: "Step right up! Pick a color and place your bet for a chance to double your wager!" #!String
+    Event.cs.1654: "Buy" #!String
+    Event.cs.1656: "Leave" #!String
+    Event.cs.1659: "Selling Star Tokens for just 50g a piece!" #!String
+    Event.cs.1662: "Play (50g)" #!String
+    Event.cs.1663: "Leave" #!String
+    Event.cs.1666: "Play the slingshot game and win star tokens!" #!String
+    Event.cs.1672: "Trade in your star tokens for prizes?" #!String
+    Event.cs.1675: "Someone else is using that right now." #!String
+    Event.cs.1681: "Try your hand at some fishing? You could win big." #!String
+    Event.cs.1684: "Please stand at the red arrow." #!String
+    Event.cs.1688: "Read my fortune (100g)" #!String
+    Event.cs.1690: "No Thanks" #!String
+    Event.cs.1691: "Ah, yes... my crystal ball is swirling with visions of your future, young one." #!String
+    Event.cs.1694: "I've already read your fortune... go away." #!String
+    Event.cs.1695: "You don't have enough money to pay my fee... What a shame." #!String
+    Event.cs.1714: "Out of Stock." #!String
+    Event.cs.1719: "Select an ingredient to add." #!String
+    Event.cs.1723: "Congratulations! You won 1st place with a rating of {0}!#$b#Your prize is 1000 star tokens! Spend them wisely.$h#$b#Oh, and don't forget to clean out your grange display box." #!String
+    Event.cs.1726: "Hey, not bad! You won 2nd place with a rating of {0}.#$b#Your prize is 500 star tokens! Spend them wisely.$h#$b#Oh, and don't forget to clean out your grange display box." #!String
+    Event.cs.1729: "Hi there, @. It looks like you won 3rd place with a rating of {0}.#$b#Your prize is 200 star tokens! Spend them wisely.$h#$b#Oh, and don't forget to clean out your grange display box." #!String
+    Event.cs.1730: "You!!! Was that some kind of sick prank?! Those are very private!$4#$b#Here, take 750 star tokens and don't tell a soul.$3#$b#Now go clean up your box and bring me my... item... tomorrow.$3" #!String
+    Event.cs.1732: "Hi there, @. You got 4th place with a score of {0}.#$b#Your reward for participating is 50 star tokens. Hey, maybe you'll do better next year.$h#$b#Oh, and don't forget to clean out your grange display box." #!String
+    Event.cs.1736: "$q -1 null#...Yes, dear?#$r -1 0 danceAsk#(Ask {0} to be your dance partner)#$r -1 0 null#Nevermind..." #!String
+    Event.cs.1738: "$q -1 null#...Yes?#$r -1 0 danceAsk#(Ask {0} to be your dance partner)#$r -1 0 null#Nevermind..." #!String
+    Event.cs.1740: "Give {0} his secret gift?" #!String
+    Event.cs.1741: "Give {0} her secret gift?" #!String
+    Event.cs.1758: "Leave the {0}? Once you do, the festival will end." #!String
+    Event.cs.1760: "Maybe for you, but not for me! You're not going to understand...  Just... go away.$7#$b#...Ugh...$7#$b#Wait...$7" #!String
+    Event.cs.1761: "...You're right. Jas... Ugh, God... I'm a horrible, *hic*... selfish person.$7#$b#Now I feel even worse...$7" #!String
+    Event.cs.1763: "Yoba...? @, don't you know I'm an athiest? Ugh... $7" #!String
+    Event.cs.1764: "...$7#$b#Thanks... I appreciate that... I really do.$7" #!String
+    Event.cs.1774: "How many star tokens would you like to buy?" #!String
+    Event.cs.1776: "How many star tokens would you like to wager?" #!String
+    Event.cs.1780: "You don't have enough money." #!String
+    Event.cs.1785: "You've already bought everything in the shop!" #!String
+    Event.cs.1788: "Select a gift for {0}." #!String
+    Event.cs.1794: "Dudley" #!String
+    Event.cs.1795: "Yogi" #!String
+    Event.cs.1796: "Miso" #!String
+    Event.cs.1797: "Snooch" #!String
+    Event.cs.1798: "No? Okay... I'll find a different home for the poor thing.$s" #!String
+    Event.cs.1801: "Oh! So it's you?$h#$b#Ah... an {0}! Thanks." #!String
+    Event.cs.1803: "Not a valid gift." #!String
+    Event.cs.1810: "Ahh... I see you in the saloon, surrounded by friends. It doesn't seem like you have any favorites... you're popular with everyone!" #!String
+    Event.cs.1811: "Ahh... yes. I see you at the beach. There's some kind of event taking place. You walk up to {0} and say something funny... Hmmm... It seems like you two are good friends." #!String
+    Event.cs.1813: "Ahhh... yes. It's {0}'s birthday. " #!String
+    Event.cs.1815: "He thought everyone forgot, but then you show up with a nice gift. What a good friend." #!String
+    Event.cs.1816: "She thought everyone forgot, but then you show up with a nice gift. What a good friend." #!String
+    Event.cs.1818: "Hmm... I see you laying on a cot... It looks like a hospital. {0} is there to keep you company while you recover. What a nice friend." #!String
+    Event.cs.1820: "Ahh... Indeed. I see you in a room, having a conversation with a man." #!String
+    Event.cs.1821: "Ahh... Indeed. I see you in a room, having a conversation with a lady." #!String
+    Event.cs.1823: "..  Oh! It's {0}. You seem to be close friends." #!String
+    Event.cs.1825: "Hmm... I see you sitting in a plush chair by the fire... you're surrounded by luxury, yet filled with lonely desperation." #!String
+    Event.cs.1826: "...Oh? It seems you'll be leaving more than a few heartbroken... Are you playing games with those who put their trust in you? Hmm... " #!String
+    Event.cs.1827: "Now I see you and {0} in a field of grass. You seem happy." #!String
+    Event.cs.1829: "Now I see you and {0} in a dimly lit room. You look serious... but not unhappy. Something important must be happening." #!String
+    Event.cs.1831: "Ooo... It's dark, and I see you and a certain young man. He looks a little bashful, but happy to be with you." #!String
+    Event.cs.1832: "Ooo... It's dark, and I see you and a certain young man. He looks quite hopeful, and eager to spend time with you." #!String
+    Event.cs.1833: "Ooo... It's dark, and I see you and a certain young lady. She looks a little bashful, but happy to be with you." #!String
+    Event.cs.1834: "Ooo... It's dark, and I see you and a certain young lady. She looks quite hopeful, and eager to spend time with you." #!String
+    Event.cs.1837: "Hmmm... now what's this young man's name? ... I believe it starts with an '{0}'." #!String
+    Event.cs.1838: "Hmmm... now what's this young lady's name? ... I believe it starts with an '{0}'." #!String
+    Event.cs.1843: "Interesting... I see you and {0} working together on a farm. You seem very pleased about something." #!String
+    Event.cs.1845: "Now I see you, middle-aged, walking through town at dusk. You pause at a window to see a family having dinner. You hang your head and hurry off into the darkness." #!String
+    Event.cs.1846: "The crystal ball has moved on... Now I see you harvesting a plump, ripe melon. You're on a wonderful looking farm, bursting with life!" #!String
+    Event.cs.1847: "The crystal ball has moved on... I see you somewhere dark... but there you are, inspecting a marvelous gemstone! It's glittering in the light of a small lantern." #!String
+    Event.cs.1848: "The crystal ball has moved on... AH! You're in combat! There's something dreadful bearing down on you from the dark, but you seem more than ready to face it." #!String
+    Event.cs.1849: "The crystal ball has moved on... Now I see you relaxing on the riverbanks, holding a fishing pole. Oh! Looks like something big is on the line!" #!String
+    Event.cs.1850: "The crystal ball has moved on... It's you... in the forest. You spot some rare and delicious mushrooms hidden beneath a clump of grass... what a find!" #!String
+    Event.cs.1851: "The crystal ball has moved on... I see you in a golden room... grinning about something. Oh, I see... You're playing some kind of game and you just can't lose!" #!String
+    Event.cs.1852: "Ah... the crystal ball has gone dim. That's all I can do for you, young one." #!String
+    Event.cs.1853: "Now, just keep in mind that the future isn't set in stone! Whatever I've told you today can still be changed, if you set your heart on it. Farewell." #!String
+    Event.cs.1857: "You added {0} to the soup." #!String
+    Event.cs.1859: "{0} added {1} to the soup. " #!String
+    Event.cs.1862: "Abigail!" #!String
+    Event.cs.1864: "It's a tie between" #!String
+    Event.cs.1865: " and" #!String
+    Event.cs.1871: "Willy, with 5 big, fresh fish!" #!String
+    Event.cs.1872: "{0}, with {1} big, slimy fish!" #!String
+    Farmer.cs.1918: "You received 15 Parsnip Seeds!^^'Here's a little something to get you started.^-Mayor Lewis'" #!String
+    Farmer.cs.1919: "You received {1} {0}!" #!String
+    Farmer.cs.1922: "You received {1} x{0} !" #!String
+    Farmer.cs.1925: "Level Up" #!String
+    Farmer.cs.1927: "You begin {0} ..." #!String
+    Farmer.cs.1930: "...And you succeed!" #!String
+    Farmer.cs.1935: "...but you don't have any space in your toolbox or inventory." #!String
+    Farmer.cs.1936: "...but you have too many things in your backpack." #!String
+    Farmer.cs.1940: "...but you aren't succesful." #!String
+    Farmer.cs.1954: " Artifact" #!String
+    Farmer.cs.1972: "the farm" #!String
+    Farmer.cs.1986: "You feel sluggish from over-exertion." #!String
+    Farmer.cs.1987: "You're starting to feel exhausted." #!String
+    Farmer.cs.1991: "Farming" #!String
+    Farmer.cs.1992: "Mining" #!String
+    Farmer.cs.1993: "Fishing" #!String
+    Farmer.cs.1994: "Foraging" #!String
+    Farmer.cs.1995: "Luck" #!String
+    Farmer.cs.1996: "Combat" #!String
+    Farmer.cs.2003: "{0} Level Up" #!String
+    Farmer.cs.2010: "Nice try..." #!String
+    Farmer.cs.2011: "New Journal Entry" #!String
+    Farmer.cs.2016: "Farm King" #!String
+    Farmer.cs.2017: "Cropmaster" #!String
+    Farmer.cs.2018: "Agriculturist" #!String
+    Farmer.cs.2019: "Farmer" #!String
+    Farmer.cs.2020: "Rancher" #!String
+    Farmer.cs.2021: "Planter" #!String
+    Farmer.cs.2022: "Granger" #!String
+    Farmer.cs.2023: "Farmboy" #!String
+    Farmer.cs.2024: "Farmgirl" #!String
+    Farmer.cs.2025: "Sodbuster" #!String
+    Farmer.cs.2026: "Smallholder" #!String
+    Farmer.cs.2027: "Tiller" #!String
+    Farmer.cs.2028: "Farmhand" #!String
+    Farmer.cs.2029: "Cowpoke" #!String
+    Farmer.cs.2030: "Bumpkin" #!String
+    Farmer.cs.2031: "Greenhorn" #!String
+    Farmer.cs.2032: "Newcomer" #!String
+    Game1.cs.2156: "The Alfalfas" #!String
+    Game1.cs.2157: "Blue Tower" #!String
+    Game1.cs.2574: "Gamepad mode activated" #!String
+    Game1.cs.2575: "Gamepad disconnected" #!String
+    Game1.cs.2592: "Connecting to {0}..." #!String
+    Game1.cs.2594: "Melting Winter Snow..." #!String
+    Game1.cs.2634: "near Marnie's ranch." #!String
+    Game1.cs.2635: "in the forest." #!String
+    Game1.cs.2637: "in the town square." #!String
+    Game1.cs.2639: "at the beach." #!String
+    Game1.cs.2640: "The {0} has begun " #!String
+    Game1.cs.2652: "It's getting late..." #!String
+    Game1.cs.2666: "You've learned a new cooking recipe: " #!String
+    Game1.cs.2677: "You've learned how to craft a new item: " #!String
+    Game1.cs.2694: "Next stop: " #!String
+    Game1.cs.2696: "Calico Desert." #!String
+    Game1.cs.2697: "Stardew Valley." #!String
+    Game1.cs.2716: "X or Left Click - Advance Dialogue" #!String
+    Game1.cs.2719: "X or Left Click - Select" #!String
+    Game1.cs.2720: "C or Right Click - Cancel" #!String
+    Game1.cs.2727: "X or Left Click - Drop Item" #!String
+    Game1.cs.2728: "C or Right Click - Use Item" #!String
+    Game1.cs.2729: "E, F or Mouse Mid. - Store Item" #!String
+    Game1.cs.2730: "Z or Mouse Wheel - Switch Item" #!String
+    Game1.cs.2731: "Q or Enter - Open Menu" #!String
+    Game1.cs.2732: "Shift - Run/Walk" #!String
+    Game1.cs.2733: "X or Left Click - Grab | Use" #!String
+    Game1.cs.2734: "C or Right Click - Use {0}" #!String
+    Game1.cs.2735: "E, F, or Mouse Mid. - Remove Item From Backpack" #!String
+    Game1.cs.2766: "Play Again" #!String
+    Game1.cs.2768: "Leave" #!String
+    Game1.cs.2769: "You have {0} club coins." #!String
+    Game1.cs.2771: "PlaySlots" #!String
+    Game1.cs.2776: "JACKPOT WINNER!!" #!String
+    Game1.cs.2777: " You win {0} Club Coins." #!String
+    Game1.cs.2782: "The wedding was wonderful... wasn't it, dear?$h#$e#Well, we can't forget about the farm... time to get to work." #!String
+    Game1.cs.2898: "I'm not thirsty right now..." #!String
+    Game1.cs.2899: "I'm too full..." #!String
+    Game1.cs.2946: "How much do you want to bet? (You have {0} club coins)." #!String
+    Game1.cs.2949: "Semitones above C3:" #!String
+    Game1.cs.2951: "Drum Sound:" #!String
+    Game1.cs.2953: "Choose song: " #!String
+    Game1.cs.2955: "How many units of fuel do you want to buy?" #!String
+    Game1.cs.2956: "How many would you like?" #!String
+    Game1.cs.2957: "How many would you like to buy?" #!String
+    Game1.cs.2973: "Today's festival is being set up. Come back later." #!String
+    Game1.cs.3042: "Sun" #!String
+    Game1.cs.3043: "Mon" #!String
+    Game1.cs.3044: "Tue" #!String
+    Game1.cs.3045: "Wed" #!String
+    Game1.cs.3046: "Thu" #!String
+    Game1.cs.3047: "Fri" #!String
+    Game1.cs.3048: "Sat" #!String
+    Game1.cs.3051: "Empty the contents of your backpack into the shipping box?" #!String
+    Game1.cs.3053: "Place anything you want to sell in here." #!String
+    Game1.cs.3072: "Thank you!" #!String
+    Game1.cs.3078: "You don't have enough money to buy that." #!String
+    Game1.cs.3090: "Captivated by the intense flavor of the Stardrop, you are powerless as thoughts of '{0}' come flooding in." #!String
+    Game1.cs.3092: "As you swallow the Stardrop, a feeling of great possibility sweeps through your body." #!String
+    Game1.cs.3093: " ^^Your maximum energy level has increased.^" #!String
+    Game1.cs.3094: "Your mind is filled with thoughts of " #!String
+    Game1.cs.3095: "It's strange, but the taste reminds you of " #!String
+    Game1.cs.3097: "You feel an unwavering connection to the valley itself." #!String
+    Game1.cs.3099: "Your mind is filled with thoughts of... ConcernedApe? (Well, thanks!)" #!String
+    Game1.cs.3100: "You found a =stardrop! " #!String
+    Game1.cs.3101: ". ^^Your maximum energy level has increased." #!String
+    Game1.cs.3116: "+{0} Energy" #!String
+    Game1.cs.3118: "+{0} Health" #!String
+    Game1.cs.3159: "Drink {0}?" #!String
+    Game1.cs.3160: "Eat {0}?" #!String
+    Game1.cs.3180: "Nothing happens. Sandy said something about 'infusing it with the power of Yoba'." #!String
+    Game1.cs.3191: " ...Waiting for tile location click..." #!String
+    Game1.cs.3206: "Hello! This is a test" #!String
+    Game1.cs.3209: "using gamepad" #!String
+    Game1.cs.3210: "not using gamepad" #!String
+    Game1.cs.3218: "{0} killed: {1}" #!String
+    Game1.cs.3332: "{0} days played." #!String
+    Game1.cs.3666: "Screenshot mode activated. Press 'F4' to exit." #!String
+    Game1.cs.3685: "Stardew Valley has crashed..." #!String
+    Game1.cs.3686: "Please send the error report or a screenshot of this message to @ConcernedApe. (http://stardewvalley.net/contact/)" #!String
+    Game1.cs.3688: "Loading" #!String
+    Game1.cs.3689: "Loading..." #!String
+    Game1.cs.3747: "Exhausted" #!String
+    Game1.cs.3754: "Dwarf King" #!String
+    Game1.cs.3756: "Mr. Lewis" #!String
+    HUDMessage.cs.3824: "New Achievement: " #!String
+    Item.cs.3829: "Footwear" #!String
+    MoneyMadeScreen.cs.3854: "Total: {0}g" #!String
+    NameSelect.cs.3856: "Band Name: " #!String
+    NameSelect.cs.3860: "Name: " #!String
+    NameSelect.cs.3864: "Done" #!String
+    NPC.cs.3926: "Be patient, I still have a lot of work to do." #!String
+    NPC.cs.3927: "Your house should be ready tomorrow." #!String
+    NPC.cs.3954: "Wrong Person" #!String
+    NPC.cs.3955: "You can't date {0}" #!String
+    NPC.cs.3956: "Umm... I don't think so." #!String
+    NPC.cs.3957: "Is this a joke? I don't get it." #!String
+    NPC.cs.3958: "...I don't really know you well enough...$s" #!String
+    NPC.cs.3959: "Uh... This is awkward. Look, I don't really know you that well...$s" #!String
+    NPC.cs.3960: "Oh? ...Sorry... I'm not ready for that.$s" #!String
+    NPC.cs.3961: "...I didn't know. Uh... Sorry. No.$s" #!String
+    NPC.cs.3962: "...!! I'll accept this. Thank you.$l#$e#I didn't know you felt the same.$l/...!! I'll accept this. Thank you.$l#$e#I didn't know you felt the same.$l" #!String
+    NPC.cs.3963: "...You want to get more serious? I feel the same way.$l#$e#I'm kind of nervous. Aren't you?$l" #!String
+    NPC.cs.3965: "You just got engaged! What are you thinking?$s" #!String
+    NPC.cs.3966: "What? Didn't you just ask someone else to marry you? You're crazy!$s" #!String
+    NPC.cs.3967: "Um, aren't you already married?" #!String
+    NPC.cs.3968: "You're already married, you weirdo!$s" #!String
+    NPC.cs.3969: "{0} doesn't want to marry you right now." #!String
+    NPC.cs.3970: "You're strange.$s" #!String
+    NPC.cs.3971: "Heh. Funny joke." #!String
+    NPC.cs.3972: "Oh!! ... $l #$b#@... I'm sorry, but no. I won't marry you right now.$s" #!String
+    NPC.cs.3973: "!! Er... I'm sorry, I don't feel that way about you...$s" #!String
+    NPC.cs.3974: "Look. I already told you no! Leave me alone.$a" #!String
+    NPC.cs.3975: "You already asked me that. What part of 'NO' don't you understand?!$a" #!String
+    NPC.cs.3980: "...!!! $l#$b#I accept!! $h#$b#...$l#$b#I'll set everything up. We'll have the ceremony in 3 days, okay?$h" #!String
+    NPC.cs.3981: "You've already given {0} a gift today." #!String
+    NPC.cs.3985: "So...I heard you secretly gave {0} a gift today...$s#$e#Do I have to be suspicious of you?$s#$e#...$a" #!String
+    NPC.cs.3987: "You've already given {0} {1} gifts this week! That's enough." #!String
+    NPC.cs.3990: "A human visitor? This is most unusual...#$e#I'm Krobus, merchant of rare and exotic goods." #!String
+    NPC.cs.3996: "Go to sleep for the night?" #!String
+    NPC.cs.4001: "Honey... I wanted to give you that fruit as a symbol of my love.$l" #!String
+    NPC.cs.4018: "Yes." #!String
+    NPC.cs.4020: "That's right. Now step aside, blockhead." #!String
+    NPC.cs.4021: "!!! Is... is that a 'Club Card'?" #!String
+    NPC.cs.4058: "Hi..." #!String
+    NPC.cs.4059: "Hi!" #!String
+    NPC.cs.4060: "Hello." #!String
+    NPC.cs.4061: "Hi." #!String
+    NPC.cs.4062: "Hello!" #!String
+    NPC.cs.4063: "Good morning" #!String
+    NPC.cs.4064: "Good afternoon" #!String
+    NPC.cs.4065: "Good evening" #!String
+    NPC.cs.4066: "{0}!" #!String
+    NPC.cs.4068: "Hi, {0}!" #!String
+    NPC.cs.4071: "Hi, {0}" #!String
+    NPC.cs.4072: "Hi." #!String
+    NPC.cs.4078: "'" #!String
+    NPC.cs.4079: "my {0}" #!String
+    NPC.cs.4080: "my {0}" #!String
+    NPC.cs.4083: "Did you know that {0}" #!String
+    NPC.cs.4084: " loves '{0}'?" #!String
+    NPC.cs.4086: "{0} loves '{1}'! " #!String
+    NPC.cs.4088: "He told me.$h" #!String
+    NPC.cs.4089: "She told me.$h" #!String
+    NPC.cs.4091: "Here's a secret, {0} loves '{1}'." #!String
+    NPC.cs.4094: "If you want {0} to like you, give him '{1}'." #!String
+    NPC.cs.4097: "If you want {0} to like you, give her '{1}'." #!String
+    NPC.cs.4100: "If you want to get on {0}'s good side, give him '{1}'." #!String
+    NPC.cs.4103: "If you want to get on {0}'s good side, give her '{1}'." #!String
+    NPC.cs.4106: "If you want to make friends with {0}, you can't go wrong with '{1}'." #!String
+    NPC.cs.4109: " It's his favorite." #!String
+    NPC.cs.4111: " It's her favorite." #!String
+    NPC.cs.4113: " He loves it." #!String
+    NPC.cs.4114: " He loves that stuff." #!String
+    NPC.cs.4115: " She loves it." #!String
+    NPC.cs.4116: " She loves that stuff." #!String
+    NPC.cs.4118: " I gave it to him one year and he wouldn't stop talking about it." #!String
+    NPC.cs.4120: " I gave it to her one year and she wouldn't stop talking about it." #!String
+    NPC.cs.4125: " It would make a great gift." #!String
+    NPC.cs.4126: " You could really make him happy with that." #!String
+    NPC.cs.4128: " You could really make her happy with that." #!String
+    NPC.cs.4131: "{0} loves '{1}'. She keeps a box of it under her bed. Weird, huh?" #!String
+    NPC.cs.4135: " hates '{0}'? He finds it absolutely {1}." #!String
+    NPC.cs.4138: " hates '{0}'? She finds it absolutely {1}." #!String
+    NPC.cs.4141: "{0} really hates '{1}'! He told me.$h" #!String
+    NPC.cs.4144: "{0} really hates '{1}'! She told me.$h" #!String
+    NPC.cs.4146: "A word of warning. " #!String
+    NPC.cs.4147: "{0} really hates '{1}'." #!String
+    NPC.cs.4149: "If you want {0} to dislike you, give him '{1}'. He hates it with a passion." #!String
+    NPC.cs.4152: "If you want {0} to dislike you, give him '{1}'. He hates that stuff with a passion." #!String
+    NPC.cs.4153: "If you want {0} to dislike you, give her '{1}'. She hates it with a passion." #!String
+    NPC.cs.4154: "If you want {0} to dislike you, give her '{1}'. She hates that stuff with a passion." #!String
+    NPC.cs.4161: "If you want to play a cruel joke on {0}, give him '{1}'. He might not forgive you, though." #!String
+    NPC.cs.4164: "If you want to play a cruel joke on {0}, give her '{1}'. She might not forgive you, though." #!String
+    NPC.cs.4170: " I learned that one the hard way." #!String
+    NPC.cs.4171: " I'm not sure why." #!String
+    NPC.cs.4172: " Just the thought of it can make him depressed." #!String
+    NPC.cs.4174: " Just the thought of it can make her depressed." #!String
+    NPC.cs.4176: " I think he might be allergic." #!String
+    NPC.cs.4178: " I think she might be allergic." #!String
+    NPC.cs.4180: " I guess everyone has their hang-ups." #!String
+    NPC.cs.4182: "{0} hates '{1}'. You don't want to know the details. Trust me." #!String
+    NPC.cs.4192: "...#$e#...#$e#...#$e#It's for members only, kid. Now Scram.#$e#..." #!String
+    NPC.cs.4274: "You remembered my birthday? I'm impressed. Thanks.$h" #!String
+    NPC.cs.4275: "A birthday gift? That's very kind of you! I love it.$h" #!String
+    NPC.cs.4276: "Oh, is it my birthday today? I guess it is. Thanks. This is nice.$h/Oh, is it my birthday today? I guess it is. Thanks. This is nice.$h" #!String
+    NPC.cs.4277: "You remembered my birthday! Thank you. This is great.$h" #!String
+    NPC.cs.4278: "It's my birthday and you give me this? Is this some kind of joke?$s/It's my birthday and you give me this? Is this some kind of joke?$s" #!String
+    NPC.cs.4279: "Oh... It's for my birthday? ... Thanks.$s/Oh... It's for my birthday? ... Thanks.$s" #!String
+    NPC.cs.4280: "For my birthday? Thanks." #!String
+    NPC.cs.4281: "Oh, a birthday gift! Thank you./Oh, a birthday gift! Thank you." #!String
+    NPC.cs.4293: "Ow! I can't believe you would do that to me!$s" #!String
+    NPC.cs.4294: "That hurt! What's your problem?$s" #!String
+    NPC.cs.4406: "I just feel like sleeping today.$a" #!String
+    NPC.cs.4420: "*sigh*...$s" #!String
+    NPC.cs.4421: "I'm bored...$s" #!String
+    NPC.cs.4422: "Sometimes I wonder if I'm doing the right thing with my life...$s" #!String
+    NPC.cs.4423: "Huh? Nothing's wrong... I'm fine.$s" #!String
+    NPC.cs.4424: "I just don't have any energy today.$s" #!String
+    NPC.cs.4425: "Life sure is different since we got married...$s" #!String
+    NPC.cs.4426: "What... you want me to clean? Make you a sandwich? *sigh*...$a" #!String
+    NPC.cs.4427: "*sigh*... my skin looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a" #!String
+    NPC.cs.4429: "*sigh*... my hair looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a" #!String
+    NPC.cs.4431: "...$s#$e#Don't you ever feel trapped?$s" #!String
+    NPC.cs.4432: "*grumble*... chores... $a" #!String
+    NPC.cs.4433: "Don't you have work to do?$a" #!String
+    NPC.cs.4434: "Nghh... what is it? I'm trying to sleep.$a" #!String
+    NPC.cs.4435: "I just don't feel like getting up today.$s" #!String
+    NPC.cs.4436: "*sigh*... I just want to stay in bed.$s" #!String
+    NPC.cs.4437: "Nnnghh... what is it? Make your own breakfast.$a" #!String
+    NPC.cs.4438: "...$a#$e$I had a bad dream, that's all.$s" #!String
+    NPC.cs.4439: "I wonder how much the new baby will change things?$s" #!String
+    NPC.cs.4440: "{0}, I hope our adoption request gets approved. I want a baby.$l" #!String
+    NPC.cs.4441: "{0}, I filed our adoption papers. Now all we can do is cross our fingers and wait.$l" #!String
+    NPC.cs.4442: "Ugh... I feel a little nauseated this morning.$s" #!String
+    NPC.cs.4443: "I'm pregnant... can't you make your own breakfast?$s" #!String
+    NPC.cs.4444: "{0}, we're going to have a baby soon.$l" #!String
+    NPC.cs.4445: "{0}, I'm pregnant. Isn't it wonderful?$l" #!String
+    NPC.cs.4446: "I just feel like sleeping today. Don't worry about it.$a" #!String
+    NPC.cs.4447: "{0}, we're going to have a baby soon.$l" #!String
+    NPC.cs.4448: "{0}, can't you tell? You're pregnant.$l" #!String
+    NPC.cs.4449: "Being a parent is annoying, sometimes...  I just don't feel like getting up.$a" #!String
+    NPC.cs.4452: "I need some alone time... Why don't you take care of the kids for a change?$a" #!String
+    NPC.cs.4455: "I was going to make you breakfast, but I changed my mind.$a" #!String
+    NPC.cs.4462: "I got up early and watered some crops for you. I hope it makes your job a little easier today." #!String
+    NPC.cs.4463: "#$e#I also filled {0}'s water bowl." #!String
+    NPC.cs.4465: "Hi {0}! " #!String
+    NPC.cs.4466: "Good Morning, {0}! " #!String
+    NPC.cs.4470: "I got up early to water some crops and they were already done! You've really got this place under control.$h" #!String
+    NPC.cs.4474: "I got up early and fed all the farm animals. I hope that makes your job a little easier today." #!String
+    NPC.cs.4481: "I spent the morning repairing a few of the fences. They should be as good as new." #!String
+    NPC.cs.4485: "Farm" #!String
+    NPC.cs.4486: "What do you think, {0}? " #!String
+    NPC.cs.4488: "I ordered this the other day and it just arrived." #!String
+    NPC.cs.4489: "I figured the room could use a little more decoration." #!String
+    NPC.cs.4490: "I was going to do some decorating today, but I changed my mind.$a" #!String
+    NPC.cs.4496: "What do you think of the new wallpaper I chose?" #!String
+    NPC.cs.4497: "What do you think of the new flooring I chose?" #!String
+    NPC.cs.4498: "*sigh*... sometimes I miss my old life.$s" #!String
+    NPC.cs.4499: "The weather's too gloomy to get out of bed.$s" #!String
+    NPC.cs.4500: "You could have cleaned up in here a little while I was gone...$a#$e#It's not very nice to have to wade through a bunch of junk after a hard day's work.$a" #!String
+    NPC.cs.4507: "Pookie" #!String
+    NPC.cs.4508: "Love" #!String
+    NPC.cs.4509: "Hot Stuff" #!String
+    NPC.cs.4510: "Cuddlebug" #!String
+    NPC.cs.4511: "Hunky" #!String
+    NPC.cs.4512: "Peach" #!String
+    NPC.cs.4513: "Cutie" #!String
+    NPC.cs.4514: "Ducky" #!String
+    NPC.cs.4515: "Handsome" #!String
+    NPC.cs.4516: "Darling" #!String
+    NPC.cs.4517: "Honey" #!String
+    NPC.cs.4518: "Dear" #!String
+    NPC.cs.4519: "Sweetie" #!String
+    NPC.cs.4522: "Hun" #!String
+    NPC.cs.4523: "Sweetheart" #!String
+    Options.cs.4556: "Auto Run" #!String
+    Options.cs.4557: "Music Volume" #!String
+    Options.cs.4558: "Sound Effects Volume" #!String
+    Options.cs.4559: "Typing Sound" #!String
+    Options.cs.4560: "Fullscreen" #!String
+    Options.cs.4561: "Windowed Borderless" #!String
+    Options.cs.4562: "Resolution" #!String
+    Options.cs.4563: "Zoom Level: " #!String
+    Options.cs.4564: "Windowed" #!String
+    PathFindController.cs.4579: "Ugh... the house is a mess. I can't even get to where I need to go!$a" #!String
+    SaveGame.cs.4690: "Loading..." #!String
+    SaveGame.cs.4696: "Loading (Deserializing)..." #!String
+    SaveGame.cs.4697: "Creating Base World..." #!String
+    SaveGame.cs.4698: "Loading Player..." #!String
+    SaveGame.cs.4699: "Loading Maps..." #!String
+    SaveGame.cs.4700: "Loading Mines..." #!String
+    SaveGame.cs.4701: "Performing Miscellaneous Tasks..." #!String
+    Stats.cs.5129: "Monster Slayer Goal Complete! See Gil for your reward." #!String
+    TemporaryAnimatedSprite.cs.5152: "fuse" #!String
+    TemporaryAnimatedSprite.cs.5153: "explosion" #!String
+    Utility.cs.5229: " he's worked hard on his farm, " #!String
+    Utility.cs.5230: " she's worked hard on her farm, " #!String
+    Utility.cs.5235: " made significant contributions to the field of archaeology, " #!String
+    Utility.cs.5236: "has been a big help around town, " #!String
+    Utility.cs.5237: "has come to be loved by many residents, " #!String
+    Utility.cs.5239: "has become a local fishing legend, " #!String
+    Utility.cs.5240: "has explored the shadowy depths of the local mine, " #!String
+    Utility.cs.5241: " and has earned over {0}g in revenue." #!String
+    Utility.cs.5243: "Credits:" #!String
+    Utility.cs.5244: "Programming," #!String
+    Utility.cs.5245: "Art, Music," #!String
+    Utility.cs.5246: "Sound Effects, Writing:" #!String
+    Utility.cs.5248: "Special Thanks:" #!String
+    Utility.cs.5252: "everyone from HarvestCraft" #!String
+    Utility.cs.5253: "-Trader Joe's Organic Hummus" #!String
+    Utility.cs.5254: "Thanks for playing! :)" #!String
+    Utility.cs.5256: "Welcome, everyone, to the 16th Centennial Stardew Hero Celebration!$h#$b#We've been a long time without a Stardew Hero, and I think we can all agree it's time to bestow this prestigious award on someone new!" #!String
+    Utility.cs.5259: "...The title of Stardew Hero is awarded only to those who've displayed extraordinary commitment to this valley and the people who live here." #!String
+    Utility.cs.5260: "There are many here who've done a lot for this community, but unfortunately there can only be one Stardew Hero.#$b#...And standing before you today are the two top contenders. @ and %rival." #!String
+    Utility.cs.5263: "@ moved here 2 years ago, and in that time {0} #$b#...Those kinds of accomplishments could breathe life into any community!" #!String
+    Utility.cs.5306: "%rival also moved here 2 years ago. In that time he created one of the most productive farms I've ever seen!$h#$b#...And funneled a large sum into my personal bank acc... er, I mean campaign fund!" #!String
+    Utility.cs.5307: "%rival also moved here 2 years ago. In that time she created one of the most productive farms I've ever seen!$h#$b#...And funneled a large sum into my personal bank acc... er, I mean campaign fund!" #!String
+    Utility.cs.5308: "Thank you, Mayor, sir!$h" #!String
+    Utility.cs.5310: "I would like to to say how much of a *blessing* it's been to meet all of you wonderful people! I'm so happy to know how important I am in making this community great.$h#$b#Unfortunately, @ was so jealous of me that he did everything possible to drag me down!$u#$b#But, against all odds, I've single-handedly transformed this valley into a new paradise, and touched your hearts in a way you'll never forget. *sniff*" #!String
+    Utility.cs.5311: "I would like to to say how much of a *blessing* it's been to meet all of you wonderful people! I'm so happy to know how important I am in making this community great.$h#$b#Unfortunately, @ was so jealous of my incredible farm that he did everything possible to drag me down!$u#$b#But, against all odds, I've single-handedly transformed this valley into a new paradise, and touched your hearts in a way you'll never forget. *sniff*" #!String
+    Utility.cs.5312: "I would like to to say how much of a *blessing* it's been to meet all of you wonderful people! I'm so happy to know how important I am in making this community great.$h#$b#Unfortunately, @ was so jealous of me that she did everything possible to drag me down!$u#$b#But, against all odds, I've single-handedly transformed this valley into a new paradise, and touched your hearts in a way you'll never forget. *sniff*" #!String
+    Utility.cs.5313: "I would like to to say how much of a *blessing* it's been to meet all of you wonderful people! I'm so happy to know how important I am in making this community great.$h#$b#Unfortunately, @ was so jealous of my incredible farm that she did everything possible to drag me down!$u#$b#But, against all odds, I've single-handedly transformed this valley into a new paradise, and touched your hearts in a way you'll never forget. *sniff*" #!String
+    Utility.cs.5314: "...Without further ado, ladies and gentleman..." #!String
+    Utility.cs.5315: "The next Stardew Hero will be..." #!String
+    Utility.cs.5316: "...@.$h" #!String
+    Utility.cs.5317: "Congratulations, @! You earned it with a whopping {0} points!$h" #!String
+    Utility.cs.5318: "Way to go, @!$h" #!String
+    Utility.cs.5319: "Good job, buddy!" #!String
+    Utility.cs.5320: "I told you my seeds would get the job done!$h" #!String
+    Utility.cs.5321: "This is the stupidest town I've ever set my foot in!$s" #!String
+    Utility.cs.5322: "{0} was never heard from again..." #!String
+    Utility.cs.5323: "...%rival.$h" #!String
+    Utility.cs.5324: "Well, congratulations %rival... It looks like you outscored @ by {0} points. $h" #!String
+    Utility.cs.5325: "Of course I did. I never considered @ a threat even for a millisecond.$u" #!String
+    Utility.cs.5326: "...Sorry @. You did well, but you didn't accomplish enough to win.$s" #!String
+    Utility.cs.5327: "Don't be sad, @... We still love you.$h" #!String
+    Utility.cs.5328: "Final score: {0}" #!String
+    Utility.cs.5329: "Better luck next time!" #!String
+    Utility.cs.5348: "Congratulations, @! I knew you'd win.$h" #!String
+    Utility.cs.5349: "We all knew you were going to win, @. %rival was kind of a jerk." #!String
+    Utility.cs.5350: "Stardew Hero... I'm impressed!$h" #!String
+    Utility.cs.5351: "It's such a great honor you received, @! But you earned it." #!String
+    Utility.cs.5352: "I'm so glad %rival didn't win." #!String
+    Utility.cs.5353: "You did it, @!" #!String
+    Utility.cs.5356: "Good job, dude.$h" #!String
+    Utility.cs.5357: "Good job, @.$h" #!String
+    Utility.cs.5360: "Hmmph. They'd never give that award to an old timer like me." #!String
+    Utility.cs.5361: "Sorry, @..." #!String
+    Utility.cs.5362: "Maybe in 'another life' you'll win..." #!String
+    Utility.cs.5363: "%rival won? I'm still shocked..." #!String
+    Utility.cs.5364: "Ugh... how in the world did %rival win? That's awful." #!String
+    Utility.cs.5367: "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and %spouse in the bonds of marriage." #!String
+    Utility.cs.5369: "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and %spouse in the bonds of marriage." #!String
+    Utility.cs.5370: "Well, let's get right to it!" #!String
+    Utility.cs.5371: "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and..., well, husband!$h" #!String
+    Utility.cs.5373: "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h" #!String
+    Utility.cs.5375: "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h" #!String
+    Utility.cs.5377: "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and husband!$h" #!String
+    Utility.cs.5379: "You may kiss." #!String
+    Utility.cs.5381: "Life is going to be different from now on..." #!String
+    Utility.cs.5383: "...But the future looks bright!" #!String
+    Utility.cs.5499: "Ron" #!String
+    Utility.cs.5500: "Desmond" #!String
+    Utility.cs.5501: "Gary" #!String
+    Utility.cs.5502: "Bart" #!String
+    Utility.cs.5503: "Willy" #!String
+    Utility.cs.5504: "Tex" #!String
+    Utility.cs.5505: "Chris" #!String
+    Utility.cs.5506: "Lenny" #!String
+    Utility.cs.5507: "Patrick" #!String
+    Utility.cs.5508: "Marty" #!String
+    Utility.cs.5509: "Jared" #!String
+    Utility.cs.5510: "Kyle" #!String
+    Utility.cs.5511: "Mitch" #!String
+    Utility.cs.5512: "Dale" #!String
+    Utility.cs.5513: "Leland" #!String
+    Utility.cs.5514: "Hunt" #!String
+    Utility.cs.5515: "Curtis" #!String
+    Utility.cs.5516: "Leone" #!String
+    Utility.cs.5517: "Andy" #!String
+    Utility.cs.5518: "Steve" #!String
+    Utility.cs.5519: "Frank" #!String
+    Utility.cs.5520: "Zach" #!String
+    Utility.cs.5521: "Bert" #!String
+    Utility.cs.5522: "Lucas" #!String
+    Utility.cs.5523: "Logan" #!String
+    Utility.cs.5524: "Stu" #!String
+    Utility.cs.5525: "Mike" #!String
+    Utility.cs.5526: "Jake" #!String
+    Utility.cs.5527: "Nick" #!String
+    Utility.cs.5528: "Ben" #!String
+    Utility.cs.5529: "Daniel" #!String
+    Utility.cs.5530: "Bubs" #!String
+    Utility.cs.5531: "Jack" #!String
+    Utility.cs.5532: "Susan" #!String
+    Utility.cs.5533: "Danielle" #!String
+    Utility.cs.5534: "Rosie" #!String
+    Utility.cs.5535: "Joanie" #!String
+    Utility.cs.5536: "Emma" #!String
+    Utility.cs.5537: "Kate" #!String
+    Utility.cs.5538: "Pauline" #!String
+    Utility.cs.5539: "Bev" #!String
+    Utility.cs.5540: "Melissa" #!String
+    Utility.cs.5541: "Penny" #!String
+    Utility.cs.5542: "Nancy" #!String
+    Utility.cs.5543: "Betty" #!String
+    Utility.cs.5544: "Minnie" #!String
+    Utility.cs.5545: "Rebecca" #!String
+    Utility.cs.5546: "Holly" #!String
+    Utility.cs.5547: "Ashley" #!String
+    Utility.cs.5548: "Jas" #!String
+    Utility.cs.5549: "Nina" #!String
+    Utility.cs.5550: "Carly" #!String
+    Utility.cs.5551: "Jessica" #!String
+    Utility.cs.5552: "Samantha" #!String
+    Utility.cs.5553: "Amanda" #!String
+    Utility.cs.5554: "Brittany" #!String
+    Utility.cs.5555: "Liz" #!String
+    Utility.cs.5556: "Taylor" #!String
+    Utility.cs.5557: "Megan" #!String
+    Utility.cs.5558: "Hannah" #!String
+    Utility.cs.5559: "Lauren" #!String
+    Utility.cs.5560: "Stephanie" #!String
+    Utility.cs.5561: "Farmer" #!String
+    Utility.cs.5562: "Prospector" #!String
+    Utility.cs.5563: "Fisherman" #!String
+    Utility.cs.5564: "Woodsman" #!String
+    Utility.cs.5565: "Lumberjack" #!String
+    Utility.cs.5566: "Explorer" #!String
+    Utility.cs.5567: "Swordsman" #!String
+    Utility.cs.5568: "Rancher" #!String
+    Utility.cs.5569: "Cowboy" #!String
+    Utility.cs.5570: "Slick" #!String
+    Utility.cs.5571: "'King'" #!String
+    Utility.cs.5572: "Professor" #!String
+    Utility.cs.5573: "Seafarer" #!String
+    Utility.cs.5574: "Sailor" #!String
+    Utility.cs.5575: "Hotshot" #!String
+    Utility.cs.5576: "Hunter" #!String
+    Utility.cs.5577: "Warlock" #!String
+    Utility.cs.5581: "Herbalist" #!String
+    Utility.cs.5582: "Explorer" #!String
+    Utility.cs.5583: "Swordmaiden" #!String
+    Utility.cs.5585: "Cowgirl" #!String
+    Utility.cs.5586: "Sweet" #!String
+    Utility.cs.5587: "Cheerleader" #!String
+    Utility.cs.5588: "Sorceress" #!String
+    Utility.cs.5589: "Floralist" #!String
+    Utility.cs.5590: "Geezer" #!String
+    Utility.cs.5591: "'Daddy'" #!String
+    Utility.cs.5592: "Big" #!String
+    Utility.cs.5593: "Lil'" #!String
+    Utility.cs.5594: "Plumber" #!String
+    Utility.cs.5595: "Great-Grandpa" #!String
+    Utility.cs.5596: "Bubba" #!String
+    Utility.cs.5597: "Doughboy" #!String
+    Utility.cs.5598: "Bag Boy" #!String
+    Utility.cs.5599: "Courtesy Clerk" #!String
+    Utility.cs.5600: "Banker" #!String
+    Utility.cs.5601: "Grocer" #!String
+    Utility.cs.5602: "Golf Pro" #!String
+    Utility.cs.5603: "Pirate" #!String
+    Utility.cs.5604: "Burglar" #!String
+    Utility.cs.5605: "Hamburger" #!String
+    Utility.cs.5606: "Cool Guy" #!String
+    Utility.cs.5607: "Simple" #!String
+    Utility.cs.5608: "Good Guy" #!String
+    Utility.cs.5609: "'Garbage'" #!String
+    Utility.cs.5610: "Math Whiz" #!String
+    Utility.cs.5611: "'Lucky'" #!String
+    Utility.cs.5612: "Middle Aged" #!String
+    Utility.cs.5613: "Software Developer" #!String
+    Utility.cs.5614: "Baker" #!String
+    Utility.cs.5615: "Business Major" #!String
+    Utility.cs.5616: "Pony Master" #!String
+    Utility.cs.5617: "Ol'" #!String
+    Utility.cs.5618: "Granny" #!String
+    Utility.cs.5619: "Old Mother" #!String
+    Utility.cs.5620: "Tiny" #!String
+    Utility.cs.5622: "Scrapbook" #!String
+    Utility.cs.5623: "Log Lady" #!String
+    Utility.cs.5624: "Miss" #!String
+    Utility.cs.5625: "Clever" #!String
+    Utility.cs.5626: "Gossiping" #!String
+    Utility.cs.5627: "Prom Queen" #!String
+    Utility.cs.5628: "Diva" #!String
+    Utility.cs.5629: "Sweet Lil'" #!String
+    Utility.cs.5630: "Blushing" #!String
+    Utility.cs.5631: "Bashful" #!String
+    Utility.cs.5632: "Cat Lady" #!String
+    Utility.cs.5633: "Astronomer" #!String
+    Utility.cs.5634: "Housewife" #!String
+    Utility.cs.5635: "Gardener" #!String
+    Utility.cs.5636: "Computer Whiz" #!String
+    Utility.cs.5637: "Lunch Lady" #!String
+    Utility.cs.5638: "Bumpkin" #!String
+    Utility.cs.5639: "'The Meatloaf'" #!String
+    Utility.cs.5640: "'The Boy Wonder'" #!String
+    Utility.cs.5641: "'The Wiz'" #!String
+    Utility.cs.5642: "'Super Legs'" #!String
+    Utility.cs.5643: "'The Nose'" #!String
+    Utility.cs.5644: "'The Duck'" #!String
+    Utility.cs.5645: "'Spoonface'" #!String
+    Utility.cs.5646: "'The Brain'" #!String
+    Utility.cs.5647: "'The Shark'" #!String
+    Utility.cs.5651: "Farmboy" #!String
+    Utility.cs.5655: "Farmgirl" #!String
+    Utility.cs.5657: " pts." #!String
+    Utility.cs.5677: "First Night" #!String
+    Utility.cs.5678: "Day {0} of {1}, Year {2}" #!String
+    Utility.cs.5680: "Spring" #!String
+    Utility.cs.5681: "Summer" #!String
+    Utility.cs.5682: "Fall" #!String
+    Utility.cs.5683: "Winter" #!String
+    Utility.cs.5718: "Spring (It's A Big World Outside)" #!String
+    Utility.cs.5720: "Spring (The Valley Comes Alive)" #!String
+    Utility.cs.5722: "Spring (Wild Horseradish Jam)" #!String
+    Utility.cs.5724: "Pleasant Memory" #!String
+    Utility.cs.5726: "A Stillness In The Rain Solo" #!String
+    Utility.cs.5728: "A Stillness In The Rain Duet" #!String
+    Utility.cs.5730: "Aerobics Class" #!String
+    Utility.cs.5732: "Winter (Nocturne Of Ice)" #!String
+    Utility.cs.5734: "Winter (The Wind Can Be Still)" #!String
+    Utility.cs.5736: "Winter (Ancient)" #!String
+    Utility.cs.5738: "Mines (A Visitor To The Unknown)" #!String
+    Utility.cs.5740: "Summer (Nature's Crescendo)" #!String
+    Utility.cs.5742: "Summer (The Sun Can Bend An Orange Sky)" #!String
+    Utility.cs.5744: "Summer (Tropicala)" #!String
+    Utility.cs.5746: "Fall (The Smell Of Mushroom)" #!String
+    Utility.cs.5748: "Fall (Ghost Synth)" #!String
+    Utility.cs.5750: "Fall (Raven's Descent)" #!String
+    Utility.cs.5752: "Land Of Green And Gold" #!String
+    Utility.cs.5754: "Winter Festival" #!String
+    Utility.cs.5756: "Mines (Cloth)" #!String
+    Utility.cs.5758: "Cloud Country" #!String
+    Utility.cs.5760: "Mines (The Lava Dwellers)" #!String
+    Utility.cs.5762: "Grandpa's Theme" #!String
+    Utility.cs.5764: "Flower Dance" #!String
+    Utility.cs.5766: "Stardew Valley Fair Theme" #!String
+    Utility.cs.5768: "Pleasant Memory" #!String
+    Utility.cs.5770: "Mines (Marimba Of Frozen Bone)" #!String
+    Utility.cs.5772: "A Glimpse Of The Other World" #!String
+    Utility.cs.5774: "In The Deep Woods" #!String
+    Utility.cs.5776: "Wedding Theme" #!String
+    Utility.cs.5778: "Mines (Danger!)" #!String
+    Utility.cs.5780: "Music Box Song" #!String
+    Utility.cs.5782: "Festival Game" #!String
+    Utility.cs.5784: "Starshoot" #!String
+    Utility.cs.5786: "Pelican Town" #!String
+    Utility.cs.5788: "Spirit's Eve Festival" #!String
+    Utility.cs.5790: "Starwatcher" #!String
+    Utility.cs.5792: "Sam's Band (Electronic)" #!String
+    Utility.cs.5794: "Sam's Band (heavy)" #!String
+    Utility.cs.5796: "Settling In" #!String
+    Utility.cs.5798: "Mines (Star Lumpy)" #!String
+    Utility.cs.5800: "Band Practice" #!String
+    Utility.cs.5802: "The Stardrop Saloon" #!String
+    Utility.cs.5804: "A Dark Corner Of The Past" #!String
+    Utility.cs.5806: "Sam's Band (poppy)" #!String
+    Utility.cs.5808: "Playful" #!String
+    Utility.cs.5810: "Mines (Magical Shoes)" #!String
+    Utility.cs.5812: "Dance Of The Moonlight Jellies" #!String
+    Utility.cs.5814: "Country Shop" #!String
+    Utility.cs.5816: "Marlon's Theme" #!String
+    Utility.cs.5819: "Stardew Valley Overture" #!String
+    Utility.cs.5821: "Load Game Theme" #!String
+    Utility.cs.5823: "Library And Museum" #!String
+    Utility.cs.5825: "A Golden Star Is Born" #!String
+    Utility.cs.5827: "Grapefruit Sky" #!String
+    Utility.cs.5829: "Jaunty" #!String
+    Utility.cs.5831: "Sam's Band (Bluegrass)" #!String
+    Utility.cs.5833: "Violin Solo" #!String
+    Utility.cs.5835: "Fun Festival" #!String
+    Utility.cs.5837: "Luau Festival" #!String
+    Utility.cs.5839: "Piano Solo" #!String
+    Utility.cs.5841: "Echos" #!String
+    Utility.cs.5843: "Distant Banjo" #!String
+    Utility.cs.5845: "A Sad Story" #!String
+    Utility.cs.5847: "Mines (Crystal Bells)" #!String
+    Utility.cs.5849: "Journey Of The Praire King (Overworld)" #!String
+    Utility.cs.5851: "Journey Of The Praire King (Outlaw)" #!String
+    Utility.cs.5853: "Journey Of The Praire King (Undead)" #!String
+    Utility.cs.5855: "Journey Of The Praire King (Boss)" #!String
+    Utility.cs.5857: "Journey Of The Praire King (Ending)" #!String
+    Utility.cs.5859: "Mines (A Flicker In The Deep)" #!String
+    Utility.cs.5861: "Calico Desert" #!String
+    Utility.cs.5863: "Joja Office Ambience" #!String
+    Utility.cs.5864_1: "Pickle Jar Rag" #!String
+    Utility.cs.5864_2: "Buttercup Melody" #!String
+    Utility.cs.5864_3: "Shane's Theme" #!String
+    Utility.cs.5864_4: "Song Of Feathers" #!String
+    Utility.cs.5864_5: "Emily's Dance" #!String
+    Utility.cs.5864_6: "Dreamscape" #!String
+    Utility.cs.5864_7: "Winter Festival" #!String
+    Utility.cs.5864_8: "Music Box Song" #!String
+    Utility.cs.5864_9: "Mutant Bug Ambience" #!String
+    Utility.cs.5865: "Wallpaper applied" #!String
+    Utility.cs.5868: "Flooring applied" #!String
+    Utility.cs.5922: "Chicken" #!String
+    Utility.cs.5926: "Requires construction of a Coop" #!String
+    Utility.cs.5927: "Dairy Cow" #!String
+    Utility.cs.5931: "Requires construction of a Barn" #!String
+    Utility.cs.5933: "Goat" #!String
+    Utility.cs.5936: "Requires construction of a Big Barn" #!String
+    Utility.cs.5937: "Duck" #!String
+    Utility.cs.5940: "Requires construction of a Big Coop" #!String
+    Utility.cs.5942: "Sheep" #!String
+    Utility.cs.5944: "Requires construction of a Deluxe Barn" #!String
+    Utility.cs.5945: "Rabbit" #!String
+    Utility.cs.5947: "Requires construction of a Deluxe Coop" #!String
+    Utility.cs.5948: "Pig" #!String
+    Utility.cs.5950: "Requires construction of a Deluxe Barn" #!String
+    Utility.cs.6018: "Forming Spring Buds..." #!String
+    Utility.cs.6036: "Dehibernating Grass..." #!String
+    Utility.cs.6043: "Spreading Grass..." #!String
+    Utility.cs.6044: "Sunrising..." #!String
+    Utility.cs.6047: "Requesting Fresh Map" #!String
+    Utility.cs.6049: "Received Fresh Map!" #!String
+    Utility.cs.6062: "The pages are too faded to read" #!String
+    MineElevator.cs.6567: "Can only build one per level" #!String
+    MineElevator.cs.6569: "Can't build in a dungeon" #!String
+    Cat.cs.6572: "Cat" #!String
+    Dog.cs.6586: "Dog" #!String
+    Junimo.cs.6625: "Bai!" #!String
+    Junimo.cs.6626: "Gud-Bai!" #!String
+    DiaryEvent.cs.6649: "diary" #!String
+    spring: "spring" #!String
+    winter: "winter" #!String
+    fall: "fall" #!String
+    summer: "summer" #!String
+    DiaryEvent.cs.6658: "I think I'll write in my journal tonight..." #!String
+    DiaryEvent.cs.6660: "I think I'll write in my diary tonight..." #!String
+    DiaryEvent.cs.6664: "I've been spending a lot of time with {0} lately..." #!String
+    DiaryEvent.cs.6667: "...We're becoming good friends. I hope things stay that way." #!String
+    DiaryEvent.cs.6669: "...I like him more than just a friend." #!String
+    DiaryEvent.cs.6670: "...I like her more than just a friend." #!String
+    QuestionEvent.cs.6692: "Choose a name:" #!String
+    Bus.cs.7127: "...No response." #!String
+    Bus.cs.7128: "Kid: 'Sup?" #!String
+    Bus.cs.7129: "Kid: Dude, don't touch my board." #!String
+    Bus.cs.7130: "Occupied" #!String
+    Bus.cs.7131: "Lady: We just got back from the Zuzu City fun park... didn't we Simon?" #!String
+    Bus.cs.7132: "Simon: *babble*... *slurp*" #!String
+    Bus.cs.7133: "Lady: He's shy around strangers." #!String
+    Bus.cs.7134: "Moustached Man: Don't worry, friend. I've got my eyes peeled for the valley." #!String
+    Bus.cs.7135: "It doesn't look too happy in there..." #!String
+    Bus.cs.7136: "Old Lady: You're liable to hurt someone, waltzing around on a moving bus!" #!String
+    Bus.cs.7137: "Old Lady: Ah well, if my knees weren't so stiff I'd probably do the same. Hehee." #!String
+    Bus.cs.7138: "Found 20g under the seat!" #!String
+    Bus.cs.7139: "Girl: Hi! <" #!String
+    Bus.cs.7140: "Man: Get your claws off my bag." #!String
+    Bus.cs.7141: "Man: ...Did you hear me, kid? Scram!" #!String
+    Bus.cs.7142: "Man: What are you, some kind of bum?" #!String
+    Bus.cs.7143: "Man: ...*Sigh*... Kids these days..." #!String
+    Bus.cs.7144: "Man: For the love of Yoba, get your filthy paws off my designer bag!" #!String
+    Bus.cs.7145: "Man: That bag costs more than you'll make in ten years!" #!String
+    Bus.cs.7146: "Man: Arghh!! Take this and leave me alone, you hooligan!" #!String
+    Bus.cs.7147: "Received 1g." #!String
+    Bus.cs.7148: "Man: ..." #!String
+    Bus.cs.7149: "The bus hasn't arrived yet..." #!String
+    Bus.cs.7150: "Driver: Hey, you'd better take a seat." #!String
+    Bus.cs.7152: "Oooo... My feet hurt from all that shopping.$s#$b#Hey. Could you ask the driver how long it'll be until we get to Stardew?" #!String
+    Bus.cs.7154: "...well?$u" #!String
+    Bus.cs.7156: "Driver: Huh? We're almost there. It should only be a few more minutes." #!String
+    Bus.cs.7157: "Sir? Are you still there?$u#$b#Uh-huh... sorry to put you on hold, sir. I had some business to attend to.$h" #!String
+    Bus.cs.7158: "That's right, sir... I'm on the bus right now, heading to Stardew Valley.$h" #!String
+    Bus.cs.7159: "I have to say, so far I've been quite unimpressed with the locals.$h" #!String
+    Bus.cs.7160: "They seem like a docile and unfashionable sort of people.$s#$b#The children look sickly, and all the young men are delinquents from what I've seen so far...$h" #!String
+    Bus.cs.7161: "Although, they are displaying our corporate logo, which you'll be pleased to hear, sir.$h" #!String
+    Bus.cs.7162: "*snort* ... Yes, sir. It definitely won't be a problem to get these country rubes to sign the paperwork...$u#$b#We'll have that new Joja Hypermarket up and running in no time. Then maybe we can discuss that new-$u" #!String
+    Bus.cs.7163: "Moustached Man: Everyone, look!!" #!String
+    Bus.cs.7164: "Moustached Man: There it is! Stardew Valley!" #!String
+    GameLocation.cs.8175: "It's locked." #!String
+    GameLocation.cs.8205: "Material Stockpile: \\n {0} pieces of lumber\\n {1} pieces of stone." #!String
+    GameLocation.cs.8214: "Unop dunyuu doo pusutn snaus^Op hanp o toeday na doo smol^Vhu lonozol yenn huot olait tol" #!String
+    GameLocation.cs.8429: "You don't have any mail." #!String
+    GameLocation.cs.8525: "Come back when Pierre's tending the shop." #!String
+    GameLocation.cs.8708: "Large Pack" #!String
+    GameLocation.cs.8709: "Deluxe Pack" #!String
+    GameLocation.cs.8715: "Error: Not enough money." #!String
+    MineShaft.cs.9484: "A way down has appeared." #!String
+    MineShaft.cs.9578: "You fell {0} levels." #!String
+    MineShaft.cs.9580: "Ouch!" #!String
+    SeedShop.cs.9701: "a fresh" #!String
+    AddNewItemMenu.cs.9921: "Garbage" #!String
+    BlueprintsMenu.cs.10002: "Not Enough Resources" #!String
+    BlueprintsMenu.cs.10011: "Incorrect Building Type" #!String
+    BlueprintsMenu.cs.10012: "Can Only Place Outside On Farm" #!String
+    BlueprintsMenu.cs.10016: "Can't Build There" #!String
+    BlueprintsMenu.cs.10026: "Fullness:" #!String
+    BlueprintsMenu.cs.10027: "Happy:" #!String
+    CataloguePage.cs.10138: "Building Upgrades" #!String
+    CataloguePage.cs.10139: "Animals" #!String
+    CataloguePage.cs.10140: "Demolish Buildings" #!String
+    CataloguePage.cs.10148: "Only the farm owner can demolish." #!String
+    CataloguePage.cs.10149: "Someone's in there!" #!String
+    CataloguePage.cs.10152: "You can't build that in this location." #!String
+    ChatBox.cs.10261: " Invalid Command ::" #!String
+    ChatBox.cs.10262: " Invalid Command Arguments ::" #!String
+    CooperativeMenu.cs.10318: "Join Valley" #!String
+    CooperativeMenu.cs.10319: "Host Valley" #!String
+    CooperativeMenu.cs.10326: "Join a Valley" #!String
+    CooperativeMenu.cs.10327: "Host a Valley" #!String
+    DayTimeMoneyBox.cs.10370: "am" #!String
+    DayTimeMoneyBox.cs.10371: "pm" #!String
+    DayTimeMoneyBox.cs.10378: "Paused" #!String
+    FarmInfoPage.cs.10425: "Avg.<: " #!String
+    FarmInfoPage.cs.10440: "Crops Shipped" #!String
+    FarmInfoPage.cs.10441: "Buildings" #!String
+    FishingGame.cs.10444: "Score: {0}" #!String
+    FishingGame.cs.12010: "Fish Caught: {0}" #!String
+    FishingGame.cs.12011: "{0} Perfection Bonus!" #!String
+    FishingGame.cs.12012: "No Perfection Bonus" #!String
+    FishingGame.cs.12013: "Reward: {0} Star Tokens" #!String
+    FishingGame.cs.12021: "No Reward... Try Harder" #!String
+    JunimoNoteMenu.cs.10783: "Rewards" #!String
+    JunimoNoteMenu.cs.10786: "We    the  Junimo are    happy to    aid  you.  In     return we     ask for gifts   of      the valley.    If you   are one     with    forest   magic    then you    will   see    the true    nature   of  this scroll." #!String
+    LoadGameMenu.cs.10992: "OK" #!String
+    LoadGameMenu.cs.10993: "Cancel" #!String
+    LoadGameMenu.cs.10994: "Delete File" #!String
+    LoadGameMenu.cs.11019: "{0} Farm" #!String
+    LoadGameMenu.cs.11020: "{0}g" #!String
+    LoadGameMenu.cs.11022: "No Saved Games Found" #!String
+    LoadGameMenu.cs.11023: "Really delete file: {0}?" #!String
+    MapPage.cs.11062: "Calico Desert" #!String
+    MapPage.cs.11064: "{0} Farm" #!String
+    MapPage.cs.11065: "Backwoods" #!String
+    MapPage.cs.11066: "Bus Stop" #!String
+    MapPage.cs.11067: "Wizard's Tower" #!String
+    MapPage.cs.11068: "Marnie's Ranch" #!String
+    MapPage.cs.11069: "Open 9:00AM to 4:00PM most days" #!String
+    MapPage.cs.11070: "Leah's Cottage" #!String
+    MapPage.cs.11071: "1 Willow Lane" #!String
+    MapPage.cs.11072: "Home of Jodi, Kent & Sam" #!String
+    MapPage.cs.11073: "2 Willow Lane" #!String
+    MapPage.cs.11074: "Home of Emily & Haley" #!String
+    MapPage.cs.11075: "Town Square" #!String
+    MapPage.cs.11076: "Harvey's Clinic" #!String
+    MapPage.cs.11077: "Open 9:00AM to 3:00PM" #!String
+    MapPage.cs.11078: "Pierre's General Store" #!String
+    MapPage.cs.11079: "Home of Pierre, Caroline & Abigail " #!String
+    MapPage.cs.11080: "Open 9:00AM to 5:00PM (Closed Wednesday)" #!String
+    MapPage.cs.11081: "Blacksmith" #!String
+    MapPage.cs.11082: "Open 9:00AM to 4:00PM" #!String
+    MapPage.cs.11083: "Saloon" #!String
+    MapPage.cs.11084: "Open 12:00PM To 12:00AM" #!String
+    MapPage.cs.11085: "Mayor's Manor" #!String
+    MapPage.cs.11086: "Stardew Valley Museum & Library" #!String
+    MapPage.cs.11087: "Open 8:00AM to 6:00PM" #!String
+    MapPage.cs.11088: "Elliott's Cabin" #!String
+    MapPage.cs.11089: "Sewer" #!String
+    MapPage.cs.11090: "Graveyard" #!String
+    MapPage.cs.11091: "Trailer" #!String
+    MapPage.cs.11092: "1 River Road" #!String
+    MapPage.cs.11093: "Home of George, Evelyn & Alex" #!String
+    MapPage.cs.11094: "Carpenter's Shop" #!String
+    MapPage.cs.11095: "Home of Robin, Demetrius, Sebastian & Maru" #!String
+    MapPage.cs.11096: "Shop open 9:00AM to 5:00PM most days" #!String
+    MapPage.cs.11097: "Tent" #!String
+    MapPage.cs.11098: "Mines" #!String
+    MapPage.cs.11099: "Adventurer's Guild" #!String
+    MapPage.cs.11100: "Open 2:00PM to 10:00PM" #!String
+    MapPage.cs.11103: "Quarry" #!String
+    MapPage.cs.11105: "JojaMart" #!String
+    MapPage.cs.11106: "Open 9:00AM to 11:00PM" #!String
+    MapPage.cs.11107: "Fish Shop" #!String
+    MapPage.cs.11108: "Open 9:00AM to 5:00PM" #!String
+    MapPage.cs.11109: "Railroad" #!String
+    MapPage.cs.11110: "Spa" #!String
+    MapPage.cs.11111: "Open all day" #!String
+    MapPage.cs.11114: "Secret Woods" #!String
+    MapPage.cs.11116: "Ruined House" #!String
+    MapPage.cs.11117: "Community Center" #!String
+    MapPage.cs.11118: "Sewer Pipe" #!String
+    MapPage.cs.11119: "Railroad" #!String
+    MapPage.cs.11122: "Lonely Stone" #!String
+    MapPage.cs.11168: "Elliott's Cabin" #!String
+    MapPage.cs.11172: "Stardrop Saloon" #!String
+    MapPage.cs.11174: "Pelican Beach" #!String
+    MapPage.cs.11176: "Mountains" #!String
+    MapPage.cs.11177: "Mountain Lake" #!String
+    MapPage.cs.11178: "Quarry" #!String
+    MapPage.cs.11179: "Tunnel" #!String
+    MapPage.cs.11180: "BackWoods" #!String
+    MapPage.cs.11186: "Cindersap Forest" #!String
+    MapPage.cs.11188: "W. Pelican Town" #!String
+    MapPage.cs.11190: "Pelican Town" #!String
+    MapPage.cs.11195: "Lonely Stone" #!String
+    MapPage.cs.11059: "OK" #!String
+    OptionsElement.cs.11225: "Press new key..." #!String
+    OptionsElement.cs.11228: "Key already in use. Try again..." #!String
+    OptionsPage.cs.11233: "General:" #!String
+    OptionsPage.cs.11234: "Auto Run" #!String
+    OptionsPage.cs.11235: "Show Portraits" #!String
+    OptionsPage.cs.11236: "Show Merchant Portraits" #!String
+    OptionsPage.cs.11237: "Always Show Tool Hit Location" #!String
+    OptionsPage.cs.11238: "Hide Tool Hit Location When Moving" #!String
+    OptionsPage.cs.11240: "Pause When Game Window Is Inactive" #!String
+    OptionsPage.cs.11241: "Sound:" #!String
+    OptionsPage.cs.11242: "Music Volume" #!String
+    OptionsPage.cs.11243: "Sound Volume" #!String
+    OptionsPage.cs.11244: "Ambient Volume" #!String
+    OptionsPage.cs.11245: "Footstep Volume" #!String
+    OptionsPage.cs.11246: "Dialogue Typing Sound" #!String
+    OptionsPage.cs.11247: "Graphics:" #!String
+    OptionsPage.cs.11248: "Window Mode" #!String
+    OptionsPage.cs.11251: "Resolution" #!String
+    OptionsPage.cs.11252: "Menu Backgrounds" #!String
+    OptionsPage.cs.11253: "Lock Toolbar" #!String
+    OptionsPage.cs.11254: "Zoom Level" #!String
+    OptionsPage.cs.11266: "Zoom Buttons" #!String
+    OptionsPage.cs.11267: "Lighting Quality" #!String
+    OptionsPage.cs.11268: "Low" #!String
+    OptionsPage.cs.11269: "Med." #!String
+    OptionsPage.cs.11270: "High" #!String
+    OptionsPage.cs.11271: "Snow Transparency" #!String
+    OptionsPage.cs.11272: "Show Flash Effects" #!String
+    OptionsPage.cs.11273: "Use Hardware Cursor" #!String
+    OptionsPage.cs.11274: "Controls:" #!String
+    OptionsPage.cs.11276: "Invert Toolbar Scroll Direction" #!String
+    OptionsPage.cs.11277: "Reset Controls To Default" #!String
+    OptionsPage.cs.11278: "Check/Do Action" #!String
+    OptionsPage.cs.11279: "Use Tool" #!String
+    OptionsPage.cs.11280: "Access Menu" #!String
+    OptionsPage.cs.11281: "Access Journal" #!String
+    OptionsPage.cs.11282: "Access Map" #!String
+    OptionsPage.cs.11283: "Move Up" #!String
+    OptionsPage.cs.11284: "Move Left" #!String
+    OptionsPage.cs.11285: "Move Down" #!String
+    OptionsPage.cs.11286: "Move Right" #!String
+    OptionsPage.cs.11287: "Chat Box" #!String
+    OptionsPage.cs.11288: "Run" #!String
+    OptionsPage.cs.11289: "Inventory Slot #1" #!String
+    OptionsPage.cs.11290: "Inventory Slot #2" #!String
+    OptionsPage.cs.11291: "Inventory Slot #3" #!String
+    OptionsPage.cs.11292: "Inventory Slot #4" #!String
+    OptionsPage.cs.11293: "Inventory Slot #5" #!String
+    OptionsPage.cs.11294: "Inventory Slot #6" #!String
+    OptionsPage.cs.11295: "Inventory Slot #7" #!String
+    OptionsPage.cs.11296: "Inventory Slot #8" #!String
+    OptionsPage.cs.11297: "Inventory Slot #9" #!String
+    OptionsPage.cs.11298: "Inventory Slot #10" #!String
+    OptionsPage.cs.11299: "Inventory Slot #11" #!String
+    OptionsPage.cs.11300: "Inventory Slot #12" #!String
+    OptionsPage.cs.11301: "Show Sharper Digits" #!String
+    PurchaseAnimalsMenu.cs.11308: "Name Unavailable" #!String
+    PurchaseAnimalsMenu.cs.11311: "Great! I'll send little {0} to his new home right away." #!String
+    PurchaseAnimalsMenu.cs.11314: "Great! I'll send little {0} to her new home right away." #!String
+    PurchaseAnimalsMenu.cs.11321: "That Building Is Full" #!String
+    PurchaseAnimalsMenu.cs.11324: "Purchased {0}" #!String
+    PurchaseAnimalsMenu.cs.11325: "Not enough money" #!String
+    PurchaseAnimalsMenu.cs.11326: "{0}s Can't Live There." #!String
+    PurchaseAnimalsMenu.cs.11334: "Well cared-for adult chickens lay eggs every day." #!String
+    PurchaseAnimalsMenu.cs.11335: "Lives in the coop." #!String
+    PurchaseAnimalsMenu.cs.11337: "Happy adults lay duck eggs every other day." #!String
+    PurchaseAnimalsMenu.cs.11340: "These are wooly rabbits! They shed precious wool every few days." #!String
+    PurchaseAnimalsMenu.cs.11343: "Adults can be milked daily. A milk pail is required to harvest the milk." #!String
+    PurchaseAnimalsMenu.cs.11344: "Lives in the barn." #!String
+    PurchaseAnimalsMenu.cs.11346: "These pigs are trained to find truffles!" #!String
+    PurchaseAnimalsMenu.cs.11349: "Happy adults provide goat milk every other day. A milk pail is required to harvest the milk." #!String
+    PurchaseAnimalsMenu.cs.11352: "Adults can be shorn for wool. Sheep who form a close bond with their owners can grow wool faster. A pair of shears is required to harvest the wool." #!String
+    PurchaseAnimalsMenu.cs.11354: "Livestock:" #!String
+    PurchaseAnimalsMenu.cs.11355: "Choose a {0} for your new {1}" #!String
+    PurchaseAnimalsMenu.cs.11357: "Name your new animal: " #!String
+    QuestLog.cs.11364: "Cancel Quest" #!String
+    QuestLog.cs.11373: "Journal" #!String
+    QuestLog.cs.11374: "{0} Days" #!String
+    QuestLog.cs.11375: "{0} Day" #!String
+    QuestLog.cs.11376: "Reward:" #!String
+    SaveGameMenu.cs.11378: "Your progress has been saved." #!String
+    SaveGameMenu.cs.11381: "Saving" #!String
+    ShippingMenu.cs.11385: "Done" #!String
+    ShippingMenu.cs.11389: "Farming" #!String
+    ShippingMenu.cs.11390: "Foraging" #!String
+    ShippingMenu.cs.11391: "Fishing" #!String
+    ShippingMenu.cs.11392: "Mining" #!String
+    ShippingMenu.cs.11393: "Other" #!String
+    ShippingMenu.cs.11394: "Total" #!String
+    ShopMenu.cs.11457: "Have a look at my wares." #!String
+    ShopMenu.cs.11460: "Need some construction supplies? Or are you looking to re-decorate?" #!String
+    ShopMenu.cs.11461: "I have a rotating selection of hand-made furniture." #!String
+    ShopMenu.cs.11462: "I've got some great furniture for sale." #!String
+    ShopMenu.cs.11463: "Got any spare construction material to sell?" #!String
+    ShopMenu.cs.11464: "I've got {2} {0} that would look just {1} in your house." #!String
+    ShopMenu.cs.11469: "Too lazy to mine your own ore? No problem." #!String
+    ShopMenu.cs.11470: "I've got lumps of raw metal for sale. Knock yourself out." #!String
+    ShopMenu.cs.11471: "Looking to sell any metals or minerals?" #!String
+    ShopMenu.cs.11474: "I can upgrade your tools with more power. You'll have to leave them with me for a few days, though." #!String
+    ShopMenu.cs.11477: "Need fishing supplies? You've come to the right place." #!String
+    ShopMenu.cs.11478: "Sorry about the smell." #!String
+    ShopMenu.cs.11481: "Need some supplies?" #!String
+    ShopMenu.cs.11482: "Don't forget to check out my daily wallpaper and flooring selection!" #!String
+    ShopMenu.cs.11483: "What can I get for you?" #!String
+    ShopMenu.cs.11484: "I carry only the finest goods." #!String
+    ShopMenu.cs.11485: "I've got quality goods for sale." #!String
+    ShopMenu.cs.11486: "Looking to buy something?" #!String
+    ShopMenu.cs.11487: "Got anything you want to sell?" #!String
+    ShopMenu.cs.11488: "Welcome to Pierre's! " #!String
+    ShopMenu.cs.11489: "The season's almost over. I'll be changing stock tomorrow." #!String
+    ShopMenu.cs.11492: "Buy something?" #!String
+    ShopMenu.cs.11494: "Hiyo, poke. Did you bring coins? Gud. Me sell hats." #!String
+    ShopMenu.cs.11497: "Rare Goods" #!String
+    ShopMenu.cs.11499: "I've got a little bit of everything. Take a look!" #!String
+    ShopMenu.cs.11500: "I smuggled these goods out of the Gotoro Empire. Why do you think they're so expensive?" #!String
+    ShopMenu.cs.11501: "I'll have new items every week, so make sure to come back!" #!String
+    ShopMenu.cs.11502: "Let me see... Oh! I've got just what you need: {0}!" #!String
+    ShopMenu.cs.11504: "Beautiful country you have here. One of my favorite stops. The pig likes it, too." #!String
+    ShopMenu.cs.11507: "Animal supplies for sale!" #!String
+    ShopMenu.cs.11508: "*sigh*... When the door opened I thought it might be Lewis." #!String
+    ShopMenu.cs.11511: "What'll you have?" #!String
+    ShopMenu.cs.11512: "Can you smell that? It's the {0}" #!String
+    ShopMenu.cs.11513: "Hungry? Thirsty? I've got just the thing." #!String
+    ShopMenu.cs.11514: "Welcome to the Stardrop Saloon! What can I get ya?" #!String
+    ShopMenu.cs.11517: "The caves can be dangerous. Make sure you're prepared." #!String
+    ShopMenu.cs.11518: "In the market for a new sword?" #!String
+    ShopMenu.cs.11519: "Welcome to the adventurer's guild." #!String
+    ShopMenu.cs.11520: "Slay any monsters? I'll buy the loot." #!String
+    ShopMenu.cs.11521: "The caves can be dangerous. How do you think I lost this eye?" #!String
+    ShopMenu.cs.11524: "You won't find these goods anywhere else!" #!String
+    ShopMenu.cs.11525: "I've got just what you need." #!String
+    ShopMenu.cs.11583: "Out of stock" #!String
+    SkillsPage.cs.11587: "Dwarvish Translation Guide" #!String
+    SkillsPage.cs.11588: "Rusty Key" #!String
+    SkillsPage.cs.11589: "Club Card" #!String
+    SkillsPage.cs.11590: "Special Charm" #!String
+    SkillsPage.cs.11591: "Skull Key" #!String
+    SkillsPage.cs.11592: "+{0} Hoe Efficiency" #!String
+    SkillsPage.cs.11594: "+{0} Water Can Efficiency" #!String
+    SkillsPage.cs.11596: "+{0} Axe Efficiency" #!String
+    SkillsPage.cs.11598: "+{0} Fishing Rod Efficiency" #!String
+    SkillsPage.cs.11600: "+{0} Pickaxe Efficiency" #!String
+    SkillsPage.cs.11602: "+{0} Health" #!String
+    SkillsPage.cs.11604: "Farming" #!String
+    SkillsPage.cs.11605: "Mining" #!String
+    SkillsPage.cs.11606: "Foraging" #!String
+    SkillsPage.cs.11607: "Fishing" #!String
+    SkillsPage.cs.11608: "Combat" #!String
+    SkillsPage.cs.11609: "Luck" #!String
+    SkillsPage.cs.11610: "Wallet" #!String
+    SocialPage.cs.11635: "(single)" #!String
+    SocialPage.cs.11636: "(husband)" #!String
+    SocialPage.cs.11637: "(wife)" #!String
+    SocialPage.cs.11639: "(boyfriend)" #!String
+    SocialPage.cs.11640: "(girlfriend)" #!String
+    SocialPage.cs.11642: "(ex-husband)" #!String
+    SocialPage.cs.11643: "(ex-wife)" #!String
+    StrengthGame.cs.11660: "HA! Now that's what I like to see! Here, have a star token." #!String
+    StrengthGame.cs.11661: "Mammoth" #!String
+    StrengthGame.cs.11662: "Gorilla" #!String
+    StrengthGame.cs.11663: "Bulldozer" #!String
+    StrengthGame.cs.11664: "Ox" #!String
+    StrengthGame.cs.11665: "Horse" #!String
+    StrengthGame.cs.11666: "Lumberjack" #!String
+    StrengthGame.cs.11667: "Mountain Troll" #!String
+    StrengthGame.cs.11668: "Bodybuilder" #!String
+    StrengthGame.cs.11669: "Iron" #!String
+    StrengthGame.cs.11670: "Tree Trunk" #!String
+    StrengthGame.cs.11671: "Orc" #!String
+    StrengthGame.cs.11672: "Gym Teacher" #!String
+    StrengthGame.cs.11673: "Boulder" #!String
+    StrengthGame.cs.11674: "Angry Hog" #!String
+    StrengthGame.cs.11675: "Small Donkey" #!String
+    StrengthGame.cs.11676: "Sheep Dog" #!String
+    StrengthGame.cs.11677: "Sandstone" #!String
+    StrengthGame.cs.11678: "Scrap Metal" #!String
+    StrengthGame.cs.11679: "Hot Mustard" #!String
+    StrengthGame.cs.11680: "Leather Boot" #!String
+    StrengthGame.cs.11681: "Prairie Dog" #!String
+    StrengthGame.cs.11682: "Hardened Clay" #!String
+    StrengthGame.cs.11683: "Balsa Wood" #!String
+    StrengthGame.cs.11684: "Cardboard" #!String
+    StrengthGame.cs.11685: "Pancake" #!String
+    StrengthGame.cs.11686: "Buttermilk" #!String
+    StrengthGame.cs.11687: "Paper Mache" #!String
+    StrengthGame.cs.11688: "Trout" #!String
+    StrengthGame.cs.11689: "Twig" #!String
+    StrengthGame.cs.11690: "Carrot Stick" #!String
+    StrengthGame.cs.11691: "Mouse" #!String
+    StrengthGame.cs.11692: "George's Knee" #!String
+    StrengthGame.cs.11693: "Baby Duck" #!String
+    StrengthGame.cs.11694: "Soggy Spaghetti" #!String
+    StrengthGame.cs.11695: "Goldfish" #!String
+    StrengthGame.cs.11696: "Shrimp" #!String
+    StrengthGame.cs.11697: "Toothpick" #!String
+    StrengthGame.cs.11698: "Alfredo Sauce" #!String
+    StrengthGame.cs.11699: "Wet Tissue" #!String
+    StrengthGame.cs.11700: "Skim Milk" #!String
+    StrengthGame.cs.11701: "Plankton" #!String
+    StrengthGame.cs.11703: "Strength Level: {0}" #!String
+    StrengthGame.cs.11705: "Wow. Zero strength. I'm actually impressed with how weak you are. Here's a star token." #!String
+    TitleMenu.cs.11717: "Welcome back!" #!String
+    TitleMenu.cs.11718: "Plug in an Xbox One or Xbox 360 controller to activate game pad mode." #!String
+    TitleMenu.cs.11719: "Tip: Giving gifts is a good way to make friends with the residents of Stardew Valley." #!String
+    TitleMenu.cs.11720: "Tip: Shift-click to purchase 5 items at a time." #!String
+    TitleMenu.cs.11721: "After upgrading your hoe or watering can, hold down the tool button to increase the area of effect!" #!String
+    TitleMenu.cs.11722: "Tip: Right-click to use a weapon's special move." #!String
+    TitleMenu.cs.11723: "Watch TV shows to learn useful tips, cooking recipes, and more!" #!String
+    TitleMenu.cs.11724: "The traveling merchant visits Stardew Valley once a week. She sells a wide variety of goods, often at exorbitant prices!" #!String
+    TitleMenu.cs.11725: "Thanks for playing!" #!String
+    TitleMenu.cs.11726: "Elliott's latest sentence:" #!String
+    TitleMenu.cs.11731: "Challenge: Beat Journey Of The Prairie King without dying." #!String
+    TitleMenu.cs.11732: "You've started the game 100 times." #!String
+    TitleMenu.cs.11733: "You've started the game 1000 times!" #!String
+    TitleMenu.cs.11734: "You've started the game 10,000 times! I'm impressed. -Ape" #!String
+    TitleMenu.cs.11735: "New" #!String
+    TitleMenu.cs.11736: "Load" #!String
+    TitleMenu.cs.11737: "Co-op" #!String
+    TitleMenu.cs.11738: "Exit" #!String
+    TitleMenu.cs.11739: "Back" #!String
+    TitleMenu.cs.11740: "About" #!String
+    TitleMenu.cs.11741: "Skip" #!String
+    TitleMenu.cs.11782: "Loading..." #!String
+    TitleScreenMenu.cs.11785: "by ConcernedApe" #!String
+    TitleScreenMenu.cs.11786: "New Game" #!String
+    TitleScreenMenu.cs.11787: "Load Game" #!String
+    TitleScreenMenu.cs.11788: "Co-op" #!String
+    TitleScreenMenu.cs.11789: "Leave Stardew Valley" #!String
+    TutorialMenu.cs.11805: "Crop Basics" #!String
+    TutorialMenu.cs.11807: "Fishing" #!String
+    TutorialMenu.cs.11809: "Mining" #!String
+    TutorialMenu.cs.11811: "Crafting" #!String
+    TutorialMenu.cs.11813: "Construction" #!String
+    TutorialMenu.cs.11815: "Making Friends" #!String
+    TutorialMenu.cs.11817: "Town Information" #!String
+    TutorialMenu.cs.11819: "Raising Animals" #!String
+    WheelSpinGame.cs.11829: "Winner!" #!String
+    WheelSpinGame.cs.11830: "You Lose" #!String
+    AbigailGame.cs.11896: "Here they come!" #!String
+    AbigailGame.cs.11897: "Half-way done!" #!String
+    AbigailGame.cs.11898: "Hey! We did it!" #!String
+    AbigailGame.cs.11901: "Urghh..." #!String
+    AbigailGame.cs.11902: "Nooo!" #!String
+    AbigailGame.cs.11914: "Game Over" #!String
+    AbigailGame.cs.11917: "Restart" #!String
+    AbigailGame.cs.11919: "Quit" #!String
+    CalicoJack.cs.11924: "Hit" #!String
+    CalicoJack.cs.11927: "Stand" #!String
+    CalicoJack.cs.11930: "Double Or Nothing" #!String
+    CalicoJack.cs.11933: "New Game" #!String
+    CalicoJack.cs.11936: "Quit" #!String
+    CalicoJack.cs.11943: "You Win!" #!String
+    CalicoJack.cs.11944: "That's a CalicoJack!" #!String
+    CalicoJack.cs.11946: "You Lose" #!String
+    CalicoJack.cs.11947: "Bust!" #!String
+    CalicoJack.cs.11950: "Dealer busts!" #!String
+    CalicoJack.cs.11951: "Standoff" #!String
+    CalicoJack.cs.11952: "No Winner" #!String
+    CalicoJack.cs.11955: "Closer to {0}" #!String
+    CalicoJack.cs.11958: "Dealer's closer to {0}" #!String
+    CalicoJack.cs.11965: "Result: {0}" #!String
+    CalicoJack.cs.11970: "Dealer: {0}" #!String
+    CalicoJack.cs.11972: "Bet: {0}" #!String
+    FantasyBoardGame.cs.11980: "You finished the Scenario with '{0}' rating." #!String
+    GrandpaStory.cs.12026: "...and for my very special grandson:" #!String
+    GrandpaStory.cs.12028: "...and for my very special granddaughter:" #!String
+    GrandpaStory.cs.12029: "I want you to have this sealed envelope." #!String
+    GrandpaStory.cs.12030: "No, no, don't open it yet... have patience." #!String
+    GrandpaStory.cs.12031: "Now, listen close..." #!String
+    GrandpaStory.cs.12032: "Someday, you might find yourself in a desperate gloom..." #!String
+    GrandpaStory.cs.12033: "...and your spirit will fight to stay awake." #!String
+    GrandpaStory.cs.12034: "There will come a day when you feel crushed by the burden of modern life..." #!String
+    GrandpaStory.cs.12035: "...and your bright spirit will fade before a growing emptiness." #!String
+    GrandpaStory.cs.12036: "When that happens, my boy, you'll be ready for this gift." #!String
+    GrandpaStory.cs.12038: "When that happens, my dear, you'll be ready for this gift." #!String
+    GrandpaStory.cs.12040: "Now, let Grandpa rest..." #!String
+    GrandpaStory.cs.12051: "Dear {0},^^If you're reading this, you must be in dire need of a change.^^The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong.^^^I've enclosed the deed to that place... my pride and joy: {1} Farm. It's located in Stardew Valley, on the southern coast. It's the perfect place to start your new life.^^This was my most precious gift of all, and now it's yours. I know you'll honor the family name, my boy. Good luck.^^Love, Grandpa^^P.S. If Lewis is still alive say hi to the old guy for me, will ya?" #!String
+    GrandpaStory.cs.12055: "Dear {0},^^If you're reading this, you must be in dire need of a change.^^The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong.^^^I've enclosed the deed to that place... my pride and joy: {1} Farm. It's located in Stardew Valley, on the southern coast. It's the perfect place to start your new life.^^This was my most precious gift of all, and now it's yours. I know you'll honor the family name, my dear. Good luck.^^Love, Grandpa^^P.S. If Lewis is still alive say hi to the old guy for me, will ya?" #!String
+    GrandpaStory.cs.12059: "XX Years later" #!String
+    MineCart.cs.12106: "You beat Junimo Kart! " #!String
+    MineCart.cs.12108: "Ow... that hurt." #!String
+    MineCart.cs.12115: "Best: " #!String
+    Slots.cs.12117: "Bet10" #!String
+    Slots.cs.12118: "Bet100" #!String
+    TargetGame.cs.12154: "Acc.: {0}%" #!String
+    TargetGame.cs.12157: "Accuracy: {0}%      {1} / {2} Succesful Shots" #!String
+    TargetGame.cs.12161: "x{0} Accuracy Multiplier!" #!String
+    TargetGame.cs.12163: "No Accuracy Bonus" #!String
+    GoblinPeasant.cs.12264: "Sneak Attack!" #!String
+    Sludge.cs.12435: "Sludge splits in half!" #!String
+    MultiplayerUtility.cs.12478: "{0} changed his name to '{1}'" #!String
+    MultiplayerUtility.cs.12479: "{0} changed her name to '{1}'" #!String
+    MultiplayerUtility.cs.12488: "Your grange display has been judged. Return to Mayor Lewis for the result!" #!String
+    Boots.cs.12500: "Level {0}" #!String
+    Boots.cs.12501: "Footwear" #!String
+    Chest.cs.12531: "Monster in a box!" #!String
+    Furniture.cs.12623: "Can be placed inside your house." #!String
+    Furniture.cs.12628: "Can only be placed in House" #!String
+    Furniture.cs.12629: "Must be placed on wall" #!String
+    Furniture.cs.12632: "Furniture can't be placed here" #!String
+    Furniture.cs.12633: "Can't place on wall" #!String
+    Furniture.cs.12636: "Can't place on top of a person." #!String
+    Object.cs.12657: " (Recipe)" #!String
+    Object.cs.12689: "A male slime has hatched" #!String
+    Object.cs.12691: "A female slime has hatched" #!String
+    Object.cs.12721: "Requires 5 beans." #!String
+    Object.cs.12726: "{0} Juice" #!String
+    Object.cs.12730: "{0} Wine" #!String
+    Object.cs.12735: "Pickled {0}" #!String
+    Object.cs.12739: "{0} Jelly" #!String
+    Object.cs.12750: "Wild" #!String
+    Object.cs.12760: "{0} Honey" #!String
+    Object.cs.12772: "Requires 1 Coal" #!String
+    Object.cs.12777: "Requires 5 ores." #!String
+    Object.cs.12783: "Requires 10 Wood" #!String
+    Object.cs.12787: "Requires 100 Slime" #!String
+    Object.cs.12822: "Clouds gather in the distance..." #!String
+    Object.cs.12847: "Furniture" #!String
+    Object.cs.12849: "Artifact" #!String
+    Object.cs.12850: "Mineral" #!String
+    Object.cs.12851: "Vegetable" #!String
+    Object.cs.12852: "Fish" #!String
+    Object.cs.12853: "Cooking" #!String
+    Object.cs.12854: "Fruit" #!String
+    Object.cs.12855: "Seed" #!String
+    Object.cs.12856: "Fertilizer" #!String
+    Object.cs.12857: "Bait" #!String
+    Object.cs.12858: "Fishing Tackle" #!String
+    Object.cs.12859: "Decor" #!String
+    Object.cs.12860: "Trash" #!String
+    Object.cs.12861: "Cooking" #!String
+    Object.cs.12862: "Artisan Goods" #!String
+    Object.cs.12863: "Crafting" #!String
+    Object.cs.12864: "Animal Product" #!String
+    Object.cs.12866: "Flower" #!String
+    Object.cs.12867: "Monster Loot" #!String
+    Object.cs.12868: "Resource" #!String
+    Object.cs.12869: "Forage" #!String
+    Object.cs.12873: "Progress Mode" #!String
+    Object.cs.12875: "Endless Mode" #!String
+    Object.cs.12926: "I haven't encountered any crows yet." #!String
+    Object.cs.12927: "I've scared off 1 crow." #!String
+    Object.cs.12929: "I've scared off {0} crows." #!String
+    Object.cs.12942: "The hopper is empty. Build a silo and cut grass with your scythe to refill it." #!String
+    Object.cs.12993: "You found an artifact! The curator of the local museum might want to know about this." #!String
+    Object.cs.12994: "You found a 'Lost Book'. The library's collection has expanded!" #!String
+    Object.cs.12995: "You found a 'Geode'! The local blacksmith can break it open for you. Who knows what might be hidden inside?" #!String
+    Object.cs.12996: "You found a peculiar statue behind Grandpa's Shrine." #!String
+    Object.cs.13021: "Invalid Position" #!String
+    Object.cs.13053: "Unsuitable Location" #!String
+    Object.cs.13060: "Too close to another tree" #!String
+    Object.cs.13068: "Can't be planted here." #!String
+    Object.cs.13073: "A recipe to make {0}" #!String
+    Object.cs.13074: "Blueprints for crafting {0}" #!String
+    Object.cs.13078: "Gunther can tell you more about this if you donate it to the museum." #!String
+    SpecialItem.cs.13088: "Skull Key" #!String
+    SpecialItem.cs.13089: "Club Card" #!String
+    SpecialItem.cs.13090: "Under a piece of wood, you found a {0}! You're not sure what it's for, but it seems important. It's been added to your wallet." #!String
+    SpecialItem.cs.13092: "You've found the {0}! You're not sure what it's for, but it seems important. It's been added to your wallet." #!String
+    SpecialItem.cs.13094: "You got the {0}! Your inventory space has increased to {1}." #!String
+    SwitchFloor.cs.13097: "Switch Floor" #!String
+    TV.cs.13105: "Weather Report" #!String
+    TV.cs.13107: "Fortune Teller" #!String
+    TV.cs.13111: "Livin' Off The Land" #!String
+    TV.cs.13114: "The Queen Of Sauce" #!String
+    TV.cs.13117: "The Queen Of Sauce (Re-run)" #!String
+    TV.cs.13118: "(Leave)" #!String
+    TV.cs.13120: "Select channel:" #!String
+    TV.cs.13124: "Welcome to \"Livin' Off The Land\". We're back again with another tip for y'all. Now listen up:" #!String
+    TV.cs.13127: "Greetings! It is I, the queen of sauce... here to teach you a new mouth-watering recipe from my secret cookbook. This week's dish..." #!String
+    TV.cs.13128: "Ah... I sense that a new viewer has joined us. A young man from... Stardew Valley? Welcome, welcome!" #!String
+    TV.cs.13130: "Ah... I sense that a new viewer has joined us. A young lady from... Stardew Valley? Welcome, welcome!" #!String
+    TV.cs.13132: "Ah... yes, I can hear the spirits whispering something to me... " #!String
+    TV.cs.13133: "Welcome back to 'Welwick's Oracle'... If you seek hidden knowledge of the future, well you've come to the right place." #!String
+    TV.cs.13134: "Hoo.. I see a glimmer within my scrying orb... A shard of knowledge from the future!" #!String
+    TV.cs.13135: "Welcome to Welwick's Oracle... the ONLY show where the voice of the spirits is channeled directly... to YOU." #!String
+    TV.cs.13136: "Welcome to KOZU 5... your number one source for weather, news, and entertainment.^And now, the weather forecast for tomorrow..." #!String
+    TV.cs.13137: "...and now, let's turn our attention to Pelican Town and the rest of the southern coast." #!String
+    TV.cs.13138: "...and that's our best prediction for {0}, folks. Now how about Pelican Town?" #!String
+    TV.cs.13140: "...our Stardew Valley weather station is operational and reporting in with tomorrow's data." #!String
+    TV.cs.13141: "I'm Tom Laminar, reporting in from KOZU 5... weather, news, and entertainment. Now, the report from Stardew Valley..." #!String
+    TV.cs.13142: "...You can see a variable pressure front coming down from the north here. Well that can only mean one thing, folks..." #!String
+    TV.cs.13143: "...If you look here, you'll see some tempurature fluctuations of low to moderate severity. Do you know what that means, folks?..." #!String
+    TV.cs.13144: "...To the northeast you can see a dry-line bulge creeping west near calico desert. It's pretty clear to me, folks..." #!String
+    TV.cs.13148: "Just kidding... I'm not ready. I don't have anything for you today." #!String
+    TV.cs.13151: "You already know how to cook {0}." #!String
+    TV.cs.13153: "You learned how to cook '{0}'!" #!String
+    TV.cs.13164: "Um... that's odd. My information sheet just says 'null'. This is embarrassing... " #!String
+    TV.cs.13170: "in Pelican Town" #!String
+    TV.cs.13172: "on the beach" #!String
+    TV.cs.13174: "in the forest" #!String
+    TV.cs.13175: "It's going to be clear and sunny tomorrow... perfect weather for the {0}! The event will take place {1}, starting between {2} and {3}. Don't be late!" #!String
+    TV.cs.13180: "Bundle up, folks. It's going to snow tomorrow!" #!String
+    TV.cs.13181: "Expect a few inches of snow tomorrow." #!String
+    TV.cs.13182: "It's going to be a beautiful, sunny day tomorrow!" #!String
+    TV.cs.13183: "It's going to be clear and sunny all day." #!String
+    TV.cs.13184: "It's going to rain all day tomorrow." #!String
+    TV.cs.13185: "Looks like a storm is approaching. Thunder and lightning is expected." #!String
+    TV.cs.13187: "Partially cloudy with a light breeze. Expect lots of pollen!" #!String
+    TV.cs.13189: "It's going to be cloudy, with gusts of wind throughout the day." #!String
+    TV.cs.13190: "It's going to snow all day. Make sure you bundle up, folks!" #!String
+    TV.cs.13191: "The spirits are furious. Apparently someone tried to give them a worthless offering... Hmm. It's unwise to play jokes on the spirits!" #!String
+    TV.cs.13192: "The spirits are very displeased today. They will do their best to make your life difficult." #!String
+    TV.cs.13193: "The spirits are somewhat annoyed today. Luck will not be on your side." #!String
+    TV.cs.13195: "The spirits are somewhat mildly perturbed today. Luck will not be on your side." #!String
+    TV.cs.13197: "The spirits are joyous! Someone gave them a nice offering today, and they are very pleased." #!String
+    TV.cs.13198: "The spirits are very happy today! They will do their best to shower everyone with good fortune." #!String
+    TV.cs.13199: "The spirits are in good humor today. I think you'll have a little extra luck." #!String
+    TV.cs.13200: "The spirits feel neutral today. The day is in your hands." #!String
+    TV.cs.13201: "This is rare. The spirits feel absolutely neutral today." #!String
+    Wallpaper.cs.13203: "Flooring" #!String
+    Wallpaper.cs.13204: "Wallpaper" #!String
+    Wallpaper.cs.13205: "Decorates the floor of one room." #!String
+    Wallpaper.cs.13206: "Decorates the walls of one room" #!String
+    FishingQuest.cs.13227: "Fishing" #!String
+    FishingQuest.cs.13228: "The local {0} population is starting to threaten other species. If you can fish {1} of them for me, it would be a big help.   -Demetrius" #!String
+    FishingQuest.cs.13231: "Thanks, @!$h#$b#The {0} population was getting out of hand because {1}" #!String
+    FishingQuest.cs.13233: "pollutants in the water accelerated their reprodutive cycle." #!String
+    FishingQuest.cs.13234: "careless fishermen released way too many for a local tournament." #!String
+    FishingQuest.cs.13235: "overfishing of their competitor species allowed them complete access to their favorite food." #!String
+    FishingQuest.cs.13236: "a genetically modified 'super{0}' escaped from a fishery and started multiplying." #!String
+    FishingQuest.cs.13238: "$s#$b#Anyways... here's your reward. It's straight from the Stardew Valley Wildlife Conservation fund!" #!String
+    FishingQuest.cs.13241: "Octopi caught" #!String
+    FishingQuest.cs.13242: "{0} caught" #!String
+    FishingQuest.cs.13243: "{0}/{1} Octopi caught" #!String
+    FishingQuest.cs.13244: "{0}/{1} {2} caught" #!String
+    FishingQuest.cs.13248: "Trying to keep the art o' fishing alive... I'll pay {0}g to any fisherman who catches {1} {2}. Good luck!  -Willy" #!String
+    FishingQuest.cs.13251: "Trying to keep the art o' fishing alive... I'll pay {0}g to any fishing enthusiast who catches {1} {2}. Good luck!  -Willy" #!String
+    FishingQuest.cs.13253: "Squids" #!String
+    FishingQuest.cs.13254: "Squids caught" #!String
+    FishingQuest.cs.13255: "{0}/{1} Squids caught" #!String
+    FishingQuest.cs.13256: "Hey, you suceeded, @!$h#$b#The {0} is an exciting catch, don't you think? " #!String
+    FishingQuest.cs.13258: "They're always hiding in the most peculiar places." #!String
+    FishingQuest.cs.13259: "They're such strong swimmers." #!String
+    FishingQuest.cs.13260: "One time I caught one the size of a {0}" #!String
+    FishingQuest.cs.13261: " small motorcycle!" #!String
+    FishingQuest.cs.13262: " folding chair!" #!String
+    FishingQuest.cs.13263: " lawnmower!" #!String
+    FishingQuest.cs.13264: "n encyclopedia set!" #!String
+    FishingQuest.cs.13265: "n arcade machine!" #!String
+    FishingQuest.cs.13266: " baby cow!" #!String
+    FishingQuest.cs.13267: "Sometimes they seem so smart, it's scary.$u" #!String
+    FishingQuest.cs.13268: "#$b#Well, here's your reward. Congratulations.$h" #!String
+    FishingQuest.cs.13274: "\n \n- {0}g reward." #!String
+    FishingQuest.cs.13275: "\n- You get to keep the fish." #!String
+    FishingQuest.cs.13277: "Talk to {0}" #!String
+    ItemDeliveryQuest.cs.13285: "Delivery" #!String
+    ItemDeliveryQuest.cs.13299: "Looking for" #!String
+    ItemDeliveryQuest.cs.13300: "I'm in the market for" #!String
+    ItemDeliveryQuest.cs.13301: "I could really go for" #!String
+    ItemDeliveryQuest.cs.13302: " a farm-fresh {0}. " #!String
+    ItemDeliveryQuest.cs.13303: " a delicious {0}. " #!String
+    ItemDeliveryQuest.cs.13304: " a ripe {0}. " #!String
+    ItemDeliveryQuest.cs.13306: "Could a local farmer deliver one to me?" #!String
+    ItemDeliveryQuest.cs.13307: "I'll pay you when you bring it." #!String
+    ItemDeliveryQuest.cs.13308: "I would be so happy if someone delivered one to me." #!String
+    ItemDeliveryQuest.cs.13311: "Greetings! Demetrius here. Could someone please bring me {0}?\nI'm studying them as part of my biological research." #!String
+    ItemDeliveryQuest.cs.13314: "Looking to dissect {0}. Please deliver to Demetrius at 24 Mountain Road." #!String
+    ItemDeliveryQuest.cs.13317: "Howdy neighbors! My goats are really hankerin' for {0}. I can't find any myself! Help?     -Marnie" #!String
+    ItemDeliveryQuest.cs.13320: "Howdy neighbors! I want to try giving my cows {0} to increase their milk production. If you find one could you swing it by for me?.     -Marnie" #!String
+    ItemDeliveryQuest.cs.13324: "Feeling gloomy... {0} might cheer me up.     -Sebastian" #!String
+    ItemDeliveryQuest.cs.13327: "...feel like throwing {0} as hard as I can against the mountain face. Please deliver to Sebastian at 24 Mountain Road." #!String
+    ItemDeliveryQuest.cs.13329: "Egg" #!String
+    ItemDeliveryQuest.cs.13330: "jug of Milk" #!String
+    ItemDeliveryQuest.cs.13333: "I am looking for {0} to {1}." #!String
+    ItemDeliveryQuest.cs.13334: "Need {0} to {1}." #!String
+    ItemDeliveryQuest.cs.13336: "serve at my afternoon tea party" #!String
+    ItemDeliveryQuest.cs.13337: "pair with a dry red wine this evening" #!String
+    ItemDeliveryQuest.cs.13338: "enjoy with some fresh bread" #!String
+    ItemDeliveryQuest.cs.13339: "bring to my evening book club" #!String
+    ItemDeliveryQuest.cs.13340: "enjoy after a hard day's work" #!String
+    ItemDeliveryQuest.cs.13341: "eat in front of the TV" #!String
+    ItemDeliveryQuest.cs.13342: "enjoy while reading {0}" #!String
+    ItemDeliveryQuest.cs.13346: "enjoy while listening to my favorite radio program" #!String
+    ItemDeliveryQuest.cs.13347: "listening to the new '{0}' record" #!String
+    ItemDeliveryQuest.cs.13349: "serve for dinner tonight" #!String
+    ItemDeliveryQuest.cs.13350: "freeze in case I need a quick snack" #!String
+    ItemDeliveryQuest.cs.13351: "have for lunch tomorrow" #!String
+    ItemDeliveryQuest.cs.13353: "add some variety to my winter feast" #!String
+    ItemDeliveryQuest.cs.13355: "enjoy as a summer treat" #!String
+    ItemDeliveryQuest.cs.13356: "cheer me up" #!String
+    ItemDeliveryQuest.cs.13357: "serve at breakfast tomorrow" #!String
+    ItemDeliveryQuest.cs.13360: "I woke up thinking about how much I want {0} for dinner.\nCould someone make it for me?" #!String
+    ItemDeliveryQuest.cs.13364: "I have a craving for {0}. Please bring one by for me." #!String
+    ItemDeliveryQuest.cs.13367: "Need {0} for my compost pile. Thanks." #!String
+    ItemDeliveryQuest.cs.13370: "SO hungry. Need {0}." #!String
+    ItemDeliveryQuest.cs.13373: "Stardew Valley Meals Service is looking for a temporary worker on {0} to deliver {1} to {2}. Compensation upon delivery." #!String
+    ItemDeliveryQuest.cs.13378: "Feeling gloomy... {0} might cheer me up.\n     -Sebastian" #!String
+    ItemDeliveryQuest.cs.13381: "...feel like {0} for some reason. Please bring to Sebastian at 24 Mountain Road." #!String
+    ItemDeliveryQuest.cs.13383: "I need {0} for a {1} I'm making. " #!String
+    ItemDeliveryQuest.cs.13385: "soup" #!String
+    ItemDeliveryQuest.cs.13386: "pizza" #!String
+    ItemDeliveryQuest.cs.13387: "salad" #!String
+    ItemDeliveryQuest.cs.13388: "stew" #!String
+    ItemDeliveryQuest.cs.13389: "casserole" #!String
+    ItemDeliveryQuest.cs.13390: "stir-fry" #!String
+    ItemDeliveryQuest.cs.13391: "calzone" #!String
+    ItemDeliveryQuest.cs.13392: "taco" #!String
+    ItemDeliveryQuest.cs.13393: "burrito" #!String
+    ItemDeliveryQuest.cs.13394: "dish" #!String
+    ItemDeliveryQuest.cs.13395: "dessert" #!String
+    ItemDeliveryQuest.cs.13396: "new recipe" #!String
+    ItemDeliveryQuest.cs.13398: "Could someone bring me one?" #!String
+    ItemDeliveryQuest.cs.13400: "I have a craving for {0}. " #!String
+    ItemDeliveryQuest.cs.13402: "Please bring one by for me." #!String
+    ItemDeliveryQuest.cs.13412: "eat in front of the TV" #!String
+    ItemDeliveryQuest.cs.13420: "roast up for dinner tonight" #!String
+    ItemDeliveryQuest.cs.13421: "pickle" #!String
+    ItemDeliveryQuest.cs.13422: "dry for next winter" #!String
+    ItemDeliveryQuest.cs.13424: "put in a hearty winter pie" #!String
+    ItemDeliveryQuest.cs.13426: "grill up for a summer BBQ" #!String
+    ItemDeliveryQuest.cs.13427: "skewer on a shishkebab" #!String
+    ItemDeliveryQuest.cs.13446: "A paste of fresh {0} makes a wonderful tonic for {1}. If you find one, I could put it to good use.       -Dr. Harvey " #!String
+    ItemDeliveryQuest.cs.13448: "swollen tongues" #!String
+    ItemDeliveryQuest.cs.13449: "the common cold" #!String
+    ItemDeliveryQuest.cs.13450: "bed sores" #!String
+    ItemDeliveryQuest.cs.13451: "gout" #!String
+    ItemDeliveryQuest.cs.13452: "halitosis" #!String
+    ItemDeliveryQuest.cs.13453: "hair loss" #!String
+    ItemDeliveryQuest.cs.13454: "acne" #!String
+    ItemDeliveryQuest.cs.13455: "nasal drip" #!String
+    ItemDeliveryQuest.cs.13456: "toothaches" #!String
+    ItemDeliveryQuest.cs.13457: "indigestion" #!String
+    ItemDeliveryQuest.cs.13458: "migraines" #!String
+    ItemDeliveryQuest.cs.13459: "skin rashes" #!String
+    ItemDeliveryQuest.cs.13462: "Hi! I need {0} for a new appetizer I'm thinking about. Drop one off at the saloon and I'll be very grateful.     -Gus" #!String
+    ItemDeliveryQuest.cs.13464: "I'd like to put {0} {1}. Please deliver it some time today." #!String
+    ItemDeliveryQuest.cs.13465: "on my shelf" #!String
+    ItemDeliveryQuest.cs.13466: "above the mantle" #!String
+    ItemDeliveryQuest.cs.13467: "under my pillow" #!String
+    ItemDeliveryQuest.cs.13468: "on a chain" #!String
+    ItemDeliveryQuest.cs.13469: "on my great-grandfather's tombstone" #!String
+    ItemDeliveryQuest.cs.13473: "Hello, it's Emily. I'd like to buy {0} from someone, to craft into some fine jewelry. Thanks!" #!String
+    ItemDeliveryQuest.cs.13476: "Looking for {0} to make into buttons for a dress I'm making. If you find one could you bring it to me?.     -Emily" #!String
+    ItemDeliveryQuest.cs.13480: "{0} is in need of {1}." #!String
+    ItemDeliveryQuest.cs.13481: "Looking for {0}." #!String
+    ItemDeliveryQuest.cs.13482: " Will pay a flat rate on delivery." #!String
+    ItemDeliveryQuest.cs.13483: " Cash payment on delivery." #!String
+    ItemDeliveryQuest.cs.13485: "Could someone bring me {0}?" #!String
+    ItemDeliveryQuest.cs.13487: " I love them." #!String
+    ItemDeliveryQuest.cs.13488: " I can't get enough of them!" #!String
+    ItemDeliveryQuest.cs.13489: " I could use one." #!String
+    ItemDeliveryQuest.cs.13491: "Does anyone have an extra {0}?" #!String
+    ItemDeliveryQuest.cs.13492: "Does anyone have an extra {0} laying around?" #!String
+    ItemDeliveryQuest.cs.13494: "I need {0}, if it's not too inconvenient. " #!String
+    ItemDeliveryQuest.cs.13497: "I'm running low on {0}. If someone could bring me one, it would be much appreciated." #!String
+    ItemDeliveryQuest.cs.13500: "I need {0} to rub on my sore {1}." #!String
+    ItemDeliveryQuest.cs.13502: "knee" #!String
+    ItemDeliveryQuest.cs.13503: "elbow" #!String
+    ItemDeliveryQuest.cs.13504: "back" #!String
+    ItemDeliveryQuest.cs.13505: "head" #!String
+    ItemDeliveryQuest.cs.13506: "nose" #!String
+    ItemDeliveryQuest.cs.13507: "toe" #!String
+    ItemDeliveryQuest.cs.13508: "gums" #!String
+    ItemDeliveryQuest.cs.13509: "ear" #!String
+    ItemDeliveryQuest.cs.13510: "legs" #!String
+    ItemDeliveryQuest.cs.13511: "tooth" #!String
+    ItemDeliveryQuest.cs.13512: "hip" #!String
+    ItemDeliveryQuest.cs.13513: "calves" #!String
+    ItemDeliveryQuest.cs.13514: "Please bring one as soon as you can!" #!String
+    ItemDeliveryQuest.cs.13516: "Please bring one ASAP!!" #!String
+    ItemDeliveryQuest.cs.13518: "{0} would like to hire someone to fetch {1}. You will be paid for your time." #!String
+    ItemDeliveryQuest.cs.13520: "Buying 1 {0} at twice the market value! Please deliver directly to me." #!String
+    ItemDeliveryQuest.cs.13523: "Buying 1 {0} at twice the market value! Please deliver directly into my hands." #!String
+    ItemDeliveryQuest.cs.13526: "Oh!" #!String
+    ItemDeliveryQuest.cs.13527: "Hey!" #!String
+    ItemDeliveryQuest.cs.13528: "Hello {0}!" #!String
+    ItemDeliveryQuest.cs.13530: " Is that the {0} I requested?" #!String
+    ItemDeliveryQuest.cs.13532: " You brought me the item I asked for!" #!String
+    ItemDeliveryQuest.cs.13533: " So you saw the {0} I posted?" #!String
+    ItemDeliveryQuest.cs.13534: "bulletin" #!String
+    ItemDeliveryQuest.cs.13535: "notice" #!String
+    ItemDeliveryQuest.cs.13536: "ad" #!String
+    ItemDeliveryQuest.cs.13538: " Thanks so much!" #!String
+    ItemDeliveryQuest.cs.13539: " I really appreciate it." #!String
+    ItemDeliveryQuest.cs.13540: " It looks perfect." #!String
+    ItemDeliveryQuest.cs.13542: "$h#$b# Here's a little something for your trouble." #!String
+    ItemDeliveryQuest.cs.13543: "$h#$b# Here's your payment, as promised." #!String
+    ItemDeliveryQuest.cs.13544: "$h#$b# ...Let's see. Here's what I owe you." #!String
+    ItemDeliveryQuest.cs.13546: "I require {0} for potion-making. Please deliver directly to my study.     -M. Rasmodius, Wizard" #!String
+    ItemDeliveryQuest.cs.13548: "The Wizard, M. Rasmodius, wishes to study the arcane properties of the {0}. You will be rewarded." #!String
+    ItemDeliveryQuest.cs.13551: "Need {0} for experiment.    -M. Rasmodius, Wizard" #!String
+    ItemDeliveryQuest.cs.13553: "Local wizard in search of a fresh {0}." #!String
+    ItemDeliveryQuest.cs.13555: "Ah, the item I requested.#$b#Your work was satisfactory. Here is your compensation." #!String
+    ItemDeliveryQuest.cs.13557: "I will < you forever if you bring me {0}!     -Haley" #!String
+    ItemDeliveryQuest.cs.13560: "Looking for a handsome young man to bring me {0}.       -Haley" #!String
+    ItemDeliveryQuest.cs.13563: "FOR GIRLS ONLY: psst... I need {0}... you know what it's for. Keep it secret, okay?      -Haley" #!String
+    ItemDeliveryQuest.cs.13566: "Oh! That's exactly what I needed! Heehee! I'm so happy!$h" #!String
+    ItemDeliveryQuest.cs.13568: "Need {0} for a project I'm working on.    -Sam" #!String
+    ItemDeliveryQuest.cs.13571: "Looking for a buddy to bring me {0}.       -Sam" #!String
+    ItemDeliveryQuest.cs.13574: "I would like a cute girl to bring me {0}.  (^_-)      -Sam" #!String
+    ItemDeliveryQuest.cs.13577: "Hey, thanks a million, {0}! I should've known you'd be the one to take this job.$h" #!String
+    ItemDeliveryQuest.cs.13580: "Need {0} for my latest project. Help!    -Maru" #!String
+    ItemDeliveryQuest.cs.13583: "I need {0} to power my latest invention. It's the ONLY thing that will work!       -Maru" #!String
+    ItemDeliveryQuest.cs.13585: "Oh! Perfect! Now I can continue the project I was working on.$h#$b#Thanks a bunch, {0}.$h" #!String
+    ItemDeliveryQuest.cs.13587: "Oh, that's exactly what I need to power my latest invention, {0}!#$b#Thank you!$h" #!String
+    ItemDeliveryQuest.cs.13590: "Bored... could someone bring me {0}?    -Abby" #!String
+    ItemDeliveryQuest.cs.13593: "I want to pull a prank on my Dad. I'll need {0}. Keep it secret :)      -Abigail" #!String
+    ItemDeliveryQuest.cs.13597: "Hmm... this isn't as exciting as I thought it would be...$s#$b#But that's not your fault! Haha. Thanks for responding to my bulletin, {0}.$h" #!String
+    ItemDeliveryQuest.cs.13599: "Heh heh... perfect. Here's your reward, {0}. Don't say a word to my Dad. $h" #!String
+    ItemDeliveryQuest.cs.13602: "Hey, thanks for the help. This is just what I wanted.$h" #!String
+    ItemDeliveryQuest.cs.13604: "Ah, the {0} I requested! And it's a beautiful one, too. Thank you very much, {1}" #!String
+    ItemDeliveryQuest.cs.13607: "\n \n- {0}g on delivery." #!String
+    ItemDeliveryQuest.cs.13608: "\n- Makes {0} happy" #!String
+    ItemDeliveryQuest.cs.13610: "\n- {0} will be thankful" #!String
+    ItemDeliveryQuest.cs.13612: "\n- {0} will be pleased" #!String
+    ItemDeliveryQuest.cs.13614: "Bring {0} {1}." #!String
+    ItemDeliveryQuest.cs.13615: "That's not enough... I need {0} of them." #!String
+    ItemDeliveryQuest.cs.13620: "\n                                - {0}\n" #!String
+    Quest.cs.13636: "Journal Updated" #!String
+    ResourceCollectionQuest.cs.13640: "Gathering" #!String
+    ResourceCollectionQuest.cs.13647: "I am looking for someone to bring me {0} {1}s {2}    -Clint" #!String
+    ResourceCollectionQuest.cs.13649: ", to aid in the understanding of local minerals." #!String
+    ResourceCollectionQuest.cs.13650: ", for inspection." #!String
+    ResourceCollectionQuest.cs.13651: ", as part of a local geological survey." #!String
+    ResourceCollectionQuest.cs.13652: ", to see if any rare gems are hidden inside." #!String
+    ResourceCollectionQuest.cs.13655: "You brought the ores I requested. " #!String
+    ResourceCollectionQuest.cs.13656: "Excellent." #!String
+    ResourceCollectionQuest.cs.13657: "Thank you." #!String
+    ResourceCollectionQuest.cs.13658: "Great." #!String
+    ResourceCollectionQuest.cs.13659: "#$b#Hmm... It seems these ores don't have any rare gems hidden inside. That's okay.#$b#Here's your ores back, and your payment... as promised." #!String
+    ResourceCollectionQuest.cs.13662: "You brought the ores I requested! " #!String
+    ResourceCollectionQuest.cs.13667: "#$b#I like to inspect local ores from time to time, to keep track of quality and abundance.#$b#Let me just take a look at these... Hmm... I see.#$b#Thank you. You can keep these ores. They're of {0} quality." #!String
+    ResourceCollectionQuest.cs.13668: "excellent" #!String
+    ResourceCollectionQuest.cs.13669: "decent" #!String
+    ResourceCollectionQuest.cs.13670: "good" #!String
+    ResourceCollectionQuest.cs.13672: "#$b#These ores look to be of good quality... You can keep them, of course. I just wanted to see how the local geology is doing." #!String
+    ResourceCollectionQuest.cs.13673: "#$b#...And here's your payment, as promised." #!String
+    ResourceCollectionQuest.cs.13674: "Hello! It's Robin. Could someone bring me {0} pieces of {1}? They need to be fresh... that means gathered today. Thanks!" #!String
+    ResourceCollectionQuest.cs.13677: "Hey, looks like you got the {0} I asked for. " #!String
+    ResourceCollectionQuest.cs.13678: "lumber" #!String
+    ResourceCollectionQuest.cs.13679: "stone" #!String
+    ResourceCollectionQuest.cs.13681: "Wonderful!$h" #!String
+    ResourceCollectionQuest.cs.13682: "That's a big help... thanks!$h" #!String
+    ResourceCollectionQuest.cs.13683: "Thank you!$h" #!String
+    ResourceCollectionQuest.cs.13688: "\n- You can keep the ores after Clint inspects them." #!String
+    ResourceCollectionQuest.cs.13691: "{0}/{1} {2} collected" #!String
+    SlayMonsterQuest.cs.13696: "Slay Monsters" #!String
+    SlayMonsterQuest.cs.13711: "The monsters known as 'Duggies' are making a mess of the local mine! The holes they create could weaken the structural integrity of the mines. Could someone defeat {0} of these creatures?" #!String
+    SlayMonsterQuest.cs.13723: "Wanted: Slime hunter to slay {0} {1}" #!String
+    SlayMonsterQuest.cs.13725: "Frost Jellies in the frozen depths of the mine." #!String
+    SlayMonsterQuest.cs.13727: "Red Slimes in the deep lava caverns of the local mine." #!String
+    SlayMonsterQuest.cs.13728: "Green Slimes in the local mine." #!String
+    SlayMonsterQuest.cs.13730: "Ah, @! So you helped us with our slime problem? Thank you!$h#$b#I hope you didn't go through too much trouble..." #!String
+    SlayMonsterQuest.cs.13731: " I know it can be really hard to get that sticky slime out your clothes.#$b# I've definitely ruined a few good pairs of pants trying to catch those little " #!String
+    SlayMonsterQuest.cs.13732: "squirmers. " #!String
+    SlayMonsterQuest.cs.13733: "wigglers. " #!String
+    SlayMonsterQuest.cs.13734: "I can remember {0} after I got {1} slime all over my brand new {2} pants... $h#$b# Well, anyways... enjoy your reward." #!String
+    SlayMonsterQuest.cs.13735: "Mama throwing a fit" #!String
+    SlayMonsterQuest.cs.13736: "Papa going into a rage" #!String
+    SlayMonsterQuest.cs.13740: "dress" #!String
+    SlayMonsterQuest.cs.13741: "silk" #!String
+    SlayMonsterQuest.cs.13742: "twill" #!String
+    SlayMonsterQuest.cs.13744: "Those slimes can be pretty dangerous in groups.#$b#It should be a little easier to go spelunking now, thanks to your efforts. Enjoy your reward!" #!String
+    SlayMonsterQuest.cs.13747: "An invasive crab species is living in the local mine, threating the native wildlife! These creatures are known for disguising themselves as stones. I'll pay someone to slay {0} of them.  -Demetrius" #!String
+    SlayMonsterQuest.cs.13750: "Hey, I see you culled the {0} population a bit. They've been multiplying quicker than normal due to human activity in the caves, so I'm hoping our efforts prevent them from threatening any other species.#$b#The local wildlife thanks you for what you did today, @. Enjoy your reward.$h" #!String
+    SlayMonsterQuest.cs.13752: "The monsters known as {0} are throwing the elemental balance into disarray. I would like an adventurer to enter the mines and slay {1} of these {2}.  -M. Rasmodius, Wizard" #!String
+    SlayMonsterQuest.cs.13755: "beasts" #!String
+    SlayMonsterQuest.cs.13756: "fiends" #!String
+    SlayMonsterQuest.cs.13757: "creatures" #!String
+    SlayMonsterQuest.cs.13760: "The elementals are pleased with the job you did. Here's your payment, as promised." #!String
+    SlayMonsterQuest.cs.13764: "Wanted: Monster hunter to slay {0} {1}s in the local mines." #!String
+    SlayMonsterQuest.cs.13767: "Ah, @! So you helped us with our monster problem? Thank you!$h#$b#I hope you didn't go through too much trouble..." #!String
+    SlayMonsterQuest.cs.13770: "{0}/{1} {2} defeated" #!String
+    SlayMonsterQuest.cs.13772: "Frost Jellies" #!String
+    SocializeQuest.cs.13785: "Saying 'Hello'" #!String
+    SocializeQuest.cs.13786: "Hey! Will someone say 'Hi' to everyone in town for me? I want to spread a message of {0} today!   -Emily" #!String
+    SocializeQuest.cs.13787: "pure joy" #!String
+    SocializeQuest.cs.13788: "peace & goodwill" #!String
+    SocializeQuest.cs.13789: "community spirit" #!String
+    SocializeQuest.cs.13791: "\n \n- Everyone will like you a little more" #!String
+    SocializeQuest.cs.13802: "{0}/{1} people greeted" #!String
+    WeedingQuest.cs.13816: "Hiring someone to weed the entire town. Once all the weeds are gone, report to the Mayor for payment. Thanks!" #!String
+    WeedingQuest.cs.13817: "\n \n- 300g reward" #!String
+    WeedingQuest.cs.13819: "You did a great job, @! Thank you so much.$h#$b#I think everyone will be happy once they see how great the town looks!#$b#Here's your payment." #!String
+    WeedingQuest.cs.13824: "Talk to Mr. Lewis" #!String
+    WeedingQuest.cs.13826: "{0}/{1} town weeds removed" #!String
+    HoeDirt.cs.13915: "Requires Scythe" #!String
+    HoeDirt.cs.13916: "Must be added before planting" #!String
+    HoeDirt.cs.13919: "Must be planted on farm." #!String
+    HoeDirt.cs.13924: "Out of season." #!String
+    HoeDirt.cs.13925: "Can't plant here." #!String
+    HoeDirt.cs.13928: "Greenhouse" #!String
+    ResourceClump.cs.13945: "Your axe isn't strong enough to break this stump." #!String
+    ResourceClump.cs.13948: "Your axe isn't strong enough to break this log." #!String
+    ResourceClump.cs.13952: "Your pickaxe isn't strong enough to break this." #!String
+    ResourceClump.cs.13956: "Your pickaxe isn't strong enough to break this boulder." #!String
+    ResourceClump.cs.13962: "Looks like you'll need an upgraded axe to destroy this gnarled old log." #!String
+    ResourceClump.cs.13963: "Looks like you'll need an upgraded pickaxe to destroy this dense stone." #!String
+    ResourceClump.cs.13964: "It looks pretty solid... maybe a very strong pickaxe could break it?" #!String
+    Axe.cs.1: "Axe" #!String
+    Axe.cs.14019: "Used to chop wood." #!String
+    Axe.cs.14023: "You're only allowed to chop trees on your farm... It's a town rule." #!String
+    Blueprints.cs.14039: "Farmer's Catalogue" #!String
+    Blueprints.cs.14040: "Use this to purchase buildings, animals, and more!" #!String
+    FishingRod.cs.14041: "Fishing Rod" #!String
+    FishingRod.cs.14042: "Use in the water to catch fish." #!String
+    FishingRod.cs.14044: "Use in the water to catch fish." #!String
+    FishingRod.cs.14045: "Bamboo Pole" #!String
+    FishingRod.cs.14046: "Yew Rod" #!String
+    FishingRod.cs.14047: "Fiberglass Rod" #!String
+    FishingRod.cs.14048: "Iridium Rod" #!String
+    FishingRod.cs.14068: "You've caught one of the legendary fish." #!String
+    FishingRod.cs.14069: "New Record!" #!String
+    FishingRod.cs.14082: "Length:" #!String
+    FishingRod.cs.14083: "{0} in." #!String
+    FishingRod.cs.14085: "You've used your last piece of bait." #!String
+    FishingRod.cs.14086: "Your fishing tackle has worn out." #!String
+    FishingRod.cs.14100: "You found a lost book. The library has been expanded." #!String
+    Hoe.cs.14101: "Hoe" #!String
+    Hoe.cs.14102: "Used to dig and till soil." #!String
+    Lantern.cs.14114: "Lantern" #!String
+    Lantern.cs.14115: "Lights up dark places." #!String
+    MagicMap.cs.14117: "Magic Map" #!String
+    MagicMap.cs.14118: "Siphons energy from deep within the earth." #!String
+    MagnifyingGlass.cs.14119: "Magnifying Glass" #!String
+    MagnifyingGlass.cs.14120: "Use this on your animals to see how they're doing." #!String
+    MeleeWeapon.cs.14122: "The prismatic shard changes shape before your very eyes! This power is tremendous.^^     You've found the =Galaxy Sword=  ^" #!String
+    MeleeWeapon.cs.14132: "{0} - {1} Damage" #!String
+    MeleeWeapon.cs.14134: "{0}{1} Speed" #!String
+    MeleeWeapon.cs.14136: "+{0} Reach" #!String
+    MeleeWeapon.cs.14138: "+{0} Accuracy" #!String
+    MeleeWeapon.cs.14140: "+{0} Defense" #!String
+    MeleeWeapon.cs.14142: "+{0} Crit. Chance" #!String
+    MeleeWeapon.cs.14144: "+{0} Crit. Power" #!String
+    MeleeWeapon.cs.14146: "{0}{1} Knockback" #!String
+    MilkPail.cs.14167: "Milk Pail" #!String
+    MilkPail.cs.14168: "Gather milk from your animals." #!String
+    MilkPail.cs.14171: "{0} Required" #!String
+    MilkPail.cs.14175: "{0} doesn't produce milk." #!String
+    MilkPail.cs.14176: "{0} is too young to produce milk." #!String
+    MilkPail.cs.14177: "{0} has no milk right now." #!String
+    Pan.cs.14180: "Copper Pan" #!String
+    Pan.cs.14181: "Use to gather ore from streams." #!String
+    Pickaxe.cs.14184: "Pickaxe" #!String
+    Pickaxe.cs.14185: "Used to break stones." #!String
+    Pickaxe.cs.14194: "Your pickaxe isn't strong enough to break this yet." #!String
+    Raft.cs.14204: "Raft" #!String
+    Raft.cs.14205: "Not suitable for ocean use." #!String
+    Seeds.cs.14209: "Seeds" #!String
+    Seeds.cs.14210: "Plant these in tilled soil and water daily." #!String
+    Seeds.cs.14212: "Parsnip" #!String
+    Seeds.cs.14213: "Green Bean" #!String
+    Seeds.cs.14214: "Cauliflower" #!String
+    Seeds.cs.14215: "Potato" #!String
+    Seeds.cs.14216: "Garlic" #!String
+    Seeds.cs.14217: "Kale" #!String
+    Seeds.cs.14218: "Rhubarb" #!String
+    Seeds.cs.14219: "Melon" #!String
+    Seeds.cs.14220: "Tomato" #!String
+    Seeds.cs.14221: "Blueberry" #!String
+    Seeds.cs.14222: "Yellow Pepper" #!String
+    Seeds.cs.14223: "Wheat" #!String
+    Seeds.cs.14224: "Radish" #!String
+    Seeds.cs.14225: "Red Cabbage" #!String
+    Seeds.cs.14226: "Starfruit" #!String
+    Seeds.cs.14227: "Corn" #!String
+    Seeds.cs.14228: "Eggplant" #!String
+    Seeds.cs.14229: "Artichoke" #!String
+    Seeds.cs.14230: "Pumpkin" #!String
+    Seeds.cs.14231: "Bok Choy" #!String
+    Seeds.cs.14232: "Yam" #!String
+    Seeds.cs.14233: "Cranberries" #!String
+    Seeds.cs.14234: "Beet" #!String
+    Seeds.cs.14235: "Spring Mix" #!String
+    Seeds.cs.14236: "Summer Mix" #!String
+    Seeds.cs.14237: "Fall Mix" #!String
+    Seeds.cs.14238: "Winter Mix" #!String
+    Seeds.cs.14239: "Ancient Fruit" #!String
+    Shears.cs.14240: "Shears" #!String
+    Shears.cs.14241: "Use this to collect wool from sheep" #!String
+    Shears.cs.14245: "{0} doesn't produce wool." #!String
+    Shears.cs.14246: "{0} is too young to be sheared." #!String
+    Shears.cs.14247: "{0} has no wool right now." #!String
+    Slingshot.cs.14254: "Out of ammo" #!String
+    Slingshot.cs.14256: "Right-Click to arm {0} with {1}" #!String
+    Slingshot.cs.14258: "Right-Click to retrieve {0}" #!String
+    Sword.cs.14290: "Hero's Sword" #!String
+    Sword.cs.14291: "A famous hero once owned this sword." #!String
+    Sword.cs.14292: "Holy Sword" #!String
+    Sword.cs.14293: "A powerful relic infused with ancient energy." #!String
+    Sword.cs.14294: "Dark Sword" #!String
+    Sword.cs.14295: "A powerful relic infused with evil energy." #!String
+    Sword.cs.14296: "Galaxy Sword" #!String
+    Sword.cs.14297: "The ultimate cosmic weapon." #!String
+    Tool.cs.14299: "Copper {0}" #!String
+    Tool.cs.14300: "Steel {0}" #!String
+    Tool.cs.14301: "Gold {0}" #!String
+    Tool.cs.14302: "Iridium {0}" #!String
+    Tool.cs.14303: "Level {0} {1}" #!String
+    Tool.cs.14304: "Dagger" #!String
+    Tool.cs.14305: "Club" #!String
+    Tool.cs.14306: "Sword" #!String
+    Tool.cs.14307: "Tool" #!String
+    Tool.cs.14317: "Thanks. I'll get started on this as soon as I can. It should be ready in a couple days." #!String
+    Wand.cs.14318: "Return Scepter" #!String
+    Wand.cs.14319: "The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will." #!String
+    WateringCan.cs.14324: "Watering Can" #!String
+    WateringCan.cs.14325: "Used to water crops. It can be refilled at any water source." #!String
+    WateringCan.cs.14335: "Out of water" #!String
+    Language.1: "English" #!String
+    Language.2: "German" #!String
+    Language.3: "Russian" #!String
+    Language.4: "Japanese" #!String
+    Language.5: "Chinese" #!String
+    Language.6: "Portuguese" #!String
+    Language.7: "Thai" #!String
+    Language.8: "Spanish" #!String
+    RandomSentence.1: "The Purple Dragon danced with the Robot" #!String
+    RandomSentence.2: "The Gooey Buffet spoke atop the Castle" #!String
+    RandomSentence.3: "The Chalky Biscuit cracked way above the Planet" #!String
+    RandomSentence.4: "The Green Pepper grilled alongside the Cheese" #!String
+    RandomSentence.5: "The Chunky Raincoat smelled dangerously close to the Shoe" #!String
+    RandomSentence.6: "The Gigantic Submarine floated uncomfortably close to the Mermaid" #!String
+    RandomSentence.7: "The Greasy Hyena stood too close to the other Hyena" #!String
+    RandomSentence.8: "The Gloomy Elf danced atop the Tomb" #!String
+    RandomSentence.9: "The Crusty Lip cracked way above the Biscuit" #!String
+    RandomSentence.10: "The Rubbery Elf swam near the Disaster" #!String
+    RandomSentence.11: "The Courageous Quail grilled far, far away from the other Quail" #!String
+    RandomSentence.12: "The Reasonable Hyena spoke with the Shoe" #!String
+    RandomSentence.13: "The Practical Submarine cracked miles below the Mermaid" #!String
+    RandomSentence.14: "The Lonely Puppet ran far, far away from the Planet" #!String
+    Ring.cs.1: "Ring" #!String
+    Back: "Back" #!String
+    Tab: "Tab" #!String
+    Enter: "Enter" #!String
+    Pause: "Pause" #!String
+    CapsLock: "CapsLock" #!String
+    Kana: "Kana" #!String
+    Kanji: "Kanji" #!String
+    Escape: "Escape" #!String
+    ImeConvert: "ImeConvert" #!String
+    ImeNoConvert: "ImeNoConvert" #!String
+    Space: "Space" #!String
+    PageUp: "PageUp" #!String
+    PageDown: "PageDown" #!String
+    End: "End" #!String
+    Home: "Home" #!String
+    Left: "Left" #!String
+    Up: "Up" #!String
+    Right: "Right" #!String
+    Down: "Down" #!String
+    Select: "Select" #!String
+    Print: "Print" #!String
+    Execute: "Execute" #!String
+    Insert: "Insert" #!String
+    Delete: "Delete" #!String
+    Help: "Help" #!String
+    PrintScreen: "PrintScreen" #!String
+    LeftWindows: "LeftWindows" #!String
+    RightWindows: "RightWindows" #!String
+    Apps: "Apps" #!String
+    Sleep: "Sleep" #!String
+    Multiply: "Multiply" #!String
+    Add: "Add" #!String
+    Separator: "Separator" #!String
+    Subtract: "Subtract" #!String
+    Decimal: "Decimal" #!String
+    Divide: "Divide" #!String
+    NumLock: "NumLock" #!String
+    Scroll: "Scroll" #!String
+    LeftShift: "LeftShift" #!String
+    RightShift: "RightShift" #!String
+    LeftControl: "LeftControl" #!String
+    RightControl: "RightControl" #!String
+    LeftAlt: "LeftAlt" #!String
+    RightAlt: "RightAlt" #!String
+    BrowserBack: "BrowserBack" #!String
+    BrowserForward: "BrowserForward" #!String
+    BrowserRefresh: "BrowserRefresh" #!String
+    BrowserStop: "BrowserStop" #!String
+    BrowserSearch: "BrowserSearch" #!String
+    BrowserFavorites: "BrowserFavorites" #!String
+    BrowserHome: "BrowserHome" #!String
+    VolumeMute: "VolumeMute" #!String
+    VolumeDown: "VolumeDown" #!String
+    VolumeUp: "VolumeUp" #!String
+    MediaNextTrack: "MediaNextTrack" #!String
+    MediaPreviousTrack: "MediaPreviousTrack" #!String
+    MediaStop: "MediaStop" #!String
+    MediaPlayPause: "MediaPlayPause" #!String
+    LaunchMail: "LaunchMail" #!String
+    SelectMedia: "SelectMedia" #!String
+    LaunchApplication1: "LaunchApplication1" #!String
+    LaunchApplication2: "LaunchApplication2" #!String
+    Semicolon: "Semicolon" #!String
+    Plus: "Plus" #!String
+    Comma: "Comma" #!String
+    Minus: "Minus" #!String
+    Period: "Period" #!String
+    Question: "Question" #!String
+    Tilde: "Tilde" #!String
+    ChatPadGreen: "ChatPadGreen" #!String
+    ChatPadOrange: "ChatPadOrange" #!String
+    OpenBrackets: "OpenBrackets" #!String
+    Pipe: "Pipe" #!String
+    CloseBrackets: "CloseBrackets" #!String
+    Quotes: "Quotes" #!String
+    Backslash: "Backslash" #!String
+    ProcessKey: "ProcessKey" #!String
+    Copy: "Copy" #!String
+    Auto: "Auto" #!String
+    EnlW: "EnlW" #!String
+    Attn: "Attn" #!String
+    Crsel: "Crsel" #!String
+    Exsel: "Exsel" #!String
+    EraseEof: "EraseEof" #!String
+    Play: "Play" #!String
+    Zoom: "Zoom" #!String
+    Pa1: "Pa1" #!String
+    Clear: "Clear" #!String
+    Left-Click: "Left-Click" #!String
+    Right-Click: "Right-Click" #!String
+    NewReward: "New Reward!" #!String
+    OptionsPage.cs.11239: "Controller Placement Tile Indicator" #!String
+    OptionsPage.cs.11239.ps4: "Placement Tile Indicator" #!String
+    OptionsPage.cs.11239.console: "Placement Tile Indicator" #!String
+    OptionsPage.cs.11275: "Controller Rumble" #!String
+    OptionsPage.cs.11275.ps4: "Controller Vibration" #!String
+    OptionsPage.cs.11275.console: "Controller Vibration" #!String
+

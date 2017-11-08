@@ -1,0 +1,38 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "...$u#$b#Hi...$u" #!String
+    Mon: "Oh...Are you looking for Aunt Marnie?$u" #!String
+    Mon4: "Hi, Mr. @.^Hi, Ms. @.#$e#It's fun to live on a farm.$h" #!String
+    Tue: "What? *giggle*$h#$e#...hi." #!String
+    Tue6: "You can play with my dolls if you want to. Just make sure to brush their hair when you're done." #!String
+    Wed: "...$u" #!String
+    Wed2: "...Hi.$u" #!String
+    Wed4: "Aunt Marnie won't let me go out after 6 o'clock. It's not fair!$s#$e#I'm not afraid of the dark anymore!" #!String
+    Thu: "I'm not supposed to talk to strangers...$u" #!String
+    Thu2: "Miss Penny is teaching me how to write in cursive.$h#$e#She has such pretty handwriting." #!String
+    Fri: "... I don't know you.$u" #!String
+    Fri2: "Do you like my bow?" #!String
+    Fri4: "I like living on the farm... my favorite is the fresh ice cream from our cows' milk." #!String
+    Sat: "You smell like grass.$u" #!String
+    Sat2: "Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once.#$e#She loved it." #!String
+    Sat8: "You're always so nice to me, Mr. @$h^You're always so nice to me, Ms. @.$h#$e#Grown-ups are usually mean and boring, but you're different." #!String
+    Sun: "Um... d...do you want something?$u#$e#I'm not supposed to talk to strangers.$u" #!String
+    Sun2: "Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games.#$e#I'm thankful for all my toys.$h" #!String
+    Sun10: "Did you know Shane's my godfather? He was a friend of my parents.$s#$e#...they died.*sniff*$s" #!String
+

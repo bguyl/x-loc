@@ -1,0 +1,37 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    NameYourHorse: "Name Your Horse" #!String
+    WipedMemory: "You're the new farmer, aren't you?#$e#You seem... no. I'm sure we've never met." #!String
+    DefaultHorseName: "Grover" #!String
+    PiecesOfHay: "Pieces of Hay: {0}/{1}" #!String
+    JunimoTextAboveHead1: "Junimo!" #!String
+    JunimoTextAboveHead2: "Star!" #!String
+    JunimoThankYou1: "Thank you!" #!String
+    JunimoThankYou2: "A gift!" #!String
+    Henchman1: "Gweee-ah!! Human!#$b#...You want to pass? I'm sorry, this is private property.$s" #!String
+    Henchman2: "I'm sorry, but I can't let you pass... I'd lose my job." #!String
+    Henchman3: "You're offering this to me? Hmm... no thanks.$s" #!String
+    Henchman4: "Mmmm... that looks fresh, but no thanks... why don't you have it?" #!String
+    Henchman5: "*sniff*...*sniff*...#$b#That smell...#$b#I can't resist... Gimme that!$h" #!String
+    Henchman6: "Thanks." #!String
+    KrobusDarkTalisman: "What's that... you're looking for a dark talisman?#$b#...Hmmm. Now that you mention it, I did have one in my possession not too long ago.#$b#Unfortunately, I dropped it while exploring that tunnel in the far corner.#$b#Things started heating up in there, so I left in a hurry and sealed the entrance.#$b#You seem pretty sturdy, though... So I'll open it back up for you. Just be careful, okay?" #!String
+    Divorced_bouquet: "This... Are you trying to hurt me even more?$s" #!String
+    Divorced_gift: "I don't want your gift.$a" #!String
+    PetLovesYou: "{0} loves you. <" #!String
+

@@ -1,0 +1,89 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    ScienceHouse_Robin_Raining1: "Some weather, huh?" #!String
+    ScienceHouse_Robin_Raining2: "Oh no, you're soaked!" #!String
+    ScienceHouse_Robin_NotRaining1: "Hey, have a nice walk?" #!String
+    ScienceHouse_Robin_NotRaining2: "Hey!" #!String
+    ScienceHouse_Robin_Snowing: "Nice and warm in here!" #!String
+    ScienceHouse_Robin_NotSnowing: "Hi there!" #!String
+    ScienceHouse_Robin_CloseFriends: "Hi {0}!" #!String
+    ScienceHouse_Robin_NotCloseFriends: "Need something built?" #!String
+    ScienceHouse_Robin_Greeting: "Welcome!" #!String
+    ScienceHouse_Robin_RareGreeting: "Lew...? Oh..." #!String
+    AnimalShop_Marnie_Greeting1: "Hello!" #!String
+    AnimalShop_Marnie_Greeting2: "Howdy!" #!String
+    AnimalShop_Marnie_CloseFriends: "Hi, {0}" #!String
+    AnimalShop_Marnie_NotCloseFriends: "Looking for some supplies?" #!String
+    AnimalShop_Marnie_Raining: "Wipe your feet!" #!String
+    AnimalShop_Marnie_NotRaining: "Hey! How's the weather?" #!String
+    AnimalShop_Marnie_Greeting3: "Hey! How's {1} Farm doin'?" #!String
+    AnimalShop_Marnie_RareGreeting: "Lew...? Oh..." #!String
+    AdventureGuild_Marlon_Greeting_Male: "He's back!" #!String
+    AdventureGuild_Marlon_Greeting_Female: "She's back!" #!String
+    AdventureGuild_Marlon_Greeting1: "Need a new sword?" #!String
+    AdventureGuild_Marlon_Greeting2: "Greetings." #!String
+    AdventureGuild_Marlon_Greeting3: "Gil, wake up! We have a visitor." #!String
+    AdventureGuild_Marlon_Greeting4: "Good evening." #!String
+    Hospital_Maru_Greeting1: "Do you have an appointment?" #!String
+    Hospital_Maru_Greeting2: "Can I help you?" #!String
+    Hospital_Maru_Greeting3: "We've got medicine for sale!" #!String
+    Hospital_Maru_Greeting4: "Is it an emergency?" #!String
+    Hospital_Maru_Greeting5: "Here to see the doctor?" #!String
+    Hospital_Maru_Spouse: "Hi, honey <" #!String
+    LeahHouse_Leah_Greeting1: "Oh, hi!" #!String
+    LeahHouse_Leah_Greeting2: "Hello." #!String
+    LeahHouse_Leah_Greeting3: "Hi, {0}" #!String
+    ElliottHouse_Elliott_Greeting1: "It's nice of you to visit." #!String
+    ElliottHouse_Elliott_Greeting2: "Hello." #!String
+    ElliottHouse_Elliott_Greeting3: "Hello, {0}" #!String
+    JojaMart_Morris_Greeting: "Welcome to JojaMart!" #!String
+    SandyHouse_Sandy_Greeting1: "You poor burnt thing!" #!String
+    SandyHouse_Sandy_Greeting2: "Oh, a visitor!" #!String
+    SandyHouse_Sandy_Greeting3: "You look parched!" #!String
+    SandyHouse_Sandy_Greeting4: "Rare seeds for sale!" #!String
+    SandyHouse_Sandy_Greeting5: "Sweetie, won't you buy something?" #!String
+    ManorHouse_Lewis_Morning: "Good morning!" #!String
+    ManorHouse_Lewis_Afternoon: "Good afternoon." #!String
+    ManorHouse_Lewis_Evening: "Good evening." #!String
+    Saloon_Gus_Greeting: "Come in, come in!" #!String
+    Saloon_Gus_Summer: "Need a cold drink?" #!String
+    Saloon_Gus_NotSummer: "What can I get for ya?" #!String
+    Saloon_Gus_Snowing1: "It's cold outside but the coffee's hot!" #!String
+    Saloon_Gus_NotSnowing1: "Need a hot meal?" #!String
+    Saloon_Gus_Raining: "Need a hot drink?" #!String
+    Saloon_Gus_NotRaining: "Need a drink?" #!String
+    Saloon_Gus_Snowing2: "Come in out of the cold!" #!String
+    Saloon_Gus_NotSnowing2: "Welcome!" #!String
+    Saloon_Gus_RareGreeting: "You look like you need a drink." #!String
+    ArchaeologyHouse_Gunther_Greeting1: "Find anything new?" #!String
+    ArchaeologyHouse_Gunther_Greeting2: "Dig anything up?" #!String
+    ArchaeologyHouse_Gunther_Greeting3: "Need my expertise?" #!String
+    ArchaeologyHouse_Gunther_Greeting4: "Hello there." #!String
+    ArchaeologyHouse_Gunther_Greeting5: "Brought me something?" #!String
+    ArchaeologyHouse_Gunther_RareGreeting: "You smell like dirt... good!" #!String
+    SeedShop_Pierre_Winter: "Welcome to Pierre's heated shop!" #!String
+    SeedShop_Pierre_NotWinter: "Welcome to Pierre's!" #!String
+    SeedShop_Pierre_Summer: "Summer seeds available!" #!String
+    SeedShop_Pierre_NotSummer: "Seeds for sale!" #!String
+    SeedShop_Pierre_Greeting1: "Hello!" #!String
+    SeedShop_Pierre_Greeting2: "It's farmer {0}!" #!String
+    SeedShop_Pierre_Raining: "It's a good day to shop!" #!String
+    SeedShop_Pierre_NotRaining: "Welcome!" #!String
+    SeedShop_Pierre_RareGreeting: "Did you remember your wallet?" #!String
+

@@ -1,0 +1,28 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    2: "800 JoshHouse 3 17 0 square_3_1_0/1030 Hospital 15 15 3 evelyn_sit_left \"When you get to be my age you have to see the doctor more often.\"/1330 Hospital 4 6 1 \"Oh dear, is it an emergency? Why are you here?$s\"/1600 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    23: "800 JoshHouse 3 17 0 square_3_1_0/1040 Hospital 10 16 0 \"Now now, dear... It's important that Doctor Harvey takes a good look at you. He's a nice young man! Behave yourself, for your dear old wife's sake.\"/1330 Hospital 4 7 0 \"Could you check his lungs? He's been wheezing lately.\"/1610 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    rain: "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    winter: "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 JoshHouse 20 20 3 evelyn_sit_left/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    Thu: "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 CommunityCenter 18 25 3 evelyn_sit_left \"This place is full of memories for me. Thank you so much for restoring it.$h\"/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    Sat: "GOTO Thu" #!String
+    Mon: "GOTO Thu" #!String
+    spring: "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 Town 36 78 3/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+    summer: "800 JoshHouse 3 17 0 square_3_1_0/1040 JoshHouse 17 22 3/1210 JoshHouse 3 19 2/1300 Town 20 62 3 evelyn_garden/1630 JoshHouse 4 17 0 square_3_1_0/1900 JoshHouse 17 17 0/2130 JoshHouse 2 5 1" #!String
+

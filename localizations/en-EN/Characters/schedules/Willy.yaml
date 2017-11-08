@@ -1,0 +1,25 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO winter" #!String
+    spring_9: "610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2 \"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\"/1010 Hospital 12 14 0 \"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\"/1330 Hospital 4 6 1 \"Yowch! That hurt, Doc!$s\"/1600 Saloon 17 22 2 \"I need a little warm-me-up to be ready for another cold night on the ocean.$h\"/2320 FishShop 4 4 2" #!String
+    winter: "610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Saloon 17 22 2 \"I need a little warm-me-up to be ready for another cold night on the ocean.$h\"/2320 FishShop 4 4 2" #!String
+    Sat: "610 Forest 91 40 2 dick_fish/1400 Town 59 100 2 dick_fish/1900 Saloon 17 22 2 \"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.$h\"/2300 FishShop 5 4 2" #!String
+    Fri: "610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Saloon 17 22 2 \"Handling salty fish all day makes me real thirsty.\"/2320 FishShop 4 4 2" #!String
+    spring: "610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Beach 25 36 2 dick_fish/2200 FishShop 4 4 2" #!String
+

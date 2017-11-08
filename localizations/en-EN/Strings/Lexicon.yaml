@@ -1,0 +1,39 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    RandomNegativeItemNoun: "garbage#trash#junk#slop#crap" #!String
+    RandomPositiveAdjective_Child: "cool#fun#neat#nice#nifty#super#great" #!String
+    RandomPositiveAdjective_AdultMale: "interesting#exciting#neat#fun#great#terrific" #!String
+    RandomPositiveAdjective_AdultFemale: "wonderful#amazing#heart-warming#magical#incredible#lovely#exhilarating#delightful" #!String
+    RandomPositiveAdjective_PlaceOrEvent: "wonderful#amazing#heart-warming#magical#incredible#lovely#exhilarating#delightful" #!String
+    RandomNegativeAdjective_Child: "stupid#idiotic#lame#boring#dumb" #!String
+    RandomNegativeAdjective_AdultMale: "horrible#terrible#distasteful#boring#depressing#despicable#laughable" #!String
+    RandomNegativeAdjective_AdultFemale: "sad#boring#stressful#depressing#pitiful#childish#despicable" #!String
+    RandomNegativeAdjective_PlaceOrEvent: "sad#boring#stressful#depressing#pitiful#childish#despicable" #!String
+    RandomDeliciousAdjective: "delicious#tasty#wonderful#satisfying#filling#scrumptious#appetizing#delightful" #!String
+    RandomDeliciousAdjective_Child: "yummy" #!String
+    RandomNegativeFoodAdjective_Child: "gross" #!String
+    RandomNegativeFoodAdjective_Polite: "...interesting#...unusual#...different#...unconventional" #!String
+    RandomNegativeFoodAdjective: "nasty#gross#disgusting#despicable#revolting#sickening#awful#repulsive#nauseating#foul#horrendous#putrid" #!String
+    RandomSlightlyPositiveFoodAdjective: "decent#good#edible" #!String
+    ChildTerm_Male: "boy" #!String
+    ChildTerm_Female: "girl" #!String
+    QuestionDialogue_Yes: "Yes" #!String
+    QuestionDialogue_No: "No" #!String
+    GenericPlayerTerm: "farmer" #!String
+

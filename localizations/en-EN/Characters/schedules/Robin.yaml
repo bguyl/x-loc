@@ -1,0 +1,25 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 ScienceHouse 8 18 2/1700 ScienceHouse 29 9 0/1930 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1" #!String
+    Mon: "800 ScienceHouse 8 18 2/1700 CommunityCenter 9 19 3/1940 ScienceHouse 16 5 0/2200 ScienceHouse 21 4 1" #!String
+    Tue: "930 SeedShop 27 18 0/1300 SeedShop 27 22 2 robin_exercise/1600 SeedShop 24 16 0 \"We meet every week to encourage each other to stay healthy.\"/1800 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1" #!String
+    summer_18: "700 ScienceHouse 8 18 2/800 Hospital 12 14 0 \"What's a healthy young person like you doing here?\"/1330 Hospital 4 6 1 \"Nothing bad to report, Doc. I feel as healthy as ever.\"/1600 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1" #!String
+    Fri: "800 ScienceHouse 8 18 2/1600 Saloon 22 22 1/1920 Saloon 23 22 1 robin_dance/2100 ScienceHouse 21 4 1" #!String
+    spring: "800 ScienceHouse 8 18 2/1700 Mountain 29 36 2/1930 ScienceHouse 16 5 0/2100 ScienceHouse 21 4 1" #!String
+

@@ -1,16 +1,11 @@
 <template>
   <div id="app">
-    <ul id="chooselang" class="dropdown-content">
-      <li><img src="src/renderer/assets/flags/France.png" alt=""></li>
-      <li><img src="src/renderer/assets/flags/United-Kingdom.png" alt=""></li>
-    </ul>
     <nav>
       <div class="nav-wrapper orange accent-3">
-        <router-link to="" class="brand-logo black-text"><span class="title">X-loc</span> <span class="subtitle">: Extra localizations for Stardew Valley</span></router-link>
+        <router-link to="/" class="brand-logo black-text"><span class="title">X-loc</span> <span class="subtitle">: Extra localizations for Stardew Valley</span></router-link>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
           <li><router-link to="about"><span class="fa fa-2x fa-question black-text"></span></router-link></li>
           <li><a v-on:click="open('http://github.com/bguyl/x-loc')"><span class="fa fa-2x fa-github black-text"></span></a></li>
-          <li><a class="dropdown-button" href="#!" data-activates="chooselang"><span class="fa fa-2x fa-ellipsis-v black-text"></span></a></li>
         </ul>
       </div>
     </nav>

@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days." #!String
+    Mon: "Ahoy there, son.^Ahoy there, lass.#$b#Looks like decent weather for fishing, eh?" #!String
+    Mon4: "Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it." #!String
+    Tue: "A true angler has respect for the water... don't you forget that." #!String
+    Tue6: "The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'." #!String
+    Wed: "Some fish come and go with the seasons. Others only come out at night or in the rain." #!String
+    Thu: "*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret." #!String
+    Thu2: "There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite." #!String
+    Fri: "If you really want to get the fish biting, make sure you put some bait on your hook." #!String
+    Sat: "If the local fishing scene got a bit more lively, I might expand the shop's stock." #!String
+    Sat8: "How's the fishing life going for ya?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run." #!String
+    Sun: "If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while." #!String
+    Sun10: "Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s" #!String
+

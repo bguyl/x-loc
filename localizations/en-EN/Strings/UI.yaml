@@ -1,0 +1,253 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    LearnedRecipe_cooking: "cooking" #!String
+    LearnedRecipe_crafting: "crafting" #!String
+    LearnedRecipe: "You've learned a new {0} recipe: {1}" #!String
+    FarmerFile_1: "File on: {0}\nSteps Taken: {1}\nGifts Given: {2}\nDays In Stardew Valley: {3}\nDirt Hoed: {4}\nItems Crafted: {5}\nItems Cooked: {6}\nTrash Recycled: {7}" #!String
+    FarmerFile_2: "Monsters Slain: {0}\nFish Caught: {1}\nLines Cast: {2}\nSeeds Sown: {3}\nItems Shipped: {4} " #!String
+    NotEnoughMoney1: "You don't have enough money." #!String
+    NotEnoughMoney2: "Not enough money." #!String
+    NotEnoughMoney3: "You don't have enough money..." #!String
+    Toggle_ColorPicker: "Toggle Color Picker" #!String
+    Backpack_Bought: "Great! You can hold up to {0} items now!" #!String
+    About_Title: "    Stardew Valley" #!String
+    About_Credit: "\n= Created by ConcernedApe\n< Published by Chucklefish\n= Ported by Sickhead Games\n< Localized by Playism" #!String
+    About_CreditExtra_Console: "\n= Distributed by 505 Games\n< QA by Pipeworks Studio" #!String
+    About_Website: "Stardew Valley on the web" #!String
+    About_ConcernedApe: "ConcernedApe on Twitter" #!String
+    About_Chucklefish: "Chucklefish, LTD." #!String
+    AnimalQuery_Move: "Change Home Building" #!String
+    AnimalQuery_Moving_HomeChanged: "Home changed" #!String
+    AnimalQuery_Moving_BuildingFull: "That Building Is Full" #!String
+    AnimalQuery_Moving_AlreadyHome: "That Is My Home" #!String
+    AnimalQuery_Moving_CantLiveThere: "{0}s Can't Live There." #!String
+    AnimalQuery_Sell: "Sell for {0}g" #!String
+    AnimalQuery_AllowReproduction: "Allow Pregnancy" #!String
+    AnimalQuery_Age1: "Age: 1 month" #!String
+    AnimalQuery_AgeN: "Age: {0} months" #!String
+    AnimalQuery_AgeBaby: " (Baby)" #!String
+    AnimalQuery_Parent: "Parent: {0}" #!String
+    AnimalQuery_ConfirmSell: "Are you sure?" #!String
+    AnimalQuery_ChooseBuilding: "Please choose a {0} for your {1}" #!String
+    Billboard_Birthday: "{0}'s Birthday" #!String
+    Billboard_SBirthday: "{0}' Birthday" #!String
+    Billboard_Year: "Year {0}" #!String
+    Billboard_NothingPosted: "Nothing is posted today." #!String
+    AcceptQuest: "Accept Quest" #!String
+    BobberBar_Perfect: "Perfect!" #!String
+    Confirm: "OK" #!String
+    Carpenter_Demolish: "Demolish Buildings" #!String
+    Carpenter_MoveBuildings: "Move Buildings" #!String
+    Carpenter_Upgrade: "Upgrade from {0}" #!String
+    Carpenter_Build: "Build" #!String
+    Carpenter_CantDemolish_DuringConstruction: "Can't demolish during construction" #!String
+    Carpenter_CantDemolish_AnimalsHere: "Can't demolish until animals are relocated" #!String
+    Carpenter_CantUpgrade_BuildingType: "Incorrect Building Type" #!String
+    Carpenter_CantBuild: "Can't Build There" #!String
+    Carpenter_SelectBuilding_Upgrade: "Select a {0} to upgrade" #!String
+    Carpenter_SelectBuilding_Demolish: "Choose a structure to demolish" #!String
+    Carpenter_ChooseLocation: "Choose a location" #!String
+    Character_Name: "Name" #!String
+    Character_Farm: "Farm\nName" #!String
+    Character_FavoriteThing: "Favorite\nThing" #!String
+    Character_Animal: "Animal\nPreference" #!String
+    Character_Skin: "Skin" #!String
+    Character_EyeColor: "Eye Color:" #!String
+    Character_Hair: "Hair" #!String
+    Character_HairColor: "Hair color:" #!String
+    Character_Shirt: "Shirt" #!String
+    Character_PantsColor: "Pants Color:" #!String
+    Character_SkipIntro: "Skip Intro" #!String
+    Character_Accessory: "Acc." #!String
+    Character_FarmNameSuffix: "Farm" #!String
+    Character_FarmType: "Farm Type:" #!String
+    Character_FarmStandard: "Standard Farm_A simple plot of land, with a large amount of open space to design your farm." #!String
+    Character_FarmForaging: "Forest Farm_The woods limit your farming space. However, the bounty of the forest is nearly at your doorstep..." #!String
+    Character_FarmFishing: "Riverland Farm_Your farm is spread across several islands and scenic riverbanks. Fish are more common here than usual." #!String
+    Character_FarmMining: "Hill-top Farm_Rocky terrain and a winding river make it difficult to design your farm. However, a mineral deposit provides mining opportunities." #!String
+    Character_FarmCombat: "Wilderness Farm_There's plenty of good land here, but beware... at night the monsters come out." #!String
+    Character_FarmCombat_Unlock: "You unlocked the 'Wilderness' farm layout!" #!String
+    Character_FarmMining_Unlock: "You unlocked the 'Hill-top' farm layout!" #!String
+    Character_FarmFishing_Unlock: "You unlocked the 'Riverland' farm layout!" #!String
+    Character_FarmForaging_Unlock: "You unlocked the 'Forest' farm layout!" #!String
+    Character_foraging: "foraging" #!String
+    Character_fishing: "fishing" #!String
+    Character_mining: "mining" #!String
+    Character_combat: "combat" #!String
+    JukeboxMenu_Title: "Jukebox" #!String
+    Collections_Shipped: "Items Shipped (Farm & Forage)" #!String
+    Collections_Fish: "Fish" #!String
+    Collections_Artifacts: "Artifacts" #!String
+    Collections_Minerals: "Minerals" #!String
+    Collections_Cooking: "Cooking" #!String
+    Collections_Achievements: "Achievements" #!String
+    Collections_Description_ArtifactsFound: "Total Found: {0}" #!String
+    Collections_Description_RecipesCooked: "Times Cooked: {0}" #!String
+    Collections_Description_FishCaught: "Number Caught: {0}" #!String
+    Collections_Description_BiggestCatch: "Biggest Catch: {0} in." #!String
+    Collections_Description_MineralsFound: "Number Found: {0}" #!String
+    Collections_Description_NumberShipped: "Number Shipped: {0}" #!String
+    QuestButton_Hover: "Journal ({0})" #!String
+    QuestButton_Hover_Console: "Journal" #!String
+    ZoomInButton_Hover: "Zoom In" #!String
+    ZoomOutButton_Hover: "Zoom Out" #!String
+    ExitToTitle: "Exit To Title" #!String
+    ExitToDesktop: "Exit To Desktop" #!String
+    GameMenu_Inventory: "Inventory" #!String
+    GameMenu_Skills: "Skills" #!String
+    GameMenu_Social: "Social" #!String
+    GameMenu_Map: "Map" #!String
+    GameMenu_Crafting: "Crafting" #!String
+    GameMenu_Collections: "Collections" #!String
+    GameMenu_Options: "Options" #!String
+    GameMenu_Exit: "Exit Game" #!String
+    GameMenu_JunimoNote_Hover: "Community Center" #!String
+    GeodeMenu_InventoryFull: "You don't have enough room in your inventory." #!String
+    GeodeMenu_Description_NotEnoughMoney: "The price is 25g per geode...\n\nIt looks you can't afford it right now." #!String
+    GeodeMenu_Description: "Just place your geodes on my anvil and I'll give them a whack.\n\nThe price is 25g per geode." #!String
+    ItemHover_DefenseBonus: "+{0} Defense" #!String
+    ItemHover_ImmunityBonus: "+{0} Immunity" #!String
+    ItemHover_CritChanceBonus: "+{0} Crit. Chance" #!String
+    ItemHover_CritPowerBonus: "+{0} Crit. Power" #!String
+    ItemHover_Damage: "{0}-{1} Damage" #!String
+    ItemHover_Speed: "{0} Speed" #!String
+    ItemHover_Weight: "{0} Weight" #!String
+    ItemHover_Energy: "{0} Energy" #!String
+    ItemHover_Health: "{0} Health" #!String
+    ItemHover_Buff0: "{0} Farming" #!String
+    ItemHover_Buff1: "{0} Fishing" #!String
+    ItemHover_Buff2: "{0} Mining" #!String
+    ItemHover_Buff3: "{0} Combat" #!String
+    ItemHover_Buff4: "{0} Luck" #!String
+    ItemHover_Buff5: "{0} Foraging" #!String
+    ItemHover_Buff6: "{0} Max Energy" #!String
+    ItemHover_Buff7: "{0} Max Energy" #!String
+    ItemHover_Buff8: "{0} Magnetism" #!String
+    ItemHover_Buff9: "{0} Speed" #!String
+    ItemHover_Buff10: "{0} Defense" #!String
+    ItemHover_Buff11: "{0} Attack" #!String
+    ItemHover_Requirements: "Requires {0}\n{1}s" #!String
+    Inventory_PortraitHover_Level: "Level {0}" #!String
+    Inventory_FarmName: "{0} Farm" #!String
+    Inventory_CurrentFunds: "Current Funds: {0}g" #!String
+    Inventory_TotalEarnings: "Total Earnings: {0}g" #!String
+    ItemGrab_Organize: "Organize" #!String
+    ShippingBin_LastItem: "Last Item Shipped" #!String
+    JojaCDMenu_Hover0: "Repairs the bus that runs to Calico Desert." #!String
+    JojaCDMenu_Hover1: "Repairs the minecart system that runs between the bus stop, the mountains, and Pelican Town." #!String
+    JojaCDMenu_Hover2: "Repairs the broken bridge in the mountains." #!String
+    JojaCDMenu_Hover3: "Repairs the old ruins on the farm, turning it into a greenhouse." #!String
+    JojaCDMenu_Hover4: "Removes the glimmering boulder near the mine entrance." #!String
+    JunimoNote_BundleName: "{0} Bundle" #!String
+    JunimoNote_RewardBoiler: "Reward: Minecarts Repaired" #!String
+    JunimoNote_RewardBulletin: "Reward: Friendship <" #!String
+    JunimoNote_RewardCrafts: "Reward: Bridge Repair" #!String
+    JunimoNote_RewardPantry: "Reward: Greenhouse" #!String
+    JunimoNote_RewardVault: "Reward: Bus Repair" #!String
+    JunimoNote_RewardFishTank: "Reward: Glittering Boulder Removed" #!String
+    JunimoNote_MustBeAtCC: "Must be deposited at Community Center" #!String
+    LetterViewer_MoneyIncluded: "$ {0}g enclosed" #!String
+    LetterViewer_LearnedRecipe: "New {0} recipe:" #!String
+    LetterViewer_LearnedRecipeName: "'{0}'" #!String
+    LevelUp_Title: "Level {0} {1}" #!String
+    LevelUp_ExtraInfo_Farming1: "+1 Watering Can Proficiency" #!String
+    LevelUp_ExtraInfo_Farming2: "+1 Hoe Proficiency" #!String
+    LevelUp_ExtraInfo_Mining: "+1 Pickaxe Proficiency" #!String
+    LevelUp_ExtraInfo_Fishing: "+1 Fishing Rod Proficiency" #!String
+    LevelUp_ExtraInfo_Foraging1: "+1 Axe Proficiency" #!String
+    LevelUp_ExtraInfo_Foraging2: "Trees sometimes drop seeds." #!String
+    LevelUp_ExtraInfo_Foraging3: "+1 Wild berry harvesting." #!String
+    LevelUp_ExtraInfo_Combat: "+5 HP" #!String
+    LevelUp_ExtraInfo_Luck: "Luck Increased" #!String
+    LevelUp_ProfessionName_Rancher: "Rancher" #!String
+    LevelUp_ProfessionDescription_Rancher: "Animal products worth 20% more." #!String
+    LevelUp_ProfessionName_Tiller: "Tiller" #!String
+    LevelUp_ProfessionDescription_Tiller: "Crops worth 10% more." #!String
+    LevelUp_ProfessionName_Coopmaster: "Coopmaster" #!String
+    LevelUp_ProfessionDescription_Coopmaster: "Befriend coop animals quicker.\nIncubation time cut in half." #!String
+    LevelUp_ProfessionName_Shepherd: "Shepherd" #!String
+    LevelUp_ProfessionDescription_Shepherd: "Befriend barn animals quicker.\nSheep produce wool faster." #!String
+    LevelUp_ProfessionName_Artisan: "Artisan" #!String
+    LevelUp_ProfessionDescription_Artisan: "Artisan goods (wine, cheese, oil, etc.) worth 40% more." #!String
+    LevelUp_ProfessionName_Agriculturist: "Agriculturist" #!String
+    LevelUp_ProfessionDescription_Agriculturist: "All crops grow 10% faster." #!String
+    LevelUp_ProfessionName_Fisher: "Fisher" #!String
+    LevelUp_ProfessionDescription_Fisher: "Fish worth 25% more." #!String
+    LevelUp_ProfessionName_Trapper: "Trapper" #!String
+    LevelUp_ProfessionDescription_Trapper: "Resources required to craft crab pots reduced." #!String
+    LevelUp_ProfessionName_Angler: "Angler" #!String
+    LevelUp_ProfessionDescription_Angler: "Fish worth 50% more." #!String
+    LevelUp_ProfessionName_Pirate: "Pirate" #!String
+    LevelUp_ProfessionDescription_Pirate: "Chance to find treasure doubled." #!String
+    LevelUp_ProfessionName_Mariner: "Mariner" #!String
+    LevelUp_ProfessionDescription_Mariner: "Crab pots no longer produce junk items." #!String
+    LevelUp_ProfessionName_Luremaster: "Luremaster" #!String
+    LevelUp_ProfessionDescription_Luremaster: "Crab pots no longer require bait." #!String
+    LevelUp_ProfessionName_Forester: "Forester" #!String
+    LevelUp_ProfessionDescription_Forester: "Wood worth 50% more." #!String
+    LevelUp_ProfessionName_Gatherer: "Gatherer" #!String
+    LevelUp_ProfessionDescription_Gatherer: "Chance for double harvest of foraged items." #!String
+    LevelUp_ProfessionName_Lumberjack: "Lumberjack" #!String
+    LevelUp_ProfessionDescription_Lumberjack: "All trees have a chance to drop hardwood." #!String
+    LevelUp_ProfessionName_Tapper: "Tapper" #!String
+    LevelUp_ProfessionDescription_Tapper: "Syrups worth 25% more." #!String
+    LevelUp_ProfessionName_Botanist: "Botanist" #!String
+    LevelUp_ProfessionDescription_Botanist: "Foraged items are always highest quality." #!String
+    LevelUp_ProfessionName_Tracker: "Tracker" #!String
+    LevelUp_ProfessionDescription_Tracker: "Location of forageable items revealed." #!String
+    LevelUp_ProfessionName_Miner: "Miner" #!String
+    LevelUp_ProfessionDescription_Miner: "+1 ore per vein." #!String
+    LevelUp_ProfessionName_Geologist: "Geologist" #!String
+    LevelUp_ProfessionDescription_Geologist: "Chance for gems to appear in pairs." #!String
+    LevelUp_ProfessionName_Blacksmith: "Blacksmith" #!String
+    LevelUp_ProfessionDescription_Blacksmith: "Metal bars worth 50% more." #!String
+    LevelUp_ProfessionName_Prospector: "Prospector" #!String
+    LevelUp_ProfessionDescription_Prospector: "Chance to find coal doubled." #!String
+    LevelUp_ProfessionName_Excavator: "Excavator" #!String
+    LevelUp_ProfessionDescription_Excavator: "Chance to find geodes doubled." #!String
+    LevelUp_ProfessionName_Gemologist: "Gemologist" #!String
+    LevelUp_ProfessionDescription_Gemologist: "Gems worth 30% more." #!String
+    LevelUp_ProfessionName_Fighter: "Fighter" #!String
+    LevelUp_ProfessionDescription_Fighter: "All attacks deal 10% more damage." #!String
+    LevelUp_ProfessionName_Scout: "Scout" #!String
+    LevelUp_ProfessionDescription_Scout: "Critical strike chance increased by 50%." #!String
+    LevelUp_ProfessionName_Brute: "Brute" #!String
+    LevelUp_ProfessionDescription_Brute: "Deal 15% more damage." #!String
+    LevelUp_ProfessionName_Defender: "Defender" #!String
+    LevelUp_ProfessionDescription_Defender: "+25 HP." #!String
+    LevelUp_ProfessionName_Acrobat: "Acrobat" #!String
+    LevelUp_ProfessionDescription_Acrobat: "Cooldown on special moves cut in half." #!String
+    LevelUp_ProfessionName_Desperado: "Desperado" #!String
+    LevelUp_ProfessionDescription_Desperado: "Critical strikes are deadly." #!String
+    LevelUp_ChooseProfession: "Choose a profession:" #!String
+    LevelUp_NewRecipe: "New {0} recipe: {1}" #!String
+    LoadGameMenu_LookingForSavedGames: "Looking for Saved Games..." #!String
+    LoadGameMenu_Deleting: "Deleting..." #!String
+    TitleMenu_PressAToStart: "PRESS @ TO START" #!String
+    TooManyFarmsMenu_TooManyFarms: "You already have the maximum number of farms." #!String
+    UserSignoutMenu_SignInChange: "A sign-in change has occured. Sign back in or exit to the title screen." #!String
+    UserSignoutMenu_Returning: "Returning to title." #!String
+    UserSignoutMenu_SignIn: "Sign-in" #!String
+    UserSignoutMenu_Exit: "Exit" #!String
+    StartupMessage_FirstRun: "" #!String
+    ControllerConnectMenu_PleaseReconnect: "Please reconnect your controller to continue the game." #!String
+    ControllerConnectMenu_PleaseReconnect.ps4: "Please reconnect your controller to continue the game." #!String
+    Options_GamepadStyleMenus: "Use Controller-Style Menus" #!String
+    Options_GamepadStyleMenus.ps4: "Use Controller-Style Menus" #!String
+

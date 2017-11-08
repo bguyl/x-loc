@@ -1,0 +1,24 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "830 SamHouse 8 12 2/1400 Town 6 72 1/1700 SamHouse 2 21 0/1900 SamHouse 8 5 3/2100 Town 6 89 2/2300 SamHouse 21 5 3" #!String
+    Fri: "700 Town 42 102 2/1030 SamHouse 8 12 2/1400 Town 6 72 1/1700 Saloon 3 23 3/2350 SamHouse 21 5 3" #!String
+    Sat: "GOTO Fri" #!String
+    Sun: "800 SamHouse 8 5 3/1010 SeedShop 36 20 0/1400 SeedShop 5 19 0/1600 SamHouse 2 21 0/1900 SamHouse 8 5 3/2100 Town 6 89 2/2300 SamHouse 21 5 3" #!String
+    spring: "700 Town 42 102 2/1030 SamHouse 8 12 2/1400 Town 6 72 1/1700 SamHouse 2 21 0/1900 SamHouse 8 5 3/2100 Town 6 89 2/2300 SamHouse 21 5 3" #!String
+

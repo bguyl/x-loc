@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    winter_18: "900 AnimalShop 17 5 0 \"I think Jas actually likes going to the doctor. What an unusual little girl.\"/1040 Hospital 13 14 3 \"We're here for a 1:30pm appointment.\"/1330 Hospital 2 7 1 \"Erm... Doctor Harvey? When you give her the shots, can we have two lollipops?\"/1610 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
+    fall_18: "900 AnimalShop 17 5 0/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Erm... Doctor Harvey? This is completely confidential, right?\"/1600 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
+    Tue: "900 AnimalShop 17 5 0/1000 SeedShop 23 16 2/1300 SeedShop 28 17 2 marnie_exercise/1600 SeedShop 25 15 3 \"I'm going to sleep well tonight.$h\"/1810 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
+    Mon: "810 SeedShop 11 20 0/1200 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
+    Wed: "GOTO Sat" #!String
+    Fri: "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 17 8 1/1700 Saloon 8 22 1 marnie_drink/2300 AnimalShop 12 5 3" #!String
+    Sat: "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 17 8 1/1700 Saloon 9 22 1 marnie_drink/2300 AnimalShop 12 5 3" #!String
+    Sun: "GOTO Sat" #!String
+    spring: "830 AnimalShop 17 5 0/850 AnimalShop 12 14 2/1600 AnimalShop 24 15 0/1800 AnimalShop 17 8 1/2100 AnimalShop 12 5 3" #!String
+

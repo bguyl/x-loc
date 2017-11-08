@@ -1,0 +1,70 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    name: "Egg Festival" #!String
+    conditions: "Town/900 1400" #!String
+    shop: "BO 107 2000 1 O 745 100 -1" #!String
+    set-up: "fallFest/27 60/farmer 12 54 1/changeToTemporaryMap Town-EggFestival/loadActors Set-Up/advancedMove Vincent true -2 0 0 -2 2 0 0 2/advancedMove Jas true 2 0 0 2 -2 0 0 -2/advancedMove Pam true 0 -1 3 5000 0 2 3 5000 0 -1 3 4000/advancedMove Clint true 1 7000 0 1 3 7000 0 -1/advancedMove Demetrius true 2 15000 -3 0 0 8 3 20000 0 -8 3 0/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/advancedMove Shane true 4 40000 2 0 0 2 1 35000 0 -2 -2 0/advancedMove Harvey true 0 6 -6 0 0 9 -3 0 3 15000 3 0 0 3 18 0 0 -8 1 0 0 -11 -13 0 0 1 2 30000/playerControl eggFestival" #!String
+    afterEggHunt: "pause 100/playSound whistle/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"Wow, look at all these eggs!$h#$b#Now if only I could get you kids to pick up litter this efficiently, we'd have the cleanest town this side of the Gem Sea! *chuckle*$h\"/pause 800/playMusic none/speak Lewis \"And now, the winner of this year's egg hunt...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"Here's your prize! Enjoy.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/end" #!String
+    AbbyWin: "pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis \"Here's your prize, Abigail. Enjoy!\"/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/end" #!String
+    mainEvent: "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h\"/pause 100/jump Jas/jump Vincent/pause 1000/speak Lewis \"Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Now... Is everyone ready?\"/pause 1000/waitForOtherPlayers/jump Lewis/pause 1000/speak Lewis \"Let the egg hunt begin!$h\"/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -7 3 0/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -15 -9 0 9 0 0 18/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -6 0 0 3/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 21 9 0 0 4 -20 0 20 0 -20 0/playSound whistle/playMusic tickTock/playerControl eggHunt" #!String
+    Abigail_spouse: "Go away, we're adversaries until the egg hunt is over!$h" #!String
+    Leah_spouse: "I never had many friends in town, so these events are always kind of boring for me. I enjoy the buffet, though." #!String
+    Maru_spouse: "I'm just catching up with Penny. Have you had your fill of eggs?" #!String
+    Penny_spouse: "Maru's trying to convince me to eat a deviled egg. I'm just not sure I can stomach it..." #!String
+    Haley_spouse: "I was going to eat some eggs, but then I remembered I'm on a spring diet." #!String
+    Sebastian_spouse: "I'll be rooting for you in the egg hunt.$h" #!String
+    Sam_spouse: "The gang's just the same as always. Are you having a good time?" #!String
+    Alex_spouse: "Ungh... I think I ate a dozen too many hard boiled eggs...$s" #!String
+    Harvey_spouse: "How is everyone doing? I'm just taking a break for a little while. I'm looking forward to seeing you in the egg hunt!" #!String
+    Elliott_spouse: "I enjoy seeing you so relaxed, my dear.$h" #!String
+    Abigail: "Searching for eggs is like going on a treasure hunt.$h" #!String
+    Robin: "Spring is a busy time of year... so it's nice to have a day off to catch up with friends." #!String
+    Demetrius: "Egg... what a strange thing to eat." #!String
+    Maru: "I always look forward to these gatherings... it makes the valley feel like a real community." #!String
+    Sebastian: "We used to do a rotten egg toss...#$b#Mayor Lewis put an end to that pretty quick." #!String
+    Linus: "No one really talks to me... I just come for the deviled eggs." #!String
+    Pierre: "Hey! How'd you get back here?$u#$b#Don't touch anything." #!String
+    Caroline: "Abby's always loved the egg hunt, ever since she was a tiny girl." #!String
+    Alex: "I try to eat at least three eggs every day.#$e#I need that protein for my legs." #!String
+    George: "What's everyone so happy about? Hmmph...#$b#Eggs... why eggs?" #!String
+    Evelyn: "This festival has been a tradition for as long as I can remember.#$b#Tradition connects us with both the past and the future... it's comforting." #!String
+    Lewis: "Enjoying yourself, @?$h" #!String
+    Clint: "Is there any more food?$s" #!String
+    Penny: "The children have been looking forward to this festival for weeks." #!String
+    Pam: "Hehe... I put something nice into the punch.$h#$e#Shhh... that's just between you and me, kid." #!String
+    Emily: "I've been up since dawn coloring eggs... it's always my favorite part of the season.$h" #!String
+    Haley: "This festival is alright... but what I'm really looking foward to is the Flower Dance." #!String
+    Jodi: "Vincent loves this festival... it's a joy to see him so happy." #!String
+    Kent: "I'm not a big fan of eggs, to tell you the truth." #!String
+    Marlon: "Even with my bad leg, I never miss a town festival." #!String
+    Sam: "*sniff*... ub... my doze... allergies...$s" #!String
+    Leah: "Mmmm... This fruit punch is unusually good.$h" #!String
+    Shane: "Our hens have been working overtime to prepare for this festival.#$b#They deserve the best tonight... bowls full of sweet yellow corn!$h" #!String
+    Marnie: "Welcome to the Egg Festival... complements of my wonderful brood of hens." #!String
+    Elliott: "Taking breaks from work can make you more productive in the long run." #!String
+    Gus: "I hope everyone's enjoying the food... I've been cooking for days to get everything ready.#$b#Fried eggs, boiled eggs, poached eggs, deviled eggs, scrambled eggs, chocolate eggs... you name it!$h" #!String
+    Dwarf: "You say it's raining up above? *gasp*#$e#Rain... it's almost mythical to us. Some of us live our entire lives without ever experiencing it." #!String
+    Wizard: "Hmm... And what about raw lizard egg sprinkled with blackened marrow?" #!String
+    Harvey: "Eggs definitely have a place in the well-balanced diet.#$e#Oops... I should take off my Doctor's hat for the time being.$11" #!String
+    Sandy: "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s" #!String
+    Jas: "I hope I can find some eggs before Vincent takes them all...$s" #!String
+    Vincent: "When does the egg hunt start?! I'm so excited!!$h" #!String
+    Willy: "Sometimes I'll hide an egg too well and no one finds it...#$b#Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe. $h" #!String
+    ???: "Ah, the sewers are flowing quickly today. It'll get nice and humid in here... just how I like it." #!String
+

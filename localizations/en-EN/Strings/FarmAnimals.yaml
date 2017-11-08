@@ -1,0 +1,35 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    TryingToSleep: "{0} is trying to sleep" #!String
+    MoodMessage_NewHome_Baby_Male: "{0}'s still a little clumsy from being born. He's curious about his new world." #!String
+    MoodMessage_NewHome_Baby_Female: "{0}'s still a little clumsy from being born. She's curious about her new world." #!String
+    MoodMessage_NewHome_Adult_Male_1: "{0} seems curious, but a little cautious. He's getting used to the new home." #!String
+    MoodMessage_NewHome_Adult_Male_2: "{0} seems curious, but a little cautious. It's a strange new world." #!String
+    MoodMessage_NewHome_Adult_Female_1: "{0} seems curious, but a little cautious. She's getting used to the new home." #!String
+    MoodMessage_NewHome_Adult_Female_2: "{0} seems curious, but a little cautious. It's a strange new world." #!String
+    MoodMessage_LeftOutsideAtNight_Male: "{0} was left outside with the door closed last night... He's grumpy." #!String
+    MoodMessage_LeftOutsideAtNight_Female: "{0} was left outside with the door closed last night... She's grumpy." #!String
+    MoodMessage_DisturbedByDog_Male: "{0} looks stressed and paranoid today. It seems like something bad happened last night." #!String
+    MoodMessage_DisturbedByDog_Female: "{0} looks stressed and paranoid today. It seems like something bad happened last night." #!String
+    MoodMessage_Hungry1: "{0} looks grumpy." #!String
+    MoodMessage_Hungry2: "{0} is looking a little thin." #!String
+    MoodMessage_Sad: "{0} looks sad." #!String
+    MoodMessage_Fine: "{0} looks fine." #!String
+    MoodMessage_Happy: "{0} looks really happy today!" #!String
+

@@ -1,0 +1,83 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "This one's for all you greenhorns out there: chop wood and search for wild forage to earn some cash while waiting on your first harvest!" #!String
+    4: "This one's for you folks living in Stardew Valley. Check for spring onion southwest of town, where the river meets the ocean. You can sometimes find a whole bunch growing right out of the dirt." #!String
+    8: "Let's talk fences. Fences are useful for keeping weeds at bay and protecting your crops. They also let farmers contain their livestock. Fences break down after a while, but stone, iron, and hardwood fences last a lot longer than basic wood!" #!String
+    11: "Woes from crows? Sounds like you need a scarecrow! Placing a scarecrow on your farm deters crows from a pretty good distance. Make sure you protect your valuable crops!^One more thing... need a bigger backpack to hold all your stuff? Check your local general store." #!String
+    15: "It's salmonberry season! All across the countryside, bushes are teeming with juicy little berries, and they're free for the taking! Harvesting them is a great way to earn some extra cash." #!String
+    18: "Ah, refreshing rain... a Farmer's best friend! When it rains, you don't have to water your crops. Use this to your advantage!" #!String
+    22: "Get your hands on a fishin' pole and sell your catch! Fishing is a great way to make a little extra cash when you have some down time. The distance your bobber lands from any dry land determines what kinds of fish you'll hook... as well as the location, season, time of day, and weather!" #!String
+    25: "Fruit trees. They take an entire season to grow, so plan ahead! If the area directly surrounding your new tree isn't clear, it will interfere with growth. Once your fruit tree is mature, it'll produce delicious fruit for you every day while in season. Better start savin' up!" #!String
+    29: "Summer's here, along with a whole slew of new crops to plant! Take hops, for example. The vines take a while to grow, but once they're mature they can be harvested every day. Good luck!" #!String
+    32: "Here's a rundown of the fish you can only find in summer: Dorado, found in forest rivers during the day. Rainbow Trout, found in forest rivers and in the mountains during the day. Pufferfish, found in the ocean in the early afternoon. And Octopus, found in the ocean during the morning. Catch them while you can!" #!String
+    36: "Let's talk corn. It's an unusual crop because it lasts for two seasons! That's right, while most crops die when the season changes, corn lives on. You can grow it in both summer and fall. Now, get out there and plant some corn!" #!String
+    39: "Starting tomorrow, an unusual amount of shells and corals are expected to wash up on beaches all around the world. I'm no scientist, but I've heard it's something to do with crab mating season. At any rate, you could make some good coin combing your local beach." #!String
+    43: "Got a spa in your town? Relax and hold still in the steaming hot water to replenish your energy. Ahh... feels good, don't it?" #!String
+    46: "Summer's known for its lightning storms. If you know how to craft a lightning rod, you can harvest the electricity and create battery packs. These can be sold or used for crafting!" #!String
+    50: "Most towns have a seasonal calendar in front of the general store. It's a good idea to check on that now and then to get a feel for what's going on in the community. Make sure to check for any job postings as well!" #!String
+    53: "Fall's almost here! It's arguably the most lucrative season for farmers, so make sure you're saving some money to buy new seeds. If you haven't upgraded your watering can by now, it's probably a good idea." #!String
+    57: "Let's talk sunflowers. When you harvest them you'll not only get a nice flower, but you'll likely get some seeds as well. You can replant those seeds or sell them. I'm sold!" #!String
+    60: "It's blackberry season! Bushes across the countryside are overflowing with ripe fruit. Just go outside and see for yourself!" #!String
+    64: "If you're a farmer in a small town, it's likely you'll be invited to create a \"grange display\" at some point. Typically, a grange display consists of 9 items that best showcase your talents. Shoot for high quality, high value items and make sure to have a variety as well. Fish, minerals, artisan goods, fruit, and vegetables are all good to have!" #!String
+    67: "Fish Focus: Salmon. Salmon return to their spawning ground in fall to lay eggs. That means the rivers are chock-full of them! You can only find them in fall, so get out there and cast your pole." #!String
+    71: "Got any tappers? Crafty foragers known how to build 'em. You can attach them to the wild trees that grow all over. Maple trees yield maple syrup, oak trees provide resin, and pine trees produce pine tar. Syrup's the most valuable but all tree products have their uses!" #!String
+    74: "Winter's almost here. Make sure you have enough hay stored up to feed your animals over the winter, when all the grass dies out. Each silo can hold 240 pieces of hay, so make sure to do the math and figure out if you need to build any more!" #!String
+    78: "Fish Focus: Walleye. You can find this fish on rainy evenings during the fall and winter. It can be found in any freshwater location." #!String
+    81: "Winter's coming soon... and that means your farming operations will be coming to a halt. No crops grow in winter, unless you're lucky enough to have a greenhouse. But there's still plenty to do! More next time." #!String
+    85: "Winter... A time when all the world goes quiet.  Now's a great time to do some mining, fishing and gathering. Upgrade your tools in preparation for a productive spring. Or get your local carpenter to build something on your farm! Stock up on resources, upgrade, and prepare for the next year." #!String
+    88: "Wondering how to get your hands on 'Refined Quartz'? Just put a regular old quartz in the furnace. You'll need a lump of coal to fuel the fire." #!String
+    92: "Find any tree seeds while chopping wood? You can plant those in the ground and a new tree will grow. Get creative!" #!String
+    95: "There's a couple fish you can only find in winter... Squid and Lingcod. Squid can be caught from the ocean in the evening. Lingcod can be found in fresh water all day. Of course, there's rumors of extremely rare and uniquefish that can only be found in particular seasons, but I don't have any information on them." #!String
+    99: "Let's talk geodes. Geodes are hollow stones that often contain valuable minerals. A blacksmith can crack them open for you for a fee. Now, there's different kinds of geodes... and each one yields a different subset of minerals. The rare \"omni-geode\", however, can contain every kind of mineral." #!String
+    102: "If you really want to make someone happy, give them their favorite gift on their birthday! Trust me." #!String
+    106: "Ever see three little brown stems poking up out of the ground? They're hard to spot, sometimes. But if you dig on that spot, you'll always find something. Don't ask me how it works." #!String
+    109: "Ever had the urge to dig around in your neighbor's trash? Ew! Hey, if that's your thing, just don't do it when anyone's around. If they notice you, they'll be seriously grossed out, and it'll harm your friendship. Well, unless they're into the same thing." #!String
+    113: "Well, a new year has arrived. Keep your eyes peeled for any new kinds of seeds being stocked in your local general store. Hopefully you upgraded your tools during the winter and you're ready for a productive year!" #!String
+    116: "Fish Focus: Eel. Eels can be caught from the ocean in the spring and fall, during rainy evenings." #!String
+    120: "Got a kitchen? Cooking is a great way to enhance your abilities. Not only do they provide a convenient source of energy, but many dishes temporarily increase your skills, speed, and more! Smells good, don't it?" #!String
+    123: "Item Spotlight: Crab Pot. Experienced anglers know how to craft crab pots. Despite the name, the pots can be used to catch a wide variety of aquatic critters, in both fresh and salt water. Just place your crab pot in the water and load with bait. Come back the next day and check on it to see what you caught. You'll need to load it with bait again to catch more." #!String
+    127: "It's salmonberry season! All across the countryside, bushes are teeming with juicy little berries, and they're free for the taking! Harvesting them is a great way to earn some extra cash." #!String
+    130: "Let's talk honey. No, not you, silly. I'm talking about the sweet product made by our friends, the bees. Here's the thing... if you've got some flowers blooming near your beehouse your bees can produce flavored honey. Otherwise you'll only get 'wild honey'. Pretty sweet, huh?" #!String
+    134: "Here's a tip for you adventurers out there... don't forget your weapon's special attack! Swords can block incoming attacks, which is very useful when slimes are jumping at you. Clubs can pound the ground, sending enemies flying... and with a dagger you can perform a super-quick triple-strike attack! Be safe." #!String
+    137: "I'd like to talk about the famous Adventurer's Guild near Pelican Town. The guild leader, Marlon, has a nice rewards program for anyone brave enough to slay monsters in the local caves. Adventurers will receive powerful items in exchange for slaying large quantites of monsters. There's a poster on the wall with more details. Very cool!" #!String
+    141: "I've heard that some folks stand near moving trains to gather any debris that falls off. Wow... the things people will do for a freebie!" #!String
+    144: "Animal Spotlight: Pig.^^In these parts, pigs are trained to sniff out valuable truffles. You've got to let the porkers outside and be patient... they'll work their magic when they're good and ready. Make oil out of the truffles to maximize your profit." #!String
+    148: "Here's a reminder of the fish you can only find in summer: Dorado, found in forest rivers during the day. Rainbow Trout, found in forest rivers and in the mountains during the day. Pufferfish, found in the ocean in the early afternoon. And Octopus, found in the ocean during the morning. Catch them while you can!" #!String
+    151: "Fish Focus: Super Cucumber. You can find this rare fish in the ocean. It only comes out in the evening, during summer and winter." #!String
+    155: "I know it's hard... but stop worrying so much about your horse! You can leave them anywhere and they'll make their way back home. They're very smart and independent animals!" #!String
+    158: "Here's an idea... start a wild tree orchard! Put tappers on those trees and harvest the valuable syrup. Or don't! See if I care." #!String
+    162: "Item Spotlight: Keg. The classic use of a keg is to make wine out of grapes. But did you know you can make wine out of any fruit? Yep.^You can also make juice out of veggies." #!String
+    165: "Do you have a journal? Don't forget to check it from time to time. It's easy to forget that you've written something important down." #!String
+    169: "If you managed to get your hands on a 'rare seed', now's the time to plant it. Although it's said to take all season to grow, reliable sources have told me it actually takes just 24 days. The end result is rumored to be the sweetest fruit in the entire world." #!String
+    172: "It's blackberry season! Bushes across the countryside are overflowing with ripe fruit. Just go outside and see for yourself!" #!String
+    176: "Some farmers have reported strange things happening when large fields of cauliflower, melon, or pumpkin reach maturity. Hmmm. I can't verify it, myself." #!String
+    179: "Looking to get married? You're going to need a Mermaid's Pendant. Everyone this side of the Gem Sea knows what it means when you give them a Mermaid's Pendant.^Getting your hands on such a pendant can be tricky. Every region seems to have their own custom, but it always has something to do with the beach or ocean." #!String
+    183: "Item Spotlight: Recycling Machine. Have you been catching a lot of junk while fishing? It's all too common in this day and age. Well, with a recycling machine you can turn those items into something useful. Just place your trash items into the machine and let it do it's thing. Each type of trash produces different kinds of items." #!String
+    186: "Fish Focus: Albacore. This fish can be found either early in the morning or at night. Look for it in the ocean in fall or winter." #!String
+    190: "Fish Focus: Woodskip, sandfish, and scorpion carp. The woodskip is said to only live deep in the woods. The sandfish and scorpion carp can only be found in desert oases." #!String
+    193: "It's just a couple days until communities around the Ferngill Republic celebrate Spirit's Eve! One tradition you may not know of is the search for the golden pumpkin. If your town has a haunted maze, then you can be sure there's a golden pumpkin hidden somewhere. Those things are valuable!" #!String
+    197: "Folks, take my advice. You're going to need a nursery in your house before you can have kids. Baby needs a crib!" #!String
+    200: "Item Spotlight: Crystalarium. This amazing machine can create infinite copies of any kind of gemstone. Just place the gemstone you'd like to copy in the machine let it do it's thing. It might take a while, but hey... that's pure profit!" #!String
+    204: "If you have adult barn animals, and space left in your barn... there's always a chance one of your animals could give birth. It's something to keep in mind." #!String
+    207: "Fish Focus: Catfish. This relatively rare fish comes out of hiding when it rains. You'll find them living in rivers beside towns, where they enjoy feeding on whatever scraps end up in the water. They don't like hot weather, so don't bother fishing for them in the summer!" #!String
+    211: "Item Spotlight: Worm Bin. Need an endless supply of bait? Build yourself a worm bin. Once you've got one going, you'll get a few pieces of bait every single day." #!String
+    214: "Underneath all that snow, spring seeds are chomping at the bit to start their new lives in the sun. Don't be surprised when spring rolls around and your farm needs some tidying up!" #!String
+    218: "If you've got your hands on a gold pan, keep an eye out for something sparkly in the water.^There's often good ore in there, free for the taking!   " #!String
+    221: "Folks, I've got an announcement to make. This is the last new episode of Livin' Off The Land before my retirement. I've had a good time, and I'll miss you folks. Oh, and I've been told the station's going to start playing reruns next year. ^^Take care!" #!String
+

@@ -1,0 +1,35 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    BirthMessage_Adoption: "During the night, the adoption agency dropped off your new baby {0}." #!String
+    BirthMessage_PlayerMother: "During the night, you gave birth to a baby {0}." #!String
+    BirthMessage_SpouseMother: "During the night, {1} gave birth to a baby {0}." #!String
+    BabyNamingTitle_Male: "What should we name him?" #!String
+    BabyNamingTitle_Female: "What should we name her?" #!String
+    HaveBabyQuestion: "Should we have a baby, {0}?" #!String
+    HaveBabyQuestion_Adoption: "Should we adopt a baby, {0}?" #!String
+    HaveBabyAnswer_Yes: "Yes" #!String
+    HaveBabyAnswer_No: "Not now..." #!String
+    SpouseFlowerDanceAccept_Shane: "Dance? Hoo-boy. Okay... let me chug a few more of these first..." #!String
+    SpouseFlowerDanceAccept_Emily: "Of course, my love. I've been looking forward to this!$h" #!String
+    AnimalBirth: "During the night, {0} gave birth to a baby {1}." #!String
+    AnimalNamingTitle: "Name your new baby {0}:" #!String
+    SoundInTheNight_UFO: "A strange sound was heard in the night..." #!String
+    SoundInTheNight_Meteorite: "An explosion was heard in the night..." #!String
+    SoundInTheNight_Earthquake: "There was an earthquake during the night." #!String
+

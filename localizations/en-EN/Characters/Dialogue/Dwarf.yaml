@@ -1,0 +1,31 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Hey, you're pretty good at mining, for a human." #!String
+    Mon: "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?" #!String
+    Tue: "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?" #!String
+    Wed: "Hey, wanna buy something?" #!String
+    Wed_6: "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered..." #!String
+    Thu_4: "I feel most comfortable underground.#$e#The deeper underground the better." #!String
+    Fri: "You've never seen a dwarf before, have you?" #!String
+    Sat_8: "The mines can be a treacherous place. Be careful, friend." #!String
+    Sat: "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?" #!String
+    Sun: "One day you'll have to tell me about this beverage you call \"milk\"." #!String
+    Thu: "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you." #!String
+    Fri_2: "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy." #!String
+

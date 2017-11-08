@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 SeedShop 21 5 2 caroline_read/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+    fall_25: "800 SeedShop 37 6 3/1000 SeedShop 27 7 3 \"It's my annual check-up today. At least I don't have to walk very far.\"/1200 Hospital 13 14 0 \"You're here to see the doctor too? What happened?\"/1330 Hospital 4 6 1 \"Excuse me, I have to say some things to Doctor Harvey in private...$u\"/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+    Tue: "800 SeedShop 22 14 0 \"Hmm... Should I wear something special to the aerobics meet-up today?\"/1030 SeedShop 24 17 3/1300 SeedShop 24 21 0 caroline_exercise/1600 SeedShop 23 15 1 \"You're looking really fit, Jodi! Those dumbells do wonders, don't they?\"/1810 SeedShop 34 5 0 \"Mmff... I think I've earned some cookies today. *crunch*.\"/2100 SeedShop 25 4 1" #!String
+    Fri: "800 SeedShop 37 6 3/1200 ArchaeologyHouse 14 4 2 caroline_read \"Finally... A little time to myself.\"/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+    Wed: "800 SeedShop 37 6 3/1200 Town 23 27 1/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+    Sat: "800 SeedShop 37 6 3/1100 CommunityCenter 26 9 0/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+    Sun: "900 SeedShop 22 5 2/1040 SeedShop 21 5 3 \"It was the previous owners who built the altar room. We aren't religious, but we let the other townsfolk use it if they want.\"/1330 SeedShop 15 23 0/1440 Town 48 33 2/1830 SeedShop 27 7 1/2100 SeedShop 25 4 1" #!String
+    spring: "800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 Town 23 71 2/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1" #!String
+

@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 JoshHouse 8 19 2 alex_football/1300 JoshHouse 14 5 2 alex_lift_weights/1600 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1" #!String
+    marriage_Mon: "830 JoshHouse 6 18 2 \"I'm going to hang out here all day. My grandparents aren't getting any younger...\"/1800 BusStop -1 23 3" #!String
+    summer_16: "800 Town 64 64 2 alex_football/1030 Hospital 15 15 3 alex_sit_left \"Hi. Eh, I just twisted my ankle. Seeing if I can get it taped.\"/1330 Hospital 4 6 1 \"Yeah, yeah... I'm good, doc. Just tape it up, okay?\"/1600 JoshHouse 15 4 2" #!String
+    winter: "900 BathHouse_MensLocker 3 5 2 alex_lift_weights/1500 JoshHouse 14 5 2/1800 Town 50 68 1/1930 JoshHouse 8 19 2/2100 JoshHouse 17 5 0/2240 JoshHouse 21 4 1" #!String
+    Wed_6: "GOTO season" #!String
+    Wed: "NOT friendship Haley 6/800 Town 64 64 2 alex_football/1200 HaleyHouse 7 23 3 alex_sit_left/1630 Town 50 68 1/1840 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1" #!String
+    summer: "730 Beach 30 13 2 square_7_7/1200 Town 88 91 2/1700 JoshHouse 14 5 2 alex_lift_weights/1900 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1" #!String
+    spring: "800 Town 64 64 2 alex_football/1300 JoshHouse 14 5 2 alex_lift_weights/1600 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1" #!String
+

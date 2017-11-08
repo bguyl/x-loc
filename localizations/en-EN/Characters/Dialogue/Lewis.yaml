@@ -1,0 +1,62 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "So, how was your first night in the old cottage?#$e#Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house." #!String
+    Mon: "It's a good season to start thinking about gardening, even for us non-farmers.#$e# The valley is known for producing some of the finest spring flowers!$h" #!String
+    Tue: "Just place anything you want to sell in the shipping box next to your house.#$e#I'll be interested in seeing what kinds of things you put in there." #!String
+    Saloon_Entry: "Hi, Gus!" #!String
+    Tue2: "At the start of each season you'll have to remove the previous season's dead crops. It's easiest with a scythe." #!String
+    spring_3: "Have you planted any spring crops yet? The season doesn't last forever, you know." #!String
+    Town_57_40: "#$c .3#You're in town early, huh? Finished with your farm chores already?#$e#Good morning! I'm just checking on the garden as usual.$h#$c .5#Hmm... are these aphids?$s#$e#Hmm... I hope these aren't scale bugs...$s" #!String
+    Wed: "Hmm... tax collection... *mumble* ...spring festivities expenses... *mumble*...$u#$e#Yes?" #!String
+    spring_10: "Ah... There's nothing like a strong cup of tea in the morning." #!String
+    Thu: "The saloon can get pretty lively at night. Sometimes we even put a coin in the jukebox *chuckle*$h#$e#I like to visit once a week or so to catch up on things, anyway." #!String
+    Saloon: "Good evening! It's nice to see you socializing with the townsfolk.#$b#It's good to stop by once in a while and see what the latest news is.$h" #!String
+    Saloon4: "Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then.$h#$b#Your grandfather always worked himself too hard... I'll have an extra beer in his honor tonight." #!String
+    Fri: "I hope things are going well on %farm farm. I'd hate to see it all dried up." #!String
+    Sat: "Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though." #!String
+    Sun: "I've been Mayor of Pelican Town for over twenty years!#$e#No one ever runs against me when it's time for an election. I like to think that it means I'm doing my job well.#$e#I like being Mayor." #!String
+    event_secret1: "Thank you @. I won't forget this." #!String
+    event_secret2: "*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s" #!String
+    summer_Mon: "Gardening is a hobby of mine, so I'm excited for this warm weather." #!String
+    summer_Town_57_40: "#$c .3#Ah, my flowers are growing wonderfully!$h#$c .3#Good morning! Can you smell the sweet scent of these dew-lilies?#$e#It's early but the air is already quite warm. Summer is nice for an old guy like me hehe." #!String
+    summer_Tue: "How did I become Mayor in the first place? It's a long story.#$e#We're both too busy for stories right now." #!String
+    summer_Wed: "The moonlight jellies will be here soon. It's one of my favorite things about the valley." #!String
+    summer_Thu: "The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti." #!String
+    summer_Fri: "Hmm... I wonder if it's anyone's birthday today? I'd better check the calendar by Pierre's shop." #!String
+    summer_Sat: "Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though." #!String
+    summer_Sun: "Say, are you growing any blueberries on your farm?#$e#I do enjoy a fresh blueberry." #!String
+    fall_Mon: "Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you.#$e#Just be persistent and you'll get through to them.$h" #!String
+    fall_Tue: "It was around this time of year when I first became Mayor, over twenty years ago.#$e#That makes me feel really old.$s" #!String
+    fall_Wed: "If you have any suggestions for the town, just drop a note into my suggestion box.#$e#Oh, that's right... I don't have a suggestion box." #!String
+    fall_Wed2: "Every Wednesday I have buckwheat waffles and coffee for breakfast. It's a little tradition I keep to keep the bachelor life interesting.$h" #!String
+    fall_Town_57_40: "#$c .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?#$c .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end.#$e#Ah, you're in town early, huh? Finished with your farm chores already?" #!String
+    fall_Thu: "The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things." #!String
+    fall_Fri: "I hope things are going well for you on the farm." #!String
+    fall_12: "Do you have any bee houses on your farm?#$e#If you place them near flowers you can get different types of honey." #!String
+    fall_19: "Sometimes you can tell if there's something buried underground. Just keep your eyes open." #!String
+    fall_Fri4: "Have you tried Gus' 'secret' spaghetti sauce?$s#$b#...The ingredients may be secret, but the smell isn't.#$b#I'll see you later." #!String
+    fall_Sun: "Are you doing your best on the farm, @? You'll have to accomplish things in many areas if you want to become a well-rounded citizen." #!String
+    winter_1: "Well, winter is here! That means the townspeople will be spending most of their days indoors.#$e#At least you'll know where to find them!$h" #!String
+    winter_Mon: "Another year is almost over!#$e#I hope you had a productive year!" #!String
+    winter_Tue: "I've got to start coming up with a plan for improving our town next year!" #!String
+    winter_Wed: "I'll still come by every night to collect your produce, even in the snow.#$e#You still need to make money in the winter!" #!String
+    winter_Fri: "I hope things are going well for you on the farm." #!String
+    winter_Fri6: "I've never been married. I have no family. All I live for is to be Mayor.$s#$e#Is it worth it?$s#$e#...*sigh*...$s" #!String
+    winter_Sun: "Hi there, @! How're you doing today?$h#$e#If you see Marnie, tell her I say 'hi'." #!String
+

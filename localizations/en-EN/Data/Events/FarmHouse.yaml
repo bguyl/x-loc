@@ -1,0 +1,21 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    558291/y 3: "grandpas_theme/-2000 -1000/farmer 13 23 2/addTemporaryActor Grandpa 1 1 -100 -100 2 true/specificTemporarySprite grandpaSpirit/viewport -1000 -1000 true/pause 10000/speak Grandpa \"My dear boy...^My dearest grand-daughter...#$b#It's been many years since we last spoke. You were just a little boy... Do you remember?^It's been many years since we last spoke. You were just a little girl... Do you remember?#$b#Look how far you've come!#$b#Though you may have forgotten me, I've been here all along.#$b#You see... My body has departed this world, but my heart will always remain in Stardew Valley.\"/specificTemporarySprite grandpaNight/pause 4000/speak Grandpa \"You've been here two years now...\"/grandpaEvaluation/pause 3000/speak Grandpa \"The future of %farm Farm is in your hands, now.#$b#Farewell!\"/pause 1000/globalFade/removeTemporarySprites/playMusic none/pause 1000/end bed" #!String
+    558292/e 321777/t 600 620: "grandpas_theme/-2000 -1000/farmer 13 23 2/addTemporaryActor Grandpa 1 1 -100 -100 2 true/skippable/specificTemporarySprite grandpaSpirit/viewport -1000 -1000 true/pause 10000/speak Grandpa \"My dear boy...^My dearest grand-daughter...#$b#I'm glad you summoned me. I... was perhaps a little too harsh with you last time.#$b#Forgive me. You've been working very hard, and I'm proud of it.\"/specificTemporarySprite grandpaNight/pause 4000/speak Grandpa \"Let's see...\"/grandpaEvaluation2/pause 3000/globalFade/removeTemporarySprites/playMusic none/pause 1000/end bed" #!String
+

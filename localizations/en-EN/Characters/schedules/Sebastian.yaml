@@ -1,0 +1,34 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    11: "1000 SebastianRoom 9 4 3 sebastian_computer/1200 SebastianRoom 6 5 3/1710 ScienceHouse 27 9 0/1800 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1" #!String
+    15: "GOTO 11" #!String
+    rain: "1030 Beach 12 39 2 \"The ocean is best enjoyed alone... don't you think?\"/1700 SebastianRoom 11 9 1" #!String
+    rain2: "1030 SebastianRoom 9 4 3 sebastian_computer/1500 Saloon 43 20 3/2110 SebastianRoom 11 9 1" #!String
+    marriage_Mon: "830 Mountain 58 35 1 \"Standing at this spot really makes me want a smoke... but I'm determined to quit now.\"/1300 ScienceHouse 6 20 0 \"Mom's face lit up when I walked in. She deserves to be happy.$7\"/1700 BusStop -1 23 3" #!String
+    marriage_Fri: "830 Beach 12 39 2 \"I'm going to hang out with my old friends tonight. I'll be home later.\"/1500 Saloon 42 21 3 \"My skills haven't declined... Sam's still just as easy to beat.$h\"/2110 BusStop -1 23 3" #!String
+    fall: "1030 SebastianRoom 9 4 3 sebastian_computer/1200 Mountain 57 33 1/1400 Mountain 64 14 2/1500 Mountain 42 13 1 sebastian_smoking/1600 ScienceHouse 27 9 0/1730 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1" #!String
+    summer_4: "900 SebastianRoom 10 7 1 \"Dammit... I almost forgot. I have to go see Doctor Harvey today.\"/1000 Hospital 15 16 3 sebastian_cardsLeft/1330 Hospital 4 6 1 \"What are you doing in here? I could've been naked!$a\"/1600 SebastianRoom 11 9 1" #!String
+    11_6: "GOTO spring" #!String
+    25_6: "GOTO spring" #!String
+    Sat: "900 Town 18 95 0/1230 SamHouse 19 18 0 sebastian_keyboard_up/1500 SamHouse 17 14 0/1800 Town 10 94 1 sebastian_smoking/1930 SebastianRoom 11 9 1" #!String
+    Thu: "1030 SebastianRoom 9 4 3 sebastian_computer/1400 Railroad 32 47 1 sebastian_smoking/1800 Railroad 64 45 3/1930 Railroad 5 45 1/2130 SebastianRoom 11 9 1" #!String
+    Fri: "1030 SebastianRoom 9 4 3 sebastian_computer/1500 Saloon 42 21 3 \"Should I let Sam win for once? ...nah.$h\"/2110 SebastianRoom 11 9 1" #!String
+    spring: "1030 SebastianRoom 9 4 3 sebastian_computer/1500 ScienceHouse 27 9 0/1530 SebastianRoom 9 4 3 sebastian_computer/1830 Mountain 58 35 1 sebastian_smoking/2130 SebastianRoom 11 9 1" #!String
+    default: "GOTO spring" #!String
+

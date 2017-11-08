@@ -1,0 +1,56 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    name: "Dance Of The Moonlight Jellies" #!String
+    conditions: "Beach/2200 2400" #!String
+    set-up: "ocean/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Jellies/loadActors Set-Up/advancedMove Vincent true 0 12 3 3000 2 0 1 3000 0 -12 -2 0 3 3000/advancedMove Jas true 0 2 3 5000 0 -2 3 5000/advancedMove Clint false 2 50000 -2 0 3 500 2 1000 3 1000 1 0 2 1000/advancedMove Harvey True 0 -12 -10 0 0 6 2 25000 0 -6 10 0 0 12 2 25000/viewport 38 2 clamp true/pause 1000/playerControl jellies" #!String
+    mainEvent: "pause 500/globalFade/viewport -1000 -1000/changeLocation Beach/warp farmer1 28 36/warp spouse 29 36/positionOffset farmer 0 16/faceDirection spouse 2/warp farmer2 29 35/warp farmer3 34 36/warp farmer4 35 36/faceDirection farmer1 2/faceDirection farmer2 2/faceDirection farmer3 2/faceDirection farmer4 2/specificTemporarySprite candleBoat/viewport 26 36 true/pause 2000/move Lewis 0 1 2/move Lewis -2 0 3/pause 400/showFrame Lewis 16 true/animate Lewis false false 200 25 16 17 17/pause 800/playSound parry/specificTemporarySprite candleBoatMove/pause 500/showFrame Lewis 0 true/animate Lewis false false 200 25 12/pause 400/faceDirection Lewis 2/pause 6000/specificTemporarySprite moonlightJellies/pause 10000/playMusic moonlightJellies/pause 30000/viewport move -1 0 8000/pause 10000/viewport move 1 0 20000/pause 18000/globalFade/viewport -1000 -1000/pause 2000/pause 1000/message \"The glow of summer has faded, now... and the moonlight jellies carry on toward the great unknown.\"/playMusic none/pause 2000/end" #!String
+    Leah_spouse: "Hey. I'm paying my respects to another bygone summer. I'll come meet up with you when we launch the candle-boat." #!String
+    Abigail: "Such a rare and exciting thing... " #!String
+    Robin: "*yawn*... It's past my bed-time.$s#$e#Hey, did you see that candle-boat? I crafted it myself.$h" #!String
+    Demetrius: "The 'Moonlight Jelly'... what a remarkable species! We're very lucky that they stop here on their long journey south.#$e#It's unknown why they are attracted to light... very curious." #!String
+    Maru: "It's kind of cold, actually. I guess fall is right around the corner." #!String
+    Sebastian: "I thought I saw something moving in there... something big, something dark.#$e#Just trying to scare you...$h" #!String
+    Pierre: "Psst... Make sure to swing by the shop tomorrow to get your fall seeds!" #!String
+    Caroline: "These candles are romantic, aren't they?" #!String
+    Linus: "I'll just sneak up when the jellies arrive... I don't want to bother anyone." #!String
+    Alex: "I can't believe summer's over... I feel like it just started.$s" #!String
+    George: "What, why are you looking at me like that? You think I'm too old to enjoy something like this?" #!String
+    Evelyn: "I remember seeing the jellies once, as a little girl. Oh, how I jumped with joy when they arrived!#$e#But that was long ago... I'm a lot less energetic now." #!String
+    Lewis: "Good evening, @. The Moonlight Jellies are close... I already saw one glowing in the distance.#$b#Once we launch the candle-boat they'll come up to the docks and say hello." #!String
+    Clint: "I wore my special shoes tonight... No one noticed.$s" #!String
+    Emily: "Look out there, at the endless sea. Deep underwater, all kinds of life forms are moving around in the dark.#$b#Eerie, isn't it?" #!String
+    Penny: "Life is so easy for a jellyfish... just letting the waves carry you onward forever." #!String
+    Pam: "Don't tell Gus, but I'm a little disappointed there's no buffet tonight." #!String
+    Haley: "I should've brought my camera! I always forget.$s" #!String
+    Jodi: "There! I just saw something glowing!#$b#Oh... It's gone.$s" #!String
+    Kent: "Good evening, @. Hope you can find some time to relax before the harvest season." #!String
+    Sam: "I wonder if they're poisonous?#$e#Maybe I shouldn't push Sebastian in the water after all...$h" #!String
+    Leah: "Hey. I'm paying my respects to another bygone summer. " #!String
+    Shane: "The jellies were here a year ago, and they'll be back again a year from now... nature is amazing." #!String
+    Marnie: "That's a heavy load of people for an ancient wooden dock! I'll stay over here near the beach." #!String
+    Elliott: "If we keep polluting the oceans, the jellies will surely go extinct. It's already in the process of happening.#$e#What a shame... we have no respect for nature anymore." #!String
+    Gus: "'Moonlight Jellies'... I wonder how they taste?$h#$b#I would never try it, of course!$u" #!String
+    Dwarf: "You say it's raining up above? *gasp*#$e#Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it." #!String
+    Wizard: "How did you find me back here? I thought I was well-hidden.#$b#Perhaps you are blessed with the gift of clairvoyance.#$e#I'm here to observe the Lunaloos... or 'Moonlight Jellies', as you call them. They possess an unusually potent magical aura for an aquatic life form." #!String
+    Harvey: "Well, summer's over. To be honest, I'll be happy to say goodbye to these blasted mosquitos!" #!String
+    Sandy: "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s" #!String
+    Jas: "I hope there are babies this year!" #!String
+    Vincent: "I wanna see the rare green jelly!" #!String
+    Willy: "Most night-fish would be scared of the light... these are strange ones." #!String
+

@@ -1,0 +1,24 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    spring_25: "800 Trailer 15 4 2 pam_sit_down/1130 Hospital 4 17 2 pam_sit_down \"*grumble*... Doctor know-it-all... *grumble*$4\"/1330 Hospital 4 6 1 \"How much do I drink every day? What kind of a question is that?$u\"/1600 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
+    bus: "800 Trailer 15 4 2 pam_sit_down/830 BusStop 11 10 2/1700 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
+    spring: "800 Trailer 15 4 2 pam_sit_down/1200 JojaMart 6 19 1/1600 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
+    JojaMart_Replacement: "SeedShop 2 24 3" #!String
+

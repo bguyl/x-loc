@@ -1,0 +1,39 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Hmmph... It's irritating to have to meet all these new people, huh?#$b#Name's George, by the way. Now buzz off... Hmmph." #!String
+    Mon: "I'm not much of a talker. Especially not to strangers, if you don't mind me saying." #!String
+    Tue: "Hmmph... Looks like another gloomy day.$s" #!String
+    Wed: "Alex is my grandson. Have I told you that already?#$e#Huh? Speak up." #!String
+    Wed_inlaw_Alex: "How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...^You're part of the family, now. I'm glad that my grandson found such a nice wife." #!String
+    Wed10_inlaw_Alex: "I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud." #!String
+    Thu: "I can't talk right now, young man.^I can't talk right now, miss.#$e#My favorite program is on." #!String
+    Fri: "So you're a farmer, huh? At least it's honest work." #!String
+    Sat: "The weekend is no different than any other time, for me.#$e#That's how it is when you're retired." #!String
+    Sun: "Aren't you cold? They don't make sweaters like they used to.#$e#*Sigh*" #!String
+    Mon6: "I'm surprised you want to be friends with an old-timer like me." #!String
+    Thu6: "Hello, @. Wanna watch the TV with me?" #!String
+    Fri4: "My grand-pap was a farmer. It's a respectable profession.#$e#If I wasn't so darned old I'd come to your farm and show you a thing or two..." #!String
+    Wed8: "I wish my legs worked so I could play catch with Alex.$s#$e#That'll never happen.$s" #!String
+    Fri8: "I've been thinking...Maybe I've been a little bit of a grouch.$s#$e#I used to think no one cared about us old folks." #!String
+    Fri10: "You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, son.^Take care, hun." #!String
+    Wed10: "@! Let me turn off this darned television and we can have a little chat.$h#$e#So what are the young people doing these days?" #!String
+    Tue10: "You know, I shouldn't get too depressed about my legs.#$e#I should just be happy that I'm alive.$h" #!String
+    Thu10: "When you get as old as me it's a lot harder to adjust to new things.#$e#One day you'll know what I mean.#$e#Go on, enjoy yourself while you're still young." #!String
+    winter_1: "Ohh... It's so cold.#$e#When you're young the cold doesn't bite as hard." #!String
+

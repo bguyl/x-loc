@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "900 SamHouse 4 8 0/1100 SamHouse 2 15 2 vincent_play/1400 SamHouse 4 14 2 square_3_3/1700 SamHouse 5 7 3/1900 SamHouse 11 22 2 vincent_play/2000 SamHouse 8 22 3" #!String
+    summer: "900 SamHouse 4 8 0/1100 SamHouse 2 15 2 vincent_play/1340 Beach 43 24 2 vincent_beach/1900 SamHouse 4 8 0/2100 SamHouse 8 22 3" #!String
+    spring_11: "900 SamHouse 4 8 0 \"*sob*... I have to get my shots today.$s\"/1130 Hospital 12 14 0 \"*gulp*... Mommy, don't make me do it.$s\"/1330 Hospital 4 6 1 \"Do I get a lollipop for being so brave?\"/1600 SamHouse 11 22 2 vincent_play/2000 SamHouse 8 22 3" #!String
+    Tue: "900 ArchaeologyHouse 16 10 1 vincent_read_right/1400 Town 83 100 3/1620 Town 15 90 1/1740 SamHouse 4 8 0/2000 SamHouse 8 22 3" #!String
+    Wed: "GOTO Tue" #!String
+    Fri: "GOTO Tue" #!String
+    Sat: "1010 Town 31 90 1/1200 Town 16 11 1 square_5_3/1700 Town 28 91 1/2000 SamHouse 8 22 3" #!String
+    spring: "900 SamHouse 4 8 0/1100 SamHouse 2 15 2 vincent_play/1400 Town 12 72 2 square_5_3/1700 SamHouse 5 7 3/1900 SamHouse 11 22 2 vincent_play/2000 SamHouse 8 22 3" #!String
+

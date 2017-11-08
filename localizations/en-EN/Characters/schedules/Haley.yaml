@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "830 HaleyHouse 2 5 2 \"The weather's too horrible to get out of bed.\"/1030 HaleyHouse 6 5 0/1130 HaleyHouse 8 7 1/1200 HaleyHouse 19 16 0 square_5_1_0/1600 HaleyHouse 5 7 2 square_5_5/1900 HaleyHouse 7 16 0/2200 HaleyHouse 1 5 3" #!String
+    marriage_Mon: "930 HaleyHouse 4 15 2 \"Hi, honey! I'm mostly just here to visit Emily.\"/1540 BusStop -1 23 3" #!String
+    winter_9: "900 HaleyHouse 6 5 0/950 HaleyHouse 8 7 1/1030 Hospital 12 14 0 \"It's nothing serious... I'm just here for my annual check-up.\"/1330 Hospital 4 6 1 \"Well... my nose has been a little runny, Doctor. But otherwise I'm doing fine!\"/1600 HaleyHouse 19 16 0 square_5_1_0/2000 HaleyHouse 5 7 0 square_5_5/2230 HaleyHouse 1 5 3" #!String
+    winter: "830 HaleyHouse 2 5 2 \"It's too cold to get out of bed.\"/1030 HaleyHouse 6 5 0/1130 HaleyHouse 8 7 1/1200 HaleyHouse 19 16 0 square_5_1_0/1600 HaleyHouse 5 7 2 square_5_5/1900 HaleyHouse 7 16 0/2200 HaleyHouse 1 5 3" #!String
+    Wed_6: "GOTO season" #!String
+    Wed: "NOT friendship Alex 6/900 HaleyHouse 6 5 0/950 HaleyHouse 8 7 1/1200 HaleyHouse 5 20 2/1630 HaleyHouse 19 16 0 square_5_1_0/2000 HaleyHouse 5 7 0 square_5_5/2230 HaleyHouse 1 5 3" #!String
+    summer: "840 HaleyHouse 6 5 0/930 HaleyHouse 8 7 1/1030 Beach 19 7 2/1330 Town 90 91 3/1700 HaleyHouse 19 16 0 square_5_1/2000 HaleyHouse 5 7 2 square_5_5/2300 HaleyHouse 1 5 3" #!String
+    spring_Mon: "800 HaleyHouse 6 5 0/830 HaleyHouse 1 8 2/1000 HaleyHouse 19 16 0/1100 Forest 77 44 2 haley_photo/1630 HaleyHouse 19 16 0 square_5_1/2000 HaleyHouse 5 7 2 square_5_5/2300 HaleyHouse 1 5 3" #!String
+    fall_Mon: "GOTO spring_Mon" #!String
+    spring: "900 HaleyHouse 6 5 0/950 HaleyHouse 8 7 1/1100 Town 23 22 2/1630 HaleyHouse 19 16 0 square_5_1_0/2000 HaleyHouse 5 7 0 square_5_5/2230 HaleyHouse 1 5 3" #!String
+

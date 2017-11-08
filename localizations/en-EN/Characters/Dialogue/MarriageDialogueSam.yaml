@@ -1,0 +1,72 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Rainy_Day_0: "Might be a good day to sit back and jam on the guitar...#$e#Hey, you can relax too if you want." #!String
+    Rainy_Day_1: "Do you think Sebastian and Abigail will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too." #!String
+    Rainy_Day_2: "Hey, I found one of these rolling around in the back of a drawer. [90 88 86 535]#$e#I thought you might be able to use it." #!String
+    Rainy_Day_3: "Aw, man. These cloudy days are kind of a drag...$7" #!String
+    Rainy_Day_4: "How'd you sleep? The sound of rain really makes me zonk." #!String
+    patio_Sam: "*Sigh*... I'm never gonna land this trick...$s" #!String
+    Rainy_Night_0: "Hey, how was your day? I just layed around and read comics most of the day... it was great.$h" #!String
+    Rainy_Night_1: "It was a pretty low-key day for me... colas, frozen pizza, a few hours noodling around on the guitar. I feel relaxed." #!String
+    Rainy_Night_2: "Earlier, I listened to our live recording from that show we played. Remember that? Man, was that sloppy.#$b#It made me a little nervous that you were there, I didn't want to mess up and have you think I was a loser!$l" #!String
+    Rainy_Night_3: "I hope Vincent's not too lonely now that I'm gone... I kinda felt responsible for the little guy.$s#$e#But, life's all about change... right? Kids need to learn that, eventually... Or else adulthood will destroy them.$7" #!String
+    Rainy_Night_4: "Hey, I tossed a couple frozen pizzas into the oven. Here's yours. [206]$h" #!String
+    Indoor_Day_0: "Phew... I'll tell you one thing I don't miss about my old life... working at JojaMart." #!String
+    Indoor_Day_1: "Hey, I made you some instant pancakes. Enjoy. [211]$h#$e#What? I never learned to cook... mom always did that." #!String
+    Indoor_Day_2: "Hey. I know I joke around a lot, but I want you to know that I seriously love you...$l" #!String
+    Indoor_Day_3: "Do you have big plans for the day?#$e#Oh, not me... I usually decide what to do a few moments beforehand..." #!String
+    Indoor_Day_4: "Um... Maybe I'll help out on the farm some other day. I feel lazy today.$s#$e#You're not mad?" #!String
+    Indoor_Night_0: "Hey, you look tired. Let me help you relax tonight, okay? Maybe I'll give you a massage later." #!String
+    Indoor_Night_1: "My day? Oh... I can hardly remember. I didn't really do anything of note. Just relaxed and had a good time." #!String
+    Indoor_Night_2: "Hey, sorry I didn't make the bed. You know I'm sloppy... that's why you like me, right?$h" #!String
+    Indoor_Night_3: "The only thing I miss about living at home is Mom's fish casserole" #!String
+    Indoor_Night_4: "Ready to hit the hay? I actually made the bed for once..." #!String
+    Outdoor_0: "Maybe I should get some off-road wheels for my skateboard. Mayor Lewis can't touch me out here.$h" #!String
+    Outdoor_1: "I always keep an eye on the wide blue sky... you never know when a UFO might go by." #!String
+    Outdoor_2: "Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll try and help you with encouraging thoughts.$h" #!String
+    Outdoor_3: "Something in the air makes me feel positive... maybe it's the faint whiff of pizza from Gus' ovens." #!String
+    Outdoor_4: "Wow... you look great today, and the specks of mud just add some extra charm.$l" #!String
+    OneKid_0: "I'll change %kid1's diaper... don't worry about it. You've got enough on your plate." #!String
+    OneKid_1: "It's weird, but I really like being a father!$h" #!String
+    OneKid_3: "I think we should have another kid. Why stop now?" #!String
+    TwoKids_0: "I woke up early, fed the kids and changed their diapers! We're all set. You can just focus on raking in that sweet money.$h#$e#I'm just kidding... I didn't marry you for the money." #!String
+    TwoKids_1: "We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them." #!String
+    TwoKids_2: "It's fun to see the babies playing with each other. I think they're going to be very close." #!String
+    TwoKids_3: "I never thought I'd become such a family man, but I'm really satisfied with what we've built here. Life is going great.$l" #!String
+    Good_1: "Do you ever think of that night we snuck into my room? I do, often...$l" #!String
+    Good_2: "You know, I think I had a feeling we'd be together from the very beginning. There's just something special between us.$l" #!String
+    Good_3: "Wow, you look really handsome today! Did you do something with your hair?$l^Wow, you look stunning today. Did you do something new with your hair?$l" #!String
+    Good_6: "Be careful out there! I know you go into the caves sometimes... you could be eaten alive in there!" #!String
+    Good_4: "Baby, I was just gonna write you a song on the guitar. But now you're here and I feel relaxed.#$e#I mainly feel like playing guitar when I'm lonely." #!String
+    Good_5: "Baby, talk to me! I'm always interested to hear about your day." #!String
+    funLeave_Sam: "I'm gonna visit the family today, okay? I'll be home in the evening." #!String
+    funReturn_Sam: "Seeing family is nice, but it's also kind of depressing in a weird way. Like... our lives are totally separate now, and everything feels more formal than it used to.$7" #!String
+    spring_1: "Ub... spring... my doze... allergies.$s" #!String
+    spring_12: "Are you excited for tomorrow's festival? It'll be cool to see Sebastian again." #!String
+    spring_23: "Oh... tomorrow's the flower dance, isn't it? I thought I could get out of it now that we're married.#$e#Whatever. I guess it's funny in a weird way." #!String
+    summer_1: "The pollen count is a little lower in summer, so my nose is really happy.$h" #!String
+    summer_10: "Have you thought about what you're going to put in the luau soup?#$e#It might be funny to put something nasty. You know, to play a prank on the governor!$h#$e#Sorry..." #!String
+    summer_27: "Summer's great, but I'm ready for the fall now.#$e#Should we watch the jellyfish tomorrow night? It's always kind of fun." #!String
+    fall_1: "It seems like the whole valley's changed overnight... I guess fall's finally here." #!String
+    fall_15: "Hey, tomorrow's the fair. I need to get my old slingshot wrist back in shape..." #!String
+    fall_26: "I wonder if Mom will let Vincent enter the haunted maze this year. Probably not...$h#$e#Poor kid. He's gonna have to grow up some day..." #!String
+    winter_1: "The cold air makes my hair gel freeze. It's not very pleasant.$s" #!String
+    winter_7: "Are we going to stop by the ice festival tomorrow? It might be fun to see everyone again..." #!String
+    winter_28: "We had a great year, @... it's kind of sad that it's over.#$e#We'll just have to make next year even better!$h" #!String
+

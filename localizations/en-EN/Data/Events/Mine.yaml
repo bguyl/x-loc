@@ -1,0 +1,22 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    901756/f Abigail 2500/t 1700 2400/o Abigail: "Upper_Ambient/18 7/farmer -1000 -1000 0 Abigail 18 11 0/skippable/move Abigail 0 -3 1/move Abigail 5 0 2/pause 500/animate Abigail false false 150 26 24 25 25 25 25/pause 450/playSound sandyStep/stopAnimation Abigail/showFrame Abigail 25/pause 2000/playSound batFlap/pause 500/playSound batFlap/pause 500/playSound batFlap/pause 500/emote Abigail 8/pause 1000/specificTemporarySprite abbyOneBat/playSound batScreech/showFrame Abigail 32/shake Abigail 2000/pause 2000/showFrame Abigail 0/pause 600/animate Abigail false true 100 28 29/pause 1200/stopAnimation Abigail/pause 1000/specificTemporarySprite abbyManyBats/showFrame Abigail 32/shake Abigail 2000/pause 2000/speed Abigail 8/move Abigail 0 -4 0/speed Abigail 8/move Abigail 2 0 0/animate Abigail false false 100 21 20 20/pause 200/showFrame Abigail 20/shake Abigail 10000/pause 2000/warp farmer 18 13/move farmer 0 -5 0/pause 1000/faceDirection farmer 1/pause 300/emote farmer 16/speed farmer 8/move farmer 6 0 0/speed farmer 8/playMusic desolate/move farmer 0 -4 1/speak Abigail \"$q 776589 null#*sniff*$s#$r 776589 20 Event_Cave2_1#What happened?#$r 776589 40 Event_Cave2_2#Are you okay?\"/pause 500/animate Abigail false false 100 21 0 0/pause 200/stopAnimation Abigail/faceDirection Abigail 3/pause 500/speak Abigail \"You know I've been practicing my swordsmanship for a while...$9#$b#Well I decided today would be the day I venture into the caves...$8\"/pause 500/faceDirection Abigail 1/pause 1000/speak Abigail \"...but I got scared. I couldn't do it.$8\"/pause 500/faceDirection Abigail 3/speak Abigail \"$q 34 null#I guess I'm not as tough as I thought...$8#$r 34 20 Event_Cave_1#You're safe with me.#$r 34 40 Event_Cave_2#I get scared too.#$r 34 -50 Event_Cave_3#You're crying like a little baby. Stop.\"/faceDirection Abigail 3/stopMusic/pause 1500/playMusic sadpiano/pause 1800/speak Abigail \"@, I... I really like you... And not just as a friend. You know that, right?$l\"/pause 1000/speak Abigail \"I can't believe I'm actually saying this... But I can't keep it in anymore. I've felt this way for a long time.$l\"/pause 1800/speak Abigail \"You don't have to say anything right now. Let's just stay here for a while...$l^I didn't know I felt this way about other girls... until I met you.\"/playMusic Upper_Ambient/pause 1000/showFrame Abigail 33/showFrame 101/pause 2500/globalFade/viewport -1000 -1000/end" #!String
+    100162/t 600 2600: "MarlonsTheme/21 9/farmer -100 -100 0 Marlon 23 6 2/addQuest 14/skippable/pause 1000/move Marlon 0 2 2/pause 500/showFrame Marlon 4/pause 1000/speak Marlon \"Hmmm... \"/pause 500/warp farmer 18 13/playSound stoneStep/move farmer 0 -3 1/move farmer 5 0 0/pause 500/showFrame Marlon 0/pause 500/speak Marlon \"...I was just peering down into this old mine shaft.#$b#It's been abandoned for decades.\"/pause 500/showFrame Marlon 4/speak Marlon \"Still, there's probably good ore down there.#$b#But a dark place, undisturbed for so long... I'm afraid ore isn't the only thing you'll find...\"/pause 500/showFrame Marlon 0/pause 500/speak Marlon \"Here, take this. You might need it.\"/pause 500/playSound dwop/faceDirection farmer 1 true/pause 50/faceDirection farmer 2/itemAboveHead sword/pause 3300/awardFestivalPrize sword/pause 300/faceDirection farmer 1 true/pause 100/faceDirection farmer 0/pause 500/speak Marlon \"Name's Marlon, by the way. I run the adventurer's guild right outside.#$b#I'll keep my eye on you. Prove yourself and I might think about making you a member.\"/pause 500/end" #!String
+    PlayerKilled: "none/-100 -100/farmer 19 10 2 {0} 18 10 1/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 19 10 true/pause 1000/speak {0} {1}/move {0} 0 3 2/warp {0} -100 -100/showFrame 0/pause 1000/emote farmer 28/minedeath/end" #!String
+

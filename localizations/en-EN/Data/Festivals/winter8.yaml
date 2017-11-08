@@ -1,0 +1,66 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    name: "Festival of Ice" #!String
+    conditions: "Forest/900 1400" #!String
+    shop: "BO 113 5000 1 O 746 750 5 BL 746 2000 1" #!String
+    set-up: "christmasTheme/-1000 -1000/farmer 68 0 1/changeToTemporaryMap Forest-IceFestival/loadActors Set-Up/animate Robin false true 100 24 25 26 24 25 26 24 25 26 24 25 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27/advancedMove Pierre true -1 0 0 -1 1 5000 0 1 1 0 4 5000/advancedMove Vincent true 0 3 3 0 2 5000 0 -5 2 0 1 5000 -5 0 0 2 3 5000/advancedMove Pam true -5 0 0 1 2 5000 0 -1 5 0 2 7000/playerControl iceFestival" #!String
+    mainEvent: "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Alright, everyone. Let's begin this year's ice fishing competition.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Contestants, your goal is to catch as many fish as you possibly can in two minutes using the provided fishing rods.#$b#You must catch your fish here, from these holes in the ice.\"/pause 600/speak Lewis \"Well, is everyone ready?\"/pause 500/waitForOtherPlayers/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"Begin!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 -1 0 0 2 1 8000 0 -1 1 6000 0 -1 1 0/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing" #!String
+    afterIceFishing: "pause 100/playSound whistle/pause 1000/globalFade/viewport -1000 -1000/extendSourceRect Pam reset/extendSourceRect Willy reset/extendSourceRect Elliott reset/specificTemporarySprite iceFishingCatch/faceDirection Pam 0/faceDirection Willy 0/faceDirection Elliott 0/playMusic event1/loadActors MainEvent/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/pause 1000/viewport 71 35 true/pause 2000/move Lewis 0 4 2/speak Lewis \"Wow, that's a lot of fish!$h\"/pause 300/showFrame Lewis 18/shake Lewis 1000/speak Lewis \"*gag*... the smell...$s\"/pause 500/showFrame Lewis 0/pause 600/move Lewis 0 1 2/speak Lewis \"Now, for the winner of this year's ice fishing competition...\"/pause 800/playMusic none/pause 3000/cutscene iceFishingWinner/null/playMusic event1/pause 500/fork DickWin/move Lewis 0 1 2/speak Lewis \"Here's your prize! Enjoy.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Well, that's it for this year's Festival of Ice. Thanks for coming, everyone! #$b#Now let's release these poor fish...$s\"/move Lewis -3 0 0/move Lewis 0 -1 0/advancedMove Willy true 0 3 -2 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/message \"I can't believe I won! Well, time to head home.\"/end" #!String
+    DickWin: "pause 100/jump Willy/faceDirection Elliott 3/pause 800/move Willy 0 -1 0/faceDirection Elliott 0/speak Lewis \"Here's your prize, Willy. Enjoy\"/pause 500/move Willy 0 -2 0/move Lewis -1 0 2/move Lewis 0 1 2/playSound coin/pause 400/move Lewis 0 -1 0/pause 500/speak Lewis \"Well, that's it for this year's Festival of Ice. Thanks for coming, everyone!#$b#Now let's release these poor fish...$s\"/move Lewis -2 0 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/message \"I didn't win the competition, but it was still fun! Time to head home.\"/end" #!String
+    Abigail_spouse: "Hey, honey... look, it's you!$h" #!String
+    Penny_spouse: "Are you entering the fishing contest this year, @? My mom's pretty serious about winning." #!String
+    Haley_spouse: "Brr... my hands are freezing from making this snowman.$l" #!String
+    Sebastian_spouse: "Don't worry about me, I never get cold..." #!String
+    Sam_spouse: "Aren't you cold? Are you sure you don't want my jacket?" #!String
+    Alex_spouse: "I'll be rooting for you in the fishing competition." #!String
+    Harvey_spouse: "I'm dreaming of our warm fire back home...$l" #!String
+    Elliott_spouse: "I know you'll beat me in the fishing competition, but I don't mind. I'm just here for the fun of it.$h" #!String
+    Abigail: "What do you think of my snow-goon?" #!String
+    Robin: "I'm sorry, but carving ice parapets requires my undivided attention!" #!String
+    Demetrius: "You know what? I probably should've worn a jacket." #!String
+    Maru: "I'm not very creative when it comes to snowmen.$s" #!String
+    Sebastian: "Cold? Nah, I never get cold." #!String
+    Pierre: "This snow is so cold I can't feel my fingers anymore...$s" #!String
+    Shane: "If it was up to me, I'd probably have a pizza festival at the saloon, instead..." #!String
+    Caroline: "How's winter coming along for you, @?$h" #!String
+    Linus: "Igloo-building's an art I picked up from the tundra dwellers who live beyond the frozen sea.#$e#That was many years ago.$h#$e#An Igloo makes a nice home, but it's easier to just stay in my tent year-round." #!String
+    Alex: "Snowmen are okay, I guess. But mostly I'm looking forward to the spring." #!String
+    George: "Hmmph... Wife dragged me out into the cold for this?" #!String
+    Evelyn: "Did I ever tell you how George and I first met? He actually pelted me with a snowball in this very festival.#$e#He was a gentleman back then, and came over to see if I was okay.$h" #!String
+    Lewis: "Welcome to the Festival of Ice!#$e#The highlight of today's festival is the ice fishing competition. We set up this 'frozen lake' and stocked it full of fish.#$b#Just let me know when you're ready to compete." #!String
+    Clint: "Emily started helping me without any provocation... does that mean something? *gulp*$4" #!String
+    Emily: "Wow, this snowman needs a makeover. Who made this?$s" #!String
+    Penny: "$y 'Hmm... What kind of snowman should we make?_A classic one. Carrot nose, top-hat, scarf._I guess maybe it's best to stick with the classics, huh?$h_Something funky. Icicle antennas, pine cone eyes._Okay! That sounds like fun.$h_Snowmen are boring. Think outside of the box!_Um, okay... I think I might stick with something more conventional.'" #!String
+    Pam: "I plan on winning the ice fishing competition!#$e#Willy is gonna be pretty hard to beat, though... He does this kinda stuff day and night.$s" #!String
+    Haley: "I guess Winter isn't all bad... playing in the snow can be fun!" #!String
+    Jodi: "The forest looks beautiful in the winter, doesn't it?" #!String
+    Kent: "I like winter. It's peaceful." #!String
+    Sam: "Hey, @. Are you gonna enter the ice fishing competition?#$e#Oh, not me. I don't know how to fish." #!String
+    Leah: "Oh, ice. A beautiful material to sculpt in, but so impermanent.#$e#But I guess that might make the art even better." #!String
+    Marnie: "I feel bad for all the poor, cold animals out there.$s" #!String
+    Elliott: "I'm entering the ice fishing competition today. Why not?#$e#It's rare that Willy ever loses, though." #!String
+    Gus: "Sorry there's no food.#$e#Just wait until the Feast of the Winter Star. You'll be stuffed for days." #!String
+    Willy: "$y 'Hey, @. Ready for some ice fishing?_Yes. I'll do my best!_That's the spirit!$h_Yes, and I'm going to beat you!_We'll see.$h_To be honest, no. I'm bad at fishing._Well, then think of it as good practice!$h'" #!String
+    Wizard: "Sneaking off to visit my weird tower? You're odd for a mundane." #!String
+    Harvey: "Extreme temperatures can put your body under a lot of stress, so make sure to bundle up!#$e#Oh, and enjoy the festival!$h" #!String
+    Sandy: "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s" #!String
+    Jas: "I wanna give him a carrot nose!$h" #!String
+    Vincent: "I saw a big fish down there!" #!String
+    Marlon: "Hey, good afternoon." #!String
+

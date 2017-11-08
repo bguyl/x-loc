@@ -1,0 +1,51 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Green Slime: "24/5/0/0/false/1000/766 .75 766 .05 153 .1 66 .015 92 .15 96 .005 99 .001/1/.01/4/2/.00/true/3/Green Slime" #!String
+    Dust Spirit: "40/6/0/0/false/1000/382 .5 433 .01 336 .001 84 .02 414 .02 97 .005 99 .001/2/.00/4/3/.00/true/2/Dust Spirit" #!String
+    Bat: "24/6/0/0/true/1000/767 .9 767 .4 108 .001 287 .02 96 .005 99 .001/1/.01/4/3/.00/true/3/Bat" #!String
+    Frost Bat: "36/7/0/0/true/1000/767 .9 767 .55 108 .001 287 .02 97 .005 99 .001/1/.01/4/3/.00/true/7/Frost Bat" #!String
+    Lava Bat: "80/15/0/0/true/1000/767 .9 767 .7 108 .001 287 .02 98 .005 99 .001/1/.01/4/3/.00/true/15/Lava Bat" #!String
+    Stone Golem: "45/5/0/0/false/1000/390 .9 80 .1 382 .1 380 .1 96 .005 99 .001/5/.01/3/2/.00/true/5/Stone Golem" #!String
+    Wilderness Golem: "30/5/0/0/false/1000/771 .9 771 .5 770 .5 382 .1 86 .005 72 .001/1/.01/3/2/.00/true/5/Wilderness Golem" #!String
+    Grub: "20/4/0/0/false/1000/684 .6 157 .02 114 .005 96 .005 99 .001/0/.005/3/1/.00/true/2/Grub" #!String
+    Fly: "22/6/0/0/true/1000/684 .9 157 .02 114 .005 96 .005 99 .001/1/.005/13/2/.0/true/10/Fly" #!String
+    Frost Jelly: "106/7/0/0/false/1000/766 .75 412 .08 70 .02 98 .015 92 .5 97 .005 99 .001/0/.01/4/2/.0/true/6/Frost Jelly" #!String
+    Sludge: "205/16/0/0/false/1000/766 .8 157 .1 -4 .1 72 .01 92 .5 98 .005 99 .001/0/.01/4/2/.0/true/10/Sludge" #!String
+    Shadow Guy: "125/20/0/0/false/0/769 .75 769 .1 329 .02 337 .002 336 .01 335 .02 334 .04 203 .04 293 .03 108 .003 -4 .1 98 .005 99 .001/2/.01/-1/2/.0/true/15/Shadow Guy" #!String
+    Ghost: "96/10/0/3/false/0/768 .95 768 .1 156 .08 338 .08 -6 .2 97 .005 99 .001/3/.01/12/4/.0/true/15/Ghost" #!String
+    Duggy: "40/6/0/0/false/0/286 .25 535 .25 280 .03 105 .02 86 .1 72 .01 96 .005 99 .001/0/.01/1/2/.0/true/10/Duggy" #!String
+    Rock Crab: "30/5/0/0/false/0/717 .15 286 .4 96 .005 99 .001/1/0/1/2/.0/true/4/Rock Crab" #!String
+    Lava Crab: "120/15/0/0/false/0/717 .25 287 .4 98 .005 99 .001/3/0/1/3/.0/true/12/Lava Crab" #!String
+    Fireball: "1/18/0/0/true/0/72 .0000001/0/0/-1/3/.00/false/0/Fireball" #!String
+    Squid Kid: "1/18/0/0/true/0/768 .75 336 .05 287 .1 288 .05 98 .005 99 .001/2/0/6/3/.0/true/15/Squid Kid" #!String
+    Skeleton Warrior: "300/12/1/3/false/0/769 .25 105 .03 106 .03 166 .001 60 .04 232 .04 72 .03 74 .01 97 .005 99 .001/3/0/5/2/.0/true/15/Skeleton Warrior" #!String
+    Crow: "1/0/0/1/false/0/-4 .9/3/0/5/2/.0/false/1/Crow" #!String
+    Frog: "1/0/0/1/false/0/-4 .9/3/0/5/2/.0/false/1/Frog" #!String
+    Cat: "300/0/0/0/false/0/-6 .001/3/0/6/2/.0/false/0/Cat" #!String
+    Shadow Brute: "160/18/0/0/false/0/769 .75 769 .1 337 .002 336 .01 335 .02 334 .04 203 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005/2/.01/8/3/.0/true/15/Shadow Brute" #!String
+    Shadow Shaman: "80/17/0/0/false/0/769 .75 769 .2 337 .002 336 .01 335 .02 334 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005/2/.01/8/3/.0/true/15/Shadow Shaman" #!String
+    Skeleton: "140/10/0/2/false/2000/80 0/1/.01/8/2/.0/true/8/Skeleton" #!String
+    Skeleton Mage: "60/5/0/2/false/2000/80 0/1/.01/8/2/.0/true/8/Skeleton Mage" #!String
+    Metal Head: "40/15/0/0/false/2000/768 .65 378 .1 378 .1 380 .1 380 .1 382 .1 98 .005 99 .001/8/.01/8/2/.0/true/6/Metal Head" #!String
+    Spiker: "5/5/0/0/false/2000/378 .1 378 .1 380 .1 380 .1 382 .1/4/.01/8/2/.0/true/1/Spiker" #!String
+    Bug: "1/8/0/0/false/2000/684 .76 157 .02 114 .005 96 .005 99 .001/0/0/-1/2/.0/true/1/Bug" #!String
+    Mummy: "260/30/0/3/false/1000/768 .99 768 .15 428 .05 243 .04 99 .001 74 .001/0/.01/8/2/.0/true/20/Mummy" #!String
+    Big Slime: "60/5/0/0/false/1000/766 .99 766 .9 766 .4 99 .001/0/.01/5/2/.0/true/7/Big Slime" #!String
+    Serpent: "150/23/0/2/true/1000/769 .99 769 .15 287 .15 226 .06 446 .008 74 .001/0/.01/13/2/.0/true/20/Serpent" #!String
+

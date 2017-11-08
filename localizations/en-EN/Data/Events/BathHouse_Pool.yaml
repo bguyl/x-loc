@@ -1,0 +1,21 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    38/f Penny 2500/t 1900 2400/n pennySpa: "echos/-1000 -1000/farmer 13 23 2 Penny 9 29 1/swimming farmer/swimming Penny/showFrame Penny 31/viewport 13 27 true/pause 2000/playSound slosh/move farmer 0 6 3/positionOffset farmer 0 16/pause 700/speak Penny \"There you are... I was worried you didn't get my note.$6\"/playSound slosh/move Penny 1 0 1/pause 1500/faceDirection Penny 0/speak Penny \"It looks like we're alone.$8\"/pause 800/speak Penny \"The water feels so good after being out in the cold of night, doesn't it?$6\"/faceDirection farmer 0/pause 1300/faceDirection Penny 1/pause 500/playSound slosh/move Penny 1 0 1/faceDirection farmer 3/speak Penny \"$q -1 null#Do you know why I asked you here tonight?$8#$r -1 0 event_pool1#You have something to tell me.#$r -1 0 event_pool2#I'm not exactly sure.#$r -1 0 event_pool3#You wanted to see me in my bathing suit.\"/faceDirection Penny 3/pause 800/faceDirection Penny 1/speak Penny \"Um, how do I say this...$8\"/pause 1000/playSound slosh/move Penny 1 0 1/pause 500/speak Penny \"I've been meaning to tell you for a while now... about how I feel.$8#$b#I can't stop thinking about you...$8#$b#I've never felt this way about anyone.$8\"/speak Penny \"$q -1 null#...$8#$r -1 0 event_pool4#I feel the same way about you.#$r -1 -1500 event_pool5#Sorry, but I don't like you in that way...\"/fork pennyHeartbroken/pause 1000/showFrame Penny 32/pause 200/playSound slosh/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/eyes 1 -10000/positionOffset Penny 2 0/positionOffset farmer -2 2/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/specificTemporarySprite heart 13 29/pause 1200/globalFade/viewport -1000 -1000/pause 2000/stopSwimming farmer/stopSwimming Penny/end warpOut" #!String
+    pennyHeartbroken: "move Penny 0 -2 0/faceDirection farmer 0/shake Penny 5000/globalFade/viewport -1000 -1000/stopSwimming farmer/stopSwimming Penny/end warpOut" #!String
+

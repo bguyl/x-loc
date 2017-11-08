@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    4: "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?" #!String
+    8: "A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides." #!String
+    15: "Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin." #!String
+    Fri: "..." #!String
+    Wed: "I find things here and I sell them. Care to buy anything?" #!String
+    Thu: "Please don't tell anyone about me.#$b#Humans tend to destroy things they can't understand." #!String
+    Tue: "I am too sensitive to sunlight to go out during the day.#$b#The conditions in here are perfect.#$e#Care to buy anything?" #!String
+    Mon: "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?" #!String
+    Mon2: "Back again? I suppose it does fit into my theory of human behavior." #!String
+    Mon6: "'Krobus' means 'bridge-crosser' in our language." #!String
+    Sat: "On Fridays I stay silent as a sign of devotion to Yoba." #!String
+    Sun: "...Sorry, I'm still a little wary of humans. My shop is still open to you, however." #!String
+    Sun4: "You're not like the other humans, are you?" #!String
+    Sun8: "You've opened my eyes to the world of humans. I appreciate that." #!String
+

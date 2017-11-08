@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "750 ScienceHouse 16 19 2 demetrius_read/1100 ScienceHouse 22 20 1 demetrius_notes/1500 ScienceHouse 7 18 1/1540 ScienceHouse 22 20 1/1800 ScienceHouse 27 9 0/1920 ScienceHouse 28 9 0/2000 ScienceHouse 15 4 0/2200 ScienceHouse 19 4 11" #!String
+    summer_25: "820 Hospital 12 14 0 \"The colder season is coming up so I'm here to get my flu vaccine.\"/1330 Hospital 4 6 1 \"Doctor Harvey, have you read the latest 'Biology and Medicine'? There's an article I think you'd be interested in.\"/1600 ScienceHouse 15 4 0/2200 ScienceHouse 19 4 1" #!String
+    Fri: "750 ScienceHouse 22 20 1 demetrius_notes/1600 Saloon 23 22 3/1920 Saloon 24 22 3 demetrius_dance/2100 ScienceHouse 20 4 1" #!String
+    winter: "GOTO rain" #!String
+    fall: "750 ScienceHouse 29 9 0/1100 Mountain 45 8 demetrius_notes/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11" #!String
+    summer: "750 ScienceHouse 29 9 0/1100 Town 30 23 1 square_3_9/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11" #!String
+    spring: "750 ScienceHouse 29 9 0/1100 ScienceHouse 22 20 1 demetrius_notes/1430 Mountain 15 26 1/1530 Mountain 30 36 2/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 11" #!String
+

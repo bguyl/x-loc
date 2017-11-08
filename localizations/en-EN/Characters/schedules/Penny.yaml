@@ -1,0 +1,37 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    9: "NOT friendship Sam 6/900 Trailer 1 8 0/1100 Town 78 93 2 penny_sit_down/1600 Trailer 12 7 0 penny_dishes/1840 Trailer 4 9 1" #!String
+    23: "NOT friendship Sam 6/GOTO 9" #!String
+    rain: "900 Trailer 5 5 0/1100 Trailer 9 7 0/1300 Trailer 12 7 0 penny_dishes/1500 Trailer 14 4 2 penny_sit_down/1800 Trailer 4 4 2 penny_read/2100 Trailer 4 9 1" #!String
+    rain2: "810 Town 104 89 2 \"I'm going to go inside, I just wanted a quiet moment.\"/1200 ArchaeologyHouse 20 5 0/1600 Trailer 14 4 2 penny_sit_down/1900 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1" #!String
+    summer: "810 Town 96 18 3/1300 Town 63 15 2 penny_sit_down/1800 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1" #!String
+    winter: "900 Trailer 1 8 0/1030 CommunityCenter 23 17 2 penny_read/1500 CommunityCenter 46 13 0/1800 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1" #!String
+    CommunityCenter_Replacement: "ArchaeologyHouse 16 10 2" #!String
+    winter_4: "900 Trailer 1 8 0 \"I have an appointment at the clinic this afternoon.\"/1130 Hospital 4 17 2 penny_sit_down/1330 Hospital 4 6 1 \"Hey! A little privacy, please?$a\"/1600 Town 75 52 2 penny_sit_down/1900 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1" #!String
+    9_6: "GOTO spring" #!String
+    23_6: "GOTO spring" #!String
+    Summer_Sun: "800 Town 96 18 3/1200 ScienceHouse 8 5 2 penny_sit_down/1800 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1" #!String
+    marriageJob: "830 ArchaeologyHouse 17 9 2 penny_read \"Hi, honey. It's nice of you to visit me at work.$h\"/1400 Town 88 100 2/1620 Town 17 90 3 penny_wave_left/1750 Forest 92 20 3 penny_wave_left/1830 BusStop -1 23 3" #!String
+    Tue: "830 Trailer 6 5 0/900 ArchaeologyHouse 17 9 2 penny_read/1400 Town 88 100 2/1620 Town 17 90 3 penny_wave_left/1750 Forest 92 20 3 penny_wave_left/1830 Trailer 4 9 1" #!String
+    Wed: "GOTO Tue" #!String
+    Fri: "GOTO Tue" #!String
+    Sat: "1000 Town 32 89 2/1200 Town 12 13 1/1700 Town 29 91 3/2000 Trailer 4 9 1" #!String
+    marriage_Mon: "830 SeedShop 2 26 2 \"Hi, honey! I'm just doing some shopping.\"/1100 SeedShop 5 19 0 \"Don't worry, I'm using my own money to buy this.\"/1130 Town 35 89 2 penny_read/1600 Town 44 77 2 penny_sit_down \"I wonder if Maru will get married some day?\"/1810 BusStop -1 23 3" #!String
+    spring: "800 Town 35 89 2 penny_read/1230 Trailer 12 7 0 penny_dishes/1600 Town 44 77 2 penny_sit_down/1840 Trailer 4 9 1" #!String
+

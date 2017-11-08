@@ -1,0 +1,31 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands." #!String
+    Mon: "Ah, yes. I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences." #!String
+    Tue: "If you have nothing important to tell me, leave me be. I have much work to do." #!String
+    Tue4: "I trust you enough to allow you in my basement. Treat what you find there with respect." #!String
+    Wed: "It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me..." #!String
+    Thu: "There are many mysteries around us. You must be patient if you wish to discover them." #!String
+    Thu10: "You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter...#$e#I could be mistaken... It's rare, but it does happen." #!String
+    Fri: "I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is human to be afraid of the unknown." #!String
+    Fri6: "I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw.#$e#It's not a very mature way to express one's anger." #!String
+    Sat: "Beware, you are standing above a potent magical field.#$e#I built my hut right here on purpose, you know." #!String
+    Sat2: "Have you made any headway with the forest spirits?" #!String
+    Sun: "I sometimes observe the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue." #!String
+

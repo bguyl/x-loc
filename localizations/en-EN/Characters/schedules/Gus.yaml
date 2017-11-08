@@ -1,0 +1,24 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    Mon: "800 SeedShop 13 23 0 \"I'm getting some supplies for the saloon. Pierre's got the good stuff.$h\"/1100 Saloon 10 18 2/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1" #!String
+    Tue: "800 Saloon 16 4 2 gus_sit_down/830 CommunityCenter 5 5 0 square_5_1_0/1230 Saloon 10 18 2/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1" #!String
+    fall_4: "800 Saloon 16 4 2 gus_sit_down/1030 Hospital 12 14 0 \"Seeing the doctor makes me nervous... What if I only have a few years left? I'm not at peace with the world yet!\"/1330 Hospital 4 6 1 \"It's my liver, isn't it Doctor? I can see it on your face. *Sigh*... I really need to cut back on that sweet, delicious Stardew Valley wine.$s\"/1600 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1" #!String
+    spring: "800 Saloon 16 4 2 gus_sit_down/1200 Saloon 14 18 2 gus_clean/1830 Saloon 12 18 0/1850 Saloon 10 18 2/1940 Saloon 12 18 0/1950 Saloon 10 18 2/2030 Saloon 12 18 0/2040 Saloon 10 18 2/2400 Saloon 23 4 1" #!String
+

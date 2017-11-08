@@ -1,0 +1,340 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    AnimalShop.1: "Ah... an extra large futan bear! It's so plush it can hardly stop from toppling over." #!String
+    AnimalShop.2: "Ah... an extra large futan bear! It's so plush it can hardly stop from toppling over." #!String
+    AnimalShop.3: "Junimo Coloring Book -- Deluxe Edition" #!String
+    AnimalShop.4: "The little family is gathered around the dinner table. Wait... except Grandpa. He's wedged under the bed for some reason." #!String
+    AnimalShop.5: "The little family is gathered around the dinner table. Wait... except Grandpa. He's wedged under the bed for some reason." #!String
+    AnimalShop.6: "You rummage through Marnie's dresser. It's mostly long dresses, but there's a pair of brown suspenders in here as well." #!String
+    AnimalShop.7: "You dig around in Marnie's private drawer. There's nothing of interest." #!String
+    AnimalShop.8: "Looks like he's using the radio as an alarm clock." #!String
+    AnimalShop.9: "Jack-in-the-box is sprawled out, his arms bent at grotesque angles. His hollow eyes peer coldly into the distance." #!String
+    AnimalShop.10: "It's a Mega Station. There's a game in it, but it's routed through a Code Sultan XL. Looks like someone's been cheating." #!String
+    AnimalShop.11: "How To Raise Chickens" #!String
+    AnimalShop.12: "It's a mess of arts and crafts." #!String
+    AnimalShop.13: "It doesn't look used. Maybe it's a collecter's ball." #!String
+    AnimalShop.14: "A little paint set." #!String
+    AnimalShop.15: "There's an antique clock and a little golden trinket box." #!String
+    AnimalShop.16: "Doesn't seem like Jas uses this much." #!String
+    AnimalShop.17: "It's locked." #!String
+    AnimalShop.18: "Mmm.... microwave pizza." #!String
+    AnimalShop.19: "Looks like someone was chopping vegetables but never finished." #!String
+    AnimalShop.20: "Why are you looking through my trash can?$s" #!String
+    AnimalShop.21: "Mostly empty pizza cartons." #!String
+    ArchaeologyHouse.1: "A History of The Gotoro Empire" #!String
+    ArchaeologyHouse.2: "Is War With The Gotoro Empire Necessary? A Unique Perspective by P.W.Kranzhauer" #!String
+    ArchaeologyHouse.3: "Journeys Across The Gem Sea" #!String
+    ArchaeologyHouse.4: "A Geological History Of Stardew Valley" #!String
+    ArchaeologyHouse.5: "Calico Desert Flora & Fauna" #!String
+    ArchaeologyHouse.6: "Star Atlas" #!String
+    ArchaeologyHouse.7: "It's ragged but still cute." #!String
+    ArchaeologyHouse.8: "The Friendly Little Slime" #!String
+    ArchaeologyHouse.9: "Let's visit the farm. The chickens go bock bock. The pigs go snort snort. The goats go mah mah.#The ducks go ack ack. The rabbits go sniff sniff. The cows go ooh ooh." #!String
+    BathHouse_MensLocker.1: "This locker smells awful." #!String
+    BathHouse_MensLocker.2: "Trying to shower with your clothes on?" #!String
+    BathHouse_MensLocker.3: "You're too weak to lift it." #!String
+    BathHouse_MensLocker.4: "Alex's Locker... There's a bunch of pictures of bodybuilders taped inside the door." #!String
+    BathHouse_WomensLocker.1: "Items for women." #!String
+    BathHouse_WomensLocker.2: "It's Penny's locker. There's a frilly bathing suit inside." #!String
+    BathHouse_WomensLocker.3: "It's Abigail's locker. It stinks pretty bad." #!String
+    Blacksmith.1: "There's a tape inside 'The Essential Blues Collection, vol. 2" #!String
+    Blacksmith.2: "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some magazines, an old sword, and a nice picture of his mother." #!String
+    Blacksmith.3: "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some magazines, an old sword, and a nice picture of his mother." #!String
+    Blacksmith.4: "Dear Emily,^I know you only think of me as a friend.^It's my fault. I'm too shy. I'll never have the courage to tell you the truth.^That's why I'm writing this letter to myself that I'll certainly crumple up and toss in the corner." #!String
+    Blacksmith.5: "It's a professional-grade furnace. Peering inside, you see molten metal bubbling and churning." #!String
+    Blacksmith.6: "It's a professional-grade furnace. Peering inside, you see molten metal bubbling and churning." #!String
+    Blacksmith.7: "Clint's quality anvil. It's made from an iridium alloy." #!String
+    Blacksmith.8: "Clint's quality anvil. It's made from an iridium alloy." #!String
+    Blacksmith.9: "There's a stack of metalworking blueprints." #!String
+    Blacksmith.10: "It's full of soot." #!String
+    BusStop.1: "` Bus Stop^> Pelican Town" #!String
+    Club.1: "Welwick: It's not my lucky day. Ugh... I drank too much." #!String
+    Club.2: "Man: Hey, can't you see I'm busy? I'm on a roll here." #!String
+    ElliottHouse.1: "It's a painting by Leah." #!String
+    ElliottHouse.2: "Elliott's work desk. It's covered in notes and crumpled papers." #!String
+    ElliottHouse.3: "It's an empty cubby." #!String
+    ElliottHouse.4: "It looks like Elliott is trying to grow a bonsai tree. It looks cool so far!" #!String
+    ElliottHouse.5: "It's a mini-palm, imported from Calico Desert." #!String
+    ElliottHouse.6: "It looks like Elliott is trying to grow a bonsai tree. It looks cool so far!" #!String
+    Farm.1: "Grandpa's Shrine" #!String
+    Farm_Combat.1: "Grandpa's Shrine" #!String
+    Farm_Fishing.1: "Grandpa's Shrine" #!String
+    Farm_Foraging.1: "Grandpa's Shrine" #!String
+    Farm_Mining.1: "Grandpa's Shrine" #!String
+    FishShop.1: "It leads up to a little sleeping cubby. It's off limits" #!String
+    FishShop.2: "It's a tackle box. It's full of lures, bobbers, hooks, and fishing line." #!String
+    FishShop.3: "Miniature model of a frigate." #!String
+    FishShop.4: "There's little pink shrimping moving around in there." #!String
+    FishShop.5: "Well, it's a bin full of writhing, wriggling worms. It smells something awful." #!String
+    FishShop.6: "Chum bucket." #!String
+    FishShop.7: "Looks like frog eggs." #!String
+    Forest.1: "` Farm^> Pelican Town" #!String
+    Forest.2: "@ Cindersap Forest^> Pelican Town" #!String
+    HaleyHouse.1: "It's locked." #!String
+    HaleyHouse.2: "You quickly peek into Haley's private dresser. It's stuffed with clothes. " #!String
+    HaleyHouse.3: "You quickly peek into Haley's private dresser. It's stuffed with clothes. " #!String
+    HaleyHouse.4: "It's a mini futan bear!" #!String
+    HaleyHouse.5: "It's an empty diary." #!String
+    HaleyHouse.6: "There's a little note on the pot. 'Something to remember me by. -Sandy'" #!String
+    HaleyHouse.7: "It's a bolt of blue cloth. There's pieces cut out of it, and little embroidered patterns along the fringe." #!String
+    HaleyHouse.8: "It's Emily's computer. It's password-protected so you can't snoop around on it." #!String
+    HaleyHouse.9: "'Found Fashions: Photos From The Streets Of Zuzu City'" #!String
+    HaleyHouse.10: "It's a deluxe vanity. There's all kinds of creams, paints, and powders dotting the surface." #!String
+    HaleyHouse.11: "It's Haley's camera." #!String
+    HaleyHouse.12: "'Flailing With Purpose: A Modern Approach To The Art Of Dance'" #!String
+    HaleyHouse.13: "'Build Your Own Darkroom From Scratch'" #!String
+    HaleyHouse.14: "It's a globe. Hey, there's Stardew Valley!" #!String
+    HaleyHouse.15: "The oven smells sweet like fresh cupcakes." #!String
+    HaleyHouse.16: "Cupcakes, milk, a tightly sealed jar of cornichons, and quinoa salad." #!String
+    HaleyHouse.17: "To our beloved girls:^We miss you and hope that you are doing okay on your own. We just left the Fern Islands last night, after staying for two months.^It was a wonderful experience... highly recommended.^Make sure you eat healthy and don't forget to pay the electricity bill!^^Love, Mom & Dad" #!String
+    HaleyHouse.18: "'Super Fashion Girl' magazine" #!String
+    HarveyRoom.1: "A comparison between fighter planes of the Ferngill Republic and the Gotoro Empire." #!String
+    HarveyRoom.2: "There's a beautiful view of the sky above Stardew Valley." #!String
+    HarveyRoom.3: "It's Harvey's model airplane collection." #!String
+    HarveyRoom.4: "It's Harvey's model airplane collection." #!String
+    HarveyRoom.5: "It's a complicated radio broadcasting set." #!String
+    HarveyRoom.6: "It's a complicated radio broadcasting set." #!String
+    HarveyRoom.7: "There's a tape inside: 'Anthology Of Classic Jazz'" #!String
+    HarveyRoom.8: "'Do-It-Yourself! Knee Surgery'" #!String
+    HarveyRoom.9: "'The Lone Ranger Of Pulmonary Hypertension'" #!String
+    HarveyRoom.10: "You didn't find anything, and now your hands smell bad." #!String
+    HarveyRoom.11: "It looks well used." #!String
+    HarveyRoom.12: "It's full of convenience food." #!String
+    HarveyRoom.13: "\"Ground-To-Air Radio Protocol\"" #!String
+    HarveyRoom.14: "It's a pretty standard TV set. It's set to the history station." #!String
+    Hospital.1: "The sign of the vessel. It's here to comfort those who believe in Yoba." #!String
+    Hospital.2: "It's a sample jar. Better not put your fingers in there." #!String
+    Hospital.3: "It's probably not a good idea to stick your hands in there. It's full of used syringes, dirty swabs, and little nozzles that Harvey stuck into people's ears." #!String
+    Hospital.4: "Is life sometimes difficult? Do you ever have trouble staying focused? Talk to your doctor about Pravoloxinone.^(Pravoloxinone is not for everyone. Side effects may include insomnia, severe anger, uncontrollable swelling of the throat, permanent discoloration of the lips, hair loss, and stroke. In extremely rare cases (1 in 500), test subjects experienced complete disintegration of one or more bones.) " #!String
+    Hospital.5: "'Don't spread disease... Cover your sneeze!'" #!String
+    Hospital.6: "This clinic is licensed for medical practice by the Ferngill Republic Health Authority." #!String
+    Hospital.7: "Hey, this plant's fake!" #!String
+    JojaMart.1: "Hoisin sauce" #!String
+    JojaMart.2: "'Maple Sauce'... It's a lot like syrup!" #!String
+    JojaMart.3: "Sugar-free marshmallows" #!String
+    JojaMart.4: "Taco sauce for babies" #!String
+    JojaMart.5: "Hoisin sauce" #!String
+    JojaMart.6: "Salt" #!String
+    JojaMart.7: "Protein bars" #!String
+    JojaMart.8: "Sugar-Free Lollipop" #!String
+    JojaMart.9: "24-grain bread" #!String
+    JojaMart.10: "'Maypul' Syrup" #!String
+    JojaMart.11: "Hair Gel -- Electric Blue" #!String
+    JojaMart.12: "Granny's sauce" #!String
+    JojaMart.13: "Canned soup" #!String
+    JojaMart.14: "Double Butter Ranch Chips" #!String
+    JojaMart.15: "JojaCo Multipurpose sauce" #!String
+    JojaMart.16: "Pretzel snacks" #!String
+    JojaMart.17: "JojaDiet -- Low fat beans! In a sweet sugar-sauce" #!String
+    JojaMart.18: "Protein shakes" #!String
+    JojaMart.19: "11-grain bread" #!String
+    JojaMart.20: "Grade D Cooking Oil" #!String
+    JojaMart.21: "Hair Gel -- X-treme hold" #!String
+    JojaMart.22: "Very Mild Sauce" #!String
+    JojaMart.23: "Take-home churro kit" #!String
+    JojaMart.24: "White bread, fortified with essential nutrients" #!String
+    JojaMart.25: "Barbecue smokehouse chips with mesquite flavoring" #!String
+    JojaMart.26: "JojaDiet -- Low fat beans! In a sweet sugar-sauce" #!String
+    JojaMart.27: "Marinara sauce" #!String
+    JojaMart.28: "100% pure honey-flavored 'sauce'" #!String
+    JojaMart.29: "White fungus soda" #!String
+    JojaMart.30: "Drinkable Frosting" #!String
+    JojaMart.31: "Sprouted wheat bread" #!String
+    JojaMart.32: "Partially-Hydrogenated Corn Oil" #!String
+    JojaMart.33: "Floss" #!String
+    JojaMart.34: "Mild Sauce" #!String
+    JojaMart.35: "100% pure honey-flavored 'sauce'" #!String
+    JojaMart.36: "Canned shrimp." #!String
+    JojaMart.37: "Cinnamon sugar chips" #!String
+    JojaMart.38: "White fungus soda" #!String
+    JojaMart.39: "Pesto" #!String
+    JojaMart.40: "Yeast" #!String
+    JojaMart.41: "Protein powder" #!String
+    JojaMart.42: "Cocoa Zeppelins" #!String
+    JojaMart.43: "Oat bread" #!String
+    JojaMart.44: "Synthetic Butter -- It's cheap!" #!String
+    JojaMart.45: "Mouthwash" #!String
+    JojaMart.46: "Take-Me-To-The-Emergency-Room sauce" #!String
+    JojaMart.47: "Yeast" #!String
+    JojaMart.48: "Dehydrated shrimp snack." #!String
+    JojaMart.49: "Sugar cane chips" #!String
+    JojaMart.50: "Sugar cones" #!String
+    JojaMart.51: "Powdered breakfast -- Just add water. (Eggs & Potatoes)" #!String
+    JojaMart.52: "Jitter Juice" #!String
+    JojaMart.53: "Silly Sauce" #!String
+    JojaMart.54: "Brown bread" #!String
+    JojaMart.55: "Powdered cream" #!String
+    JojaMart.56: "Toothpaste" #!String
+    JojaMart.57: "Unbearable torturous blaze sauce" #!String
+    JojaMart.58: "Sugar cones" #!String
+    JojaMart.59: "Budget wine" #!String
+    JojaMart.60: "Powdered breakfast -- Just add water. (Eggs & Potatoes)" #!String
+    JojaMart.61: "Vegan sausage" #!String
+    JojaMart.62: "Sugar stars" #!String
+    JojaMart.63: "Powdered wine" #!String
+    JojaMart.64: "Explosion Juice" #!String
+    JojaMart.65: "Rye bread" #!String
+    JojaMart.66: "Powdered butter" #!String
+    JojaMart.67: "Hand soap" #!String
+    JojaMart.68: "Searing pain sauce" #!String
+    JojaMart.69: "Sugar stars" #!String
+    JojaMart.70: "X-treme Chipz" #!String
+    JojaMart.71: "X-treme chips with Inferno Sauce" #!String
+    JojaMart.72: "Powdered wine" #!String
+    JojaMart.73: "Coconut meat" #!String
+    JojaMart.74: "Gummies" #!String
+    JojaMart.75: "Canned scrambled eggs" #!String
+    JojaMart.76: "Blue Alien ENERGY... Get LAUNCHED" #!String
+    JojaMart.77: "Grape Nibble-Pebbles" #!String
+    JojaMart.78: "Sourdough bread" #!String
+    JojaMart.79: "Joja Oil -- A proprietary blend of delicious oils. Use it for any purpose." #!String
+    JojaMart.80: "Joja Multipurpose Detergent -- Use it for your laundry, for your dishes, to clean your hands, as a shampoo, and even as toothpaste! Mix it with JojaMeal to make a delicious icing." #!String
+    JojaMart.81: "Inferno Sauce" #!String
+    JojaMart.82: "Gummies" #!String
+    JojaMart.83: "Disks and pucks of pure gluten." #!String
+    JojaMart.84: "Canned scrambled eggs" #!String
+    JojaMart.85: "Fruit snacks" #!String
+    JojaMart.86: "Canned fish... now with teeth whitening sauce." #!String
+    JojaMart.87: "Hyper Juice" #!String
+    JojaMart.88: "Strawberry flavored lollipops" #!String
+    JojaMart.89: "Bread" #!String
+    JojaMart.90: "Canola oil" #!String
+    JojaMart.91: "Laundry Detergent -- now with 10x the fragrance!" #!String
+    JojaMart.92: "Fire Sauce" #!String
+    JojaMart.93: "Fruit snacks" #!String
+    JojaMart.94: "JojaMeal... It's like corn meal but more versatile. It can be used for baking, thickening and sweetening. Mix it with water to make our signature gravy." #!String
+    JojaMart.95: "Carbo cones. Tasty little cone-shaped snacks that will fill your stomach bag." #!String
+    JojaMart.96: "Canned fish... now with teeth whitening sauce." #!String
+    JojaMart.97: "Cowboy sauce" #!String
+    JojaMart.98: "Vacuum-sealed marinated mushrooms" #!String
+    JojaMart.99: "Canned meals" #!String
+    JojaMart.100: "JojaCola AMPED" #!String
+    JojaMart.101: "Blue-Green sugar orbs" #!String
+    JojaMart.102: "Individually-sealed pancakes" #!String
+    JojaMart.103: "Extra Pure Olive-flavored oil" #!String
+    JojaMart.104: "Laundry Detergent" #!String
+    JojaMart.105: "Hot sauce" #!String
+    JojaMart.106: "Vacuum-sealed marinated mushrooms" #!String
+    JojaMart.107: "Pasta in a can." #!String
+    JojaMart.108: "Corn flour." #!String
+    JojaMart.109: "Canned meals" #!String
+    JoshHouse.1: "Momma-^If you're reading this, it means I've passed on. I'm so sorry you had to go through this. Know that I love you both.^Don't be too upset, I'm with Yoba now. ^My final request: take care of Alex. He needs a family, something stable. He's a good kid.^ Love, ^Clara" #!String
+    JoshHouse.2: "The radio is set to the oldies station." #!String
+    JoshHouse.3: "'Pro Gridball Season 44: Stats and Standings'" #!String
+    JoshHouse.4: "'Dealing With Loss'" #!String
+    JoshHouse.5: "'Mega Muscles' magazine" #!String
+    JoshHouse.6: "It's a thirty pound weight." #!String
+    JoshHouse.7: "You peek into Alex's drawer. There's clothes, hair gel, and a box of gridball trading cards." #!String
+    JoshHouse.8: "You peek into Alex's drawer. There's clothes, hair gel, and a box of gridball trading cards." #!String
+    JoshHouse.9: "It's Alex's gridball helmet. Looks like he keeps it polished." #!String
+    JoshHouse.10: "It's a gridball." #!String
+    JoshHouse.11: "It's a well-stocked refridgerator." #!String
+    JoshHouse.12: "'Cookies For Every Season'" #!String
+    JoshHouse.13: "'The Dark Blue Life: A Coal-miner's Memoir'" #!String
+    JoshHouse.14: "It's empty." #!String
+    LeahHouse.1: "It's a work in progress." #!String
+    LeahHouse.2: "It's a stack of Leah's paintings. It's mostly landscapes and studies of nature." #!String
+    LeahHouse.3: "'Living Off The Land: A Practical Guide'" #!String
+    LeahHouse.4: "'How To Deal With Overbearing People'" #!String
+    LeahHouse.5: "It's a wooden sculpture Leah's working on. It has a wonderful cedar smell." #!String
+    LeahHouse.6: "No Messages." #!String
+    ManorHouse.1: "Mayor's oven could use a good cleaning." #!String
+    ManorHouse.2: "A traditional tea setting. The mayor must be pretty serious about tea." #!String
+    ManorHouse.3: "Won't you come by tomorrow night?^If you come through the back window no one will notice.^I'd like to see you more often.^I know you're busy but can't you make time for me?^I hope to see you tomorrow.^-M" #!String
+    Mountain.1: "` Railroad " #!String
+    Saloon.1: "There's a half-empty mug of beer." #!String
+    Saloon.2: "Cooking channel. 24/7 cooking tips, game shows, and restaurant reviews." #!String
+    SamHouse.1: "It's empty." #!String
+    SamHouse.2: "Eggs, bread, carrots, and milk." #!String
+    SamHouse.3: "Jodi-^Since I'll be coming home soon I want to tell you a few things.^I might not be the same man you remember. I've seen some things out here that have really shaken me up. I've been having a real hard time relaxing.^I don't want to scare you or make you upset. I just don't want you to be shocked when I get back.^Remember, no matter how I act, you and the kids mean everything to me.^I'll see you soon.^-Kent" #!String
+    SamHouse.4: "It's set to the news station." #!String
+    SamHouse.5: "Guitar picks and skateboard wheels." #!String
+    SamHouse.6: "There's a bunch of extra strong hair gel in here." #!String
+    SamHouse.7: "There's a bunch of skateboarding magazines." #!String
+    SamHouse.8: "'UFO Mysteries'" #!String
+    SamHouse.9: "Sam's electric guitar. It has a pair of active pickups and a whammy bar." #!String
+    SamHouse.10: "--Report Card--^Name: Vincent^^Reading: C^Spelling: D^Math: C^Social Studies: B-^Art: B-^Sports:A^^Note:Vince is a good boy, but he could make do with a little more studying!^  -Penny" #!String
+    SamHouse.11: "It's Sam's computer. He's got an extensive library of computer games." #!String
+    SamHouse.12: "Vincent's toys are strewn about the room." #!String
+    ScienceHouse.1: "Space poster" #!String
+    ScienceHouse.2: "For a gadgeteer, Maru's computer is pretty old. She's still backing up her files to floppy disk." #!String
+    ScienceHouse.3: "'Maximizing Your Second Marriage' and 'Practical Tips For First-Time Step-Dads'" #!String
+    ScienceHouse.4: "There's a bunch of carpentry magazines." #!String
+    ScienceHouse.5: "'Advanced Neural Networks'" #!String
+    ScienceHouse.6: "It's locked." #!String
+    ScienceHouse.7: "It's some kind of device Maru's working on. It looks pretty scrappy." #!String
+    ScienceHouse.8: "Star charts for every season." #!String
+    ScienceHouse.9: "Lots of soda." #!String
+    ScienceHouse.10: "Periodic Table" #!String
+    ScienceHouse.11: "One of Robin's axes." #!String
+    ScienceHouse.12: "Beaker set." #!String
+    ScienceHouse.13: "Stereo microscope" #!String
+    ScienceHouse.14: "Stereo microscope." #!String
+    SebastianRoom.1: "The radio isn't plugged in." #!String
+    SebastianRoom.2: "Graphic novel" #!String
+    SebastianRoom.3: "'Solarion Chronicles:The Game'" #!String
+    SeedShop.1: "'11 Solo Sonatas For The Wooden Flute'" #!String
+    SeedShop.2: "David the Guinea Pig" #!String
+    SeedShop.3: "David the Guinea Pig" #!String
+    SeedShop.4: "'The Enduring Value Of Small Business'" #!String
+    SeedShop.5: "'Parenting 101:Surviving The Teenage Years'" #!String
+    SeedShop.6: "It's loaded with fresh veggies." #!String
+    SeedShop.7: "'Journey Of The Prairie King: Console Edition'" #!String
+    SeedShop.8: "'Why JojaCo Must Be Stopped'" #!String
+    SeedShop.9: "To Mr. Pierre:^It pains me to be the bearer of bad news, but I feel obligated to inform you of a recent development most threatening to your livelihood.^Joja Co. has decided to expand into Pelican Town.^It's too late for protest. Joja Builders have already broken ground for the new JojaMart.^^This must be devastating news for you. So many years in business...a local standby... and now, obscured by the shadow of a powerful, efficient, economically viable corporation. What a shame!^^As manager of the new JojaMart, I feel, to some degree, personally responsible for your predicament. As such, I'd like to offer you a position as Assistant Grocer. Wages start at 5g an hour. I look forward to seeing your resume!^^-Mr. Morris, Manager^Pelican Town JojaMart" #!String
+    SeedShop.10: "Spirit Board" #!String
+    SeedShop.11: "This drawer's " #!String
+    SeedShop.12: "This cupboard is full of excercise equipment." #!String
+    Town-Christmas.1: "Clinic - Hours 9:00 AM - 3:00 PM" #!String
+    Town-Christmas.2: "It's old and faded..." #!String
+    Town-Christmas.3: "\"Our Beloved Mona\"" #!String
+    Town-Christmas.4: " Archaeology Office - Open 8:00 AM to 6:00 PM" #!String
+    Town-EggFestival.1: "Clinic - Hours 9:00 AM - 3:00 PM" #!String
+    Town-EggFestival.2: "It's old and faded..." #!String
+    Town-EggFestival.3: "\"Our Beloved Mona\"" #!String
+    Town-EggFestival.4: " Archaeology Office - Open 8:00 AM to 6:00 PM" #!String
+    Town-Fair.1: "Tourist: Man... I can't take another bite of this barbecue sandwich... so stuffed." #!String
+    Town-Fair.2: "Are you strong like me? Smash stone!" #!String
+    Town-Fair.3: "Clinic - Hours 9:00 AM - 3:00 PM" #!String
+    Town-Fair.4: "Tourist: Wow. That's the biggest cheese wheel I've ever seen. Very impressive." #!String
+    Town-Fair.5: "Tourist: It was a long bus ride here, but totally worth it! This valley is so beautiful. Simon loves it... don't you, Simon?" #!String
+    Town-Fair.6: "Tourist: It's a fine-looking town you've got here. Nice and cozy, and a real sense of community." #!String
+    Town-Fair.7: "It's old and faded..." #!String
+    Town-Fair.8: " Archaeology Office - Open 8:00 AM to 6:00 PM" #!String
+    Town-Halloween.1: "Clinic - Hours 9:00 AM - 3:00 PM" #!String
+    Town-Halloween.2: "It's old and faded..." #!String
+    Town-Halloween.3: "\"Our Beloved Mona\"" #!String
+    Town-Halloween.4: " Archaeology Office - Open 8:00 AM to 6:00 PM" #!String
+    Town.1: "Clinic - Hours 9:00 AM - 3:00 PM" #!String
+    Town.2: "General Store Open 9:00 AM to 5:00 PM Closed Wednesdays" #!String
+    Town.3: "It's old and faded..." #!String
+    Town.4: "\"Our Beloved Mona\"" #!String
+    Town.5: " Archaeology Office - Open 8:00 AM to 6:00 PM" #!String
+    Trailer.1: "'Teacher's Guidebook: 2nd Grade'" #!String
+    Trailer.2: "'Marcie And The Underground Castle'" #!String
+    Trailer.3: "'The Solarion Chronicles'" #!String
+    Trailer.4: "It's full of empty beer bottles." #!String
+    Trailer.5: "'Fairys, Junimos, and other Fables'" #!String
+    WitchHut.1: "Whoever lives here must really like a clean floor!" #!String
+    WitchHut.2: "It would probably be a bad idea to stick your tender arm in there." #!String
+    WitchHut.3: "The bone is probably covered in bacteria. You decide not to touch it." #!String
+    WitchHut.4: "You uncork the bottle and waft the odor into your nostrils. The odor is surprisingly pleasant, with hints of apricot and spice berry." #!String
+    WitchHut.5: "Curse The Countryside!... A Spellbook For The Rural Witch" #!String
+    WitchHut.6: "You try not to make eye contact..." #!String
+

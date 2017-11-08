@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Bookcase_Menu: "Read which book?" #!String
+    Bookcase_Basics: "Basics" #!String
+    Bookcase_MakingFriends: "Making Friends" #!String
+    Bookcase_Improvements: "Improvements" #!String
+    TV_Menu: "Select a program to watch:" #!String
+    TV_Weather: "Weather" #!String
+    TV_Fortune: "Fortunte Teller" #!String
+    CaskNoCellar: "Only works in Cellar." #!String
+    DarkTalisman: "Dark Talisman" #!String
+    MagicInk: "Magic Ink" #!String
+    CatalogueDescription: "Provides unlimited access to all wallpapers and floors... from the convenience of your home!" #!String
+    FurnitureCatalogueDescription: "Provides unlimited access to almost every furniture item... from the convenience of your home!" #!String
+    DarkTalismanDescription: "You've found the {0}! It's covered in bug slime..." #!String
+    MagicInkDescription: "You've found the Wizard's lost {0}! Better return it to him." #!String
+

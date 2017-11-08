@@ -1,0 +1,66 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    name: "Feast of the Winter Star" #!String
+    conditions: "Town/900 1400" #!String
+    shop: "BO 113 5000 1 O 746 750 5 BL 746 2000 1" #!String
+    set-up: "christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas" #!String
+    secretSanta: "none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2" #!String
+    Abigail_spouse: "I wonder if I could lick one of those canes..." #!String
+    Leah_spouse: "I'm thankful for our simple life on the farm.$h" #!String
+    Maru_spouse: "Hey, @. I'm ready to head home whenever you are." #!String
+    Penny_spouse: "I'm thankful to have met you...$l" #!String
+    Haley_spouse: "Me?... Oh, I'm thankful for... how about I just show you when we get home tonight?$l" #!String
+    Sebastian_spouse: "Hey, @. As you can see, I'm fulfilling my family obligations..." #!String
+    Sam_spouse: "*yawn*... I'm here for the gifts and the cookies.$h" #!String
+    Alex_spouse: "What am I thankful for? I'll show you when we get back home...$l" #!String
+    Harvey_spouse: "I'm feeling a little overwhelmed... thank goodness for this crisp air...$l" #!String
+    Elliott_spouse: "You don't need to get me anything, you've already given me the greatest gift of all...$l" #!String
+    Abigail: "Nothing like a piping hot feast on a cold winter's day, huh?$h" #!String
+    Robin: "Hiya, @. You're welcome to join our family table if you need company.$h" #!String
+    Demetrius: "I'll probably get another tool set this year... *sigh*" #!String
+    Maru: "Hi, @.$h" #!String
+    Shane: "I've met some people who believe in spirits, and magic... but me? I've never seen anything that couldn't be explained by science." #!String
+    Sebastian: "Spending time with family is tiring sometimes." #!String
+    Pierre: "My sales figures have been phenomenal lately... thanks to the Feast of the Winter Star!$h#$e#Boy, holidays are good for business. I wonder if I could invent some new ones..." #!String
+    Caroline: "Ooohh... I've had too much nog.$h" #!String
+    Linus: "I'd join in... but I don't think I'm welcome.$s" #!String
+    Alex: "Oh, hello.$s" #!String
+    George: "A feast for some stupid star? Humbug!" #!String
+    Evelyn: "Oh, my! Aren't you cold, dear? It's freezing!" #!String
+    Lewis: "Today is a time to be thankful for this year's good fortune. Forget your worries for a day and relax!" #!String
+    Clint: "*sigh*... All these happy families. But for me, just another lonely year." #!String
+    Emily: "$y '@! What are you hoping to find under the spirit tree?_A new watering can._All work and no play? That's not very fun.$s_A jug of spiced mead._Ooo... that sounds nice. Make sure to give me a taste.$h_A pair of stylish boots._I see. That would be a great gift!'" #!String
+    Penny: "What a beautiful tree.$h" #!String
+    Pam: "Hmmph... I'm still upset I didn't win the ice fishing competition.$4" #!String
+    Haley: "I hope there's a new camera for me under the spirit tree!" #!String
+    Jodi: "It's not a good time of year for a diet...$s" #!String
+    Kent: "Good afternoon, @. Happy Feasting." #!String
+    Sam: "I'm thankful for my guitar and my skateboard. Oh, and my family I guess." #!String
+    Leah: "Gus was just telling me about his artisan candy canes. *yawn*$u#$e#I think he had too much cinnamon nog." #!String
+    Marnie: "Welcome to the Feast of the Winter Star!$h" #!String
+    Elliott: "Why, hello @. It's chilly, isn't it?" #!String
+    Gus: "It's a fine art, making candy canes. You've really got to search far and wide for the best ingredients. They aren't easy to come by these days!$h#$e#I usually use Fern Island Ringfruit for my premier canes, you know. You can't beat that bright red coloring... And it's all natural!#$e#Oh, you want to know the secret to my deluxe double-canes? Okay, but you've got to promise absolute secrecy. *whisper* It's a drop of vanilla in the white candy to complement the cherry flavor.$h#$e#Of course, peppermint candy canes are the standard, and I always make a healthy batch of those as well.#$e#Hey, you look like you're falling asleep. Are you okay?$s" #!String
+    Willy: "$y 'Do you want to hear the Legend of the Winter Star?_Yes_In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as =Stardrop is connected to the Winter Star in some way._No thanks_Suit yourself.'" #!String
+    Wizard: "Ah, the mysterious Winter Star. One of the reasons I chose this valley as the location for my... research." #!String
+    Harvey: "I'm thankful there were no medical emergencies this year!" #!String
+    Sandy: "I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s" #!String
+    Jas: "Ohh! Presents!$h" #!String
+    Vincent: "Can we open presents now?!" #!String
+    Marlon: "Hey, good afternoon." #!String
+

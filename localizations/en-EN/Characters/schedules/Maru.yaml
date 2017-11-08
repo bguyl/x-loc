@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "800 ScienceHouse 6 4 0/1000 ScienceHouse 9 6 1/1230 ScienceHouse 2 21 1/1430 ScienceHouse 19 18 0/1630 ScienceHouse 5 6 1 maru_tinker/1800 ScienceHouse 2 6 3/2000 ScienceHouse 9 6 1/2300 ScienceHouse 2 4 3" #!String
+    marriage_Mon: "800 ScienceHouse 6 20 0 \"Hey! Mom seems to be doing okay without my help. She's a tough lady.\"/1200 ScienceHouse 16 18 0 \"Dad's making good progress on his experiment.\"/1400 Town 63 15 2 maru_sit_down \"I hope Penny decides to get married some day.\"/1800 BusStop -1 23 3" #!String
+    marriageJob: "730 Hospital 6 15 2 \"I'm at work, honey! Don't let the doctor see.\"/1400 Hospital 9 15 3 \"It's nice for you to visit me.$h\"/1600 Hospital 8 17 1 \"I'm almost off work...\"/1640 BusStop -1 23 3" #!String
+    Tue: "730 Hospital 6 15 2/1400 Hospital 9 15 3/1600 Hospital 8 17 1/1640 ScienceHouse 26 13 1/2200 ScienceHouse 9 6 1/2400 ScienceHouse 2 4 3" #!String
+    Thu: "GOTO Tue" #!String
+    Mon: "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1330 Town 43 77 2 maru_sit_down/1830 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3" #!String
+    Sun: "GOTO Mon" #!String
+    Summer_Mon: "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1310 Town 64 16 3/1830 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3" #!String
+    Summer_Sun: "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1230 ScienceHouse 7 6 1/1810 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3" #!String
+    winter: "800 ScienceHouse 5 6 1 maru_tinker/900 ScienceHouse 19 18 0/1100 CommunityCenter 15 27 0/1600 ScienceHouse 5 6 1 maru_tinker/2200 ScienceHouse 2 4 3" #!String
+    CommunityCenter_Replacement: "ScienceHouse 5 19 1" #!String
+    summer: "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1400 Mountain 55 31 0/1900 Mountain 8 23 3 \"It's hard to really grasp the scale of the universe.$8\"/2400 ScienceHouse 2 4 3" #!String
+    spring: "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1400 Town 63 15 2 maru_sit_down/1800 ScienceHouse 5 6 1 maru_tinker/2200 ScienceHouse 2 4 3" #!String
+

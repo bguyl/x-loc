@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "900 AnimalShop 7 5 0/1100 AnimalShop 16 16 2 square_3_3/1500 AnimalShop 8 17 3 jas_read/1900 AnimalShop 4 7 2/2100 AnimalShop 1 7 3" #!String
+    summer: "900 AnimalShop 7 5 0/1100 Forest 92 20 1/1320 Beach 40 23 jas_jumprope \"1... 2... 3... 4... Here comes a wave! *giggle*$h\"/1600 AnimalShop 17 15 3 jas_read/1900 AnimalShop 4 7 2/2100 AnimalShop 1 7 3" #!String
+    winter_18: "900 AnimalShop 7 5 0 \"I have to visit the doctor today, but I'm not afraid!\"/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Can you show me how this tool works, Doctor Harvey?\"/1600 AnimalShop 17 5 3 jas_read/2000 AnimalShop 1 7 3" #!String
+    Tue: "900 ArchaeologyHouse 19 10 3 jas_read/1400 Town 85 103 2/1620 Town 16 91 0/1750 AnimalShop 1 7 3" #!String
+    Wed: "GOTO Tue" #!String
+    Fri: "GOTO Tue" #!String
+    Sat: "1000 Town 31 89 1/1200 Town 24 12 jas_jumprope/1700 Town 28 90 1/2000 AnimalShop 0 7 3" #!String
+    spring: "900 AnimalShop 7 5 0/1100 Forest 38 10 2 jas_jumprope \"1... 2... 3... 4... Oh no! I messed up again.\"/1500 AnimalShop 17 15 3 jas_read/1900 AnimalShop 4 7 2/2100 AnimalShop 1 7 3" #!String
+

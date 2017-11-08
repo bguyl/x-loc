@@ -1,15 +1,18 @@
 <template>
-  <form action="#">
-    <div class="file-field input-field">
-      <div class="btn">
-        <span>Browse</span>
-        <input type="file" @change="onChange" webkitdirectory>
+  <div>
+    <h2>Gamefiles location</h2>
+    <form action="#">
+      <div class="file-field input-field">
+        <div class="btn">
+          <span>Browse</span>
+          <input type="file" @change="onChange" webkitdirectory>
+        </div>
+        <div class="file-path-wrapper">
+          <input class="file-path validate" type="text" v-model="gamepath" placeholder="Game files folder">
+        </div>
       </div>
-      <div class="file-path-wrapper">
-        <input class="file-path validate" type="text" v-model="gamepath" placeholder="Game files folder">
-      </div>
-    </div>
-  </form>
+    </form>
+  </div>
 </template>
 
 <script>
@@ -31,7 +34,9 @@
       }
     },
     beforeMount: function() {
-      getDefaultPath().then(gamepath => { this.gamepath = gamepath; });
+      getDefaultPath()
+        .then(gamepath => { this.gamepath = gamepath; })
+        .catch(err => console.log(err));
     }
   };
 
@@ -63,8 +68,7 @@
     // Tests for Windows
     if (os.platform() === 'win32') {
       return winSteamPath().then(steampath => {
-        let gamepath = path.join(steampath, 'steamapps');
-        console.log(gamepath);
+        let gamepath = path.join(steampath, 'steamapps', 'common', 'Stardew Valley');
         if (fs.existsSync(gamepath)) {
           return Promise.resolve(gamepath);
         }

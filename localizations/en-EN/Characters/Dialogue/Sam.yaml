@@ -1,0 +1,107 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    10: "Did you watch the game last night?#$b#Or wait, do you even have a TV set...?" #!String
+    14: "Ugh, I stepped in something gross earlier... and I just bought these shoes.$s" #!String
+    Introduction: "Hey, I'm Sam. Good to meet you.$h" #!String
+    danceRejection: "Hmm... I dunno. Maybe next year.$s" #!String
+    divorced: "I'm sorry, @. I don't think I can still be your friend.$s" #!String
+    Mon2: "Hey, how's it going?#$e#Last night I practiced guitar for 4 hours straight. My fingers hurt like crazy.$s#$e#Bye, I've got something to do..." #!String
+    Mon: "Hey, farmer." #!String
+    Mon8: "I'll tell you a secret... my name 'Sam' is short for 'Samson'.$l#$e#Most people don't know that so keep it on mute." #!String
+    Tue: "Oh, hi! It's good to see you again.#$e#Take it easy." #!String
+    Tue4: "Hi, @. Do you want to hang out or something?#$e#Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster." #!String
+    Wed: "I'm trying to come up with a new song for my band, but I'm blanking...#$q 19/20 Wed_old#Hey.. What do you think my new song should be about?#$r 20 30 Wed_20#Farming, mining, and chopping wood.#$r 8820 30 Wed_20#A city in the sea.#$r 8821 30 Wed_20#Trains.#$r 19 -50 Wed_19#Choose anything. It'll still be a horrible song." #!String
+    Wed_old: "$p 19#But I already know what you think about it.$a|Thanks to your help I'm already done with the lyrics!$h" #!String
+    Wed_19: "Hey, man... what the heck is your problem? Sorry I asked.$a" #!String
+    Wed_20: "Hey, you know what? That sounds perfect. Thanks!$h" #!String
+    Wed6: "I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town." #!String
+    Wed10: "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$l" #!String
+    Thu6_1: "I think my Dad might be coming back in a year or so.#$e#I guess you might be able to meet him, then. If you're still living here.#$e#You wouldn't abandon the farm after putting so much effort into it!" #!String
+    Thu6_2: "...I have mixed feelings about my father being back. He seems strange.$s#$b#But I guess I haven't seen him in 3 years... so that could explain it." #!String
+    Thu_3: "*sigh*... what am I still doing here?" #!String
+    Thu: "The clouds look great this time of year, don't they?#$e#Like scoops of vanilla ice cream floating on blue raspberry sauce... Or maybe I'm just hungry." #!String
+    Thu2: "My Dad is a soldier, fighting against the Gotoro Empire. That's why he's not here...#$e#He'll come back someday.#$e#...I've heard some terrible things about the Gotoro Empire...$s" #!String
+    Thu_2: "Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay." #!String
+    Thu2_2: "Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay." #!String
+    Fri: "Did I ever tell you we used to live in the city?#$e#There's a lot more stuff going on, but it's also kinda noisy and hectic... It's hard to say which is better." #!String
+    Fri4: "Dad used to work as a garbage man in the city.#$e#You don't even want to know some of the things he found in people's trash." #!String
+    Fri10: "The older I get the more attached I feel to the valley.#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    Sat4: "Oh! I just remembered I'm supposed to call my Grandma. Okay, I'm going to put this rubber band on my wrist so I don't forget.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h" #!String
+    Sat: "Hmm. I just remembered that I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    Sun8: "Sometimes I wonder if my mother is actually happy with her life...$s#$e#I asked her once and got the feeling she was hiding some inner pain." #!String
+    Sun: "Oh, it's a nice day... isn't it?" #!String
+    spring_21: "Sometimes those spring petals that float around make my nose drip.$s#$e#I like summer best, myself." #!String
+    Event_band1: "Hey, you know what? That's exactly the kind of style I've been thinking about... for the band." #!String
+    Event_band2: "Hey, you know what? That's exactly the kind of style I've been thinking about... for the band." #!String
+    Event_band3: "Hey, you know what? That's exactly the kind of style I've been thinking about... for the band." #!String
+    Event_band4: "Hey, you know what? That's exactly the kind of style I've been thinking about... for the band." #!String
+    event_room1: "Oh, I see." #!String
+    spring_12: "My little brother gets so excited for festivals. He's been talking about tomorrow's egg hunt all day." #!String
+    spring_23: "Why couldn't the flower dance be today so I could get work off?$s" #!String
+    winter_7: "One time, Gus fell in the river during the Ice Festival. We had to build a huge fire in the saloon to dry him out.#$e#We were all worried we'd never taste his famous spaghetti ever again.#$e#" #!String
+    fall_26: "Tonight, after everyone is asleep, that weird old man who lives in the woods will set up the haunted maze. He always makes sure no one is around to see him working." #!String
+    summer_10: "I don't have to work tomorrow! I've never been so happy.$h" #!String
+    winter_24: "The Feast of the Winter Star is supposed to be a time to show gratitude for all the good things in life.#$b#Me? I'm mostly interested in the food. Hehe.$h" #!String
+    event_room2: "Yeah... That's what happened!" #!String
+    event_snack1: "He's right... That's what happened.$s^She's right... that's what happened.$s" #!String
+    event_snack2: "Yeah... That's what happened!" #!String
+    event_snack3: "What!? He's lying!$a^What!? She's lying!$a" #!String
+    summer_Mon2: "Hey, how's it going?#$e#I'm hungry.#$e#See you later." #!String
+    summer_Mon6: "Have you been to the desert yet?#$e#You can find some interesting things there. Dad took me a couple times when I was younger." #!String
+    summer_Mon: "There's a little less pollen in the summer... my nose is really happy." #!String
+    summer_Tue: "Oh, hi! It's good to see you again.#$e#Goodbye for now." #!String
+    summer_Tue4: "Hi, @. Do you want to hang out or something?#$e#I'm so energized during summer I hardly have to sleep!" #!String
+    summer_Wed: "Hi. Taking the day off?#$e#Sounds interesting." #!String
+    summer_Wed2: "I saw a spider on my ceiling last night. They sure like the warmth.#$e#I hope he didn't crawl into my mouth while I was asleep...$s" #!String
+    summer_Thu: "Dad was telling me about our national enemy, the Gotoro Empire... They sound like a ruthless bunch." #!String
+    summer_Thu6_1: "Sometimes I can hear my Dad pacing down the hallway at night.$s#$b#...But he won't tell us what's troubling him." #!String
+    summer_Fri: "You know... I used to live in the city and I have to admit, this place is much nicer in the summer.$h#$e#The city is so hot with all that concrete." #!String
+    summer_Sun: "When you see hot air balloons drifting over the sea, you'll know that summer's in full swing." #!String
+    fall_Mon2: "I like taking walks in the forest this time of year. The temeprature is so comfortable#$e#...$h" #!String
+    fall_Mon: "Oh, hi. Are you making friends with anyone in town?#$e#Bye." #!String
+    fall_Tue: "My shoes always seem to wear out this time of year. Look, my toe's poking through!$h#$e#That's what happens when you skateboard too much." #!String
+    fall_9: "I ordered a new pair of shoes online. They're the same style so I know they'll fit right." #!String
+    fall_16: "I ordered some shoes online more than a week ago! Man, they're really taking a long time.#$e#I guess we must really live in the middle of nowhere.$s" #!String
+    fall_23: "Ah, my feet feel great in these new shoes. They're a little crisp, but they'll break in. Especially after I run through the haunted maze this weekend.$h" #!String
+    fall_Tue4: "Hi, @. Do you want to hang out or something?#$e#Just stop by whenever you want." #!String
+    fall_Wed: "Hey... something smells good, like pizza.#$e#Do you smell that? Maybe Mom's cooking something." #!String
+    fall_Thu6_1: "I think my Dad might be coming back next year.#$e#I guess that's kind of soon. Weird." #!String
+    fall_Thu6: "I guess I should start thinking about moving out soon...$s#$e#...But I would miss Mom's fish casserole, so I dunno...$s#$e#I hate making decisions." #!String
+    fall_Thu: "Did you ever notice all the spider webs that appear during the fall?#$e#If you get up early you'll see them covered in dew... like little stars." #!String
+    fall_Fri: "I used to live in Zuzu City, you know. The biggest difference is the noise. It's never quiet in the city.#$e#There's way more people around you, always. And it's always bright with city lights, even at night.#$e#I guess which setting you like depends on your personality." #!String
+    fall_Fri10: "I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    fall_Sat4: "I'm lucky to have the biggest room in the house to myself.#$e#I guess there's advantages to being the oldest child." #!String
+    fall_Sat: "Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    fall_Sun8: "The first week of fall is already over. Man, that went by fast.$s#$e#Whatever. I'm just happy that you came to visit me!#$e#So do you have anything new to tell me?" #!String
+    fall_Sun: "It's hard to have fun on Sunday... I keep thinking about having to go to work tomorrow.$s" #!String
+    fall_14: "Hi @.#$e#Hmm.. I wonder if I could grow a cactus in my room?" #!String
+    winter_Mon2: "Everyone's indoors during the winter, so I can play guitar as loud as I want.$h" #!String
+    winter_Mon: "Hi... Cold, isn't it?" #!String
+    winter_Tue: "Oh, hi! It's good to see you again.#$e#Take it easy." #!String
+    winter_Tue4: "Hi, @. Do you want to hang out or something?#$e#Well, it's a good time of year to catch up on all the sleep I've missed.$h" #!String
+    winter_Wed: "$d Joja#I hate working at JojaMart, but how else am I going to make money in this town?|I'm glad I work at the museum now. It's way more interesting than that depressing JojaMart ever was." #!String
+    winter_Thu6_1: "I think my Dad is coming back this spring.#$e#Tt's been 3 years since I've seen him. This is going to be strange." #!String
+    winter_Thu6: "Dad's been back for a while now. I guess I'm finally getting used to it." #!String
+    winter_Thu: "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though." #!String
+    winter_Thu_2: "One thing that's nice about winter... all the mosquitos are gone." #!String
+    winter_Fri: "The worst thing about the snow is getting your feet soaked. You're lucky in those thick boots." #!String
+    winter_Sat4: "I just remembered I need to change the strings on my guitar.#$b#Okay, I'm going to write a note on my wrist so I remember to do it tonight.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h" #!String
+    winter_Sun8: "It would be fun if we could go sledding, wouldn't it?#$e#I don't think there are any good hills nearby.$s#$e#Plus, I don't have a sled.#$e#So, how have you been doing lately?" #!String
+    winter_Sun: "Try not to make a mess in the house or my Mom will flip." #!String
+

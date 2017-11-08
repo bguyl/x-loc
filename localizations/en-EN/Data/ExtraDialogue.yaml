@@ -1,0 +1,92 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    LostItemQuest_DefaultThankYou: "You found it! Thank you." #!String
+    NewChild_SecondChild1: "Just look at our little family... We've come a long way, haven't we?" #!String
+    NewChild_SecondChild2: "Two beautiful children... We've come a long way, haven't we?" #!String
+    NewChild_Adoption: "It's so wonderful to welcome little {0} into our life." #!String
+    NewChild_FirstChild: "Everything went well, and now little {0} is part of the family. We're very fortunate." #!String
+    Spouse_KitchenBlocked: "You've got a bunch of your stuff blocking the kitchen... I guess you're not getting dinner tonight.$a" #!String
+    Spouse_MonstersInHouse: "Um... Honey? Why are there monsters in the house?" #!String
+    Farm_RobinWorking_ReadyTomorrow: "Your new {0} will be finished tomorrow! Are you excited?" #!String
+    Farm_RobinWorking1: "Your new {0} will be ready in {1} days. Just pretend I'm not here." #!String
+    Farm_RobinWorking2: "Your new {0} will be ready in {1} days. I'm going to be working on this thing day and night!" #!String
+    AnimalShop_Marnie_Trash: "Why are you looking through my trash can?$s" #!String
+    JoshHouse_Alex_Trash: "Uh.. What are you doing?$s" #!String
+    SamHouse_Sam_Trash: "Hey, don't look in there!$a" #!String
+    SeedShop_Abigail_Drawers: "Hey, don't even think about it! That's private!$a" #!String
+    Wizard_Hatch: "What are you doing? I only allow those I trust to enter there.  " #!String
+    Clint_NoInventorySpace: "Hey. Your tool is ready but you don't have any room in your inventory." #!String
+    Clint_StillWorking: "Um, I'm still working on your {0}. It won't be ready today." #!String
+    Gunther_MuseumComplete: "The museum looks amazing! Thanks again for all your help." #!String
+    Gunther_NothingToDonate: "It doesn't seem like you have anything to donate to the museum. Better get out there and do some treasure hunting, huh?" #!String
+    Gunther_NoArtifactsFound: "Hello there! Welcome to the Stardew Valley Archaeological Office.#$b#Uh... This is embarrassing, but the previous curator made off with the entire collection. We don't have any artifacts for display.#$b#But I'm hoping to remedy that soon! Hey, if you find any artifacts or minerals out there... would you let me know?" #!String
+    Sandy_PlayerClubMember: "What happened? You're a club member?!" #!String
+    MisterQi_PlayerClubMember: "It's good to finally meet ya, kid. Welcome to my exclusive clubhouse.#$e#You've got the 'spark'... that's why I singled you out.#$e#What spark? Ah... The conduit of mystery, of art...#$b#People like us have a responsiblity to keep the world alive, to give folks a taste of the extraordinary.#$e#You see, kid... The world's like a bowl of rice. It's got substance, but it ain't worth nothin' without a good, zesty sauce. That's where we come in.#$b#Didn't you ever wonder who put those treasure chests in the old mineshaft? I like to give people surprises.#$e#You'll understand someday. Just keep doing your best and never give up." #!String
+    Robin_HouseUpgrade_Accepted: "Thank you! I'll get started tomorrow. I should be finished in around three days." #!String
+    Mines_PlayerKilled_Robin: "...I found you unconscious in the mines. I almost mistook you for a piece of exotic wood!#$b#Be a little more careful next time, okay?$s" #!String
+    Mines_PlayerKilled_Clint: "...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here.#$b#Be a little more careful next time, okay?$s" #!String
+    Mines_PlayerKilled_Maru_Spouse: "...I found you unconscious in the mines. You were gone so long I started to get worried about you!#$b#Be a little more careful next time, okay?$s" #!String
+    Mines_PlayerKilled_Maru_NotSpouse: "...I found you unconscious in the mines. I was hunting for minerals and I almost stepped on your head!#$b#Be a little more careful next time, okay?$s" #!String
+    Mines_PlayerKilled_Linus: "...I found you unconscious in the mines. You're lucky I happened to pass by!#$b#Be a little more careful next time, okay?$s" #!String
+    Mines_PlayerKilled_Spouse_PlayerMale: "You were gone so long I started to get worried about you! I started crying when I saw your limp body...$s" #!String
+    Mines_PlayerKilled_Spouse_PlayerFemale: "You were gone so long I started to get worried about you! I almost had a heart attack when I saw your limp body...$a" #!String
+    Morris_PlayerSignedUp: "Excellent! Welcome to Joja Corporation! Come back tomorrow and we can see about getting started on some community development projects... Oh, and don't forget your wallet! Hehe.#$b#Now, let me call Mayor Lewis and see about gutting that nasty old community center..." #!String
+    Morris_ComeBackLater: "Come back tomorrow and we can see about getting some community improvements started... Just make sure to bring a lot of money. Hehe." #!String
+    Morris_Greeting: "Welcome to JojaMart! How are you doing today?#$b#I don't believe we've met. I'm Morris, Joja Customer Satisfaction Representative.#$b#When you decide you want to become a Joja Member, I'll be delighted to help make your transition a joyous experience." #!String
+    Morris_WeekendGreeting: "Welcome to JojaMart! How is your weekend going?#$b#We're currently in the process of setting up a brand-new membership system for our customers. Please check back soon to join!" #!String
+    Morris_FirstGreeting: "Welcome to JojaMart! How are you doing today?#$b#We're currently in the process of setting up a brand-new membership system for our customers. Please check back soon to join!" #!String
+    Morris_WeekendGreeting_MembershipAvailable: "Welcome to JojaMart! How is your weekend going?#$b#Membership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.#$b#Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community center into a Joja Warehouse. Isn't that wonderful?#$q -1 -1#Membership costs {0}g. Well, would you like to join us?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No." #!String
+    Morris_FirstGreeting_MembershipAvailable: "Welcome to JojaMart! How are you doing today?#$b#Membership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.#$b#Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community center into a Joja Warehouse. Isn't that wonderful?#$q -1 -1#Membership costs {0}g. Well, would you like to join us?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No." #!String
+    Morris_WeekendGreeting_SecondPlayer: "Welcome to JojaMart! How is your weekend going?#$b#Hmm... Our records show that you live on a farm with some other folks... I'm sorry, but we can only sell a membership to the owner of your residence." #!String
+    Morris_FirstGreeting_SecondPlayer: "Welcome to JojaMart! How are you doing today?#$b#Hmm... Our records show that you live on a farm with some other folks... I'm sorry, but we can only sell a membership to the owner of your residence." #!String
+    Morris_StillProcessingOrder: "We're currently processing your last Community Development order. Please come back after the work is complete." #!String
+    Morris_CommunityDevelopmentForm_PlayerMale: "$q -1 -1#I've got the Joja Community Development Form right here for you, sir. Care to take a look?#$r -1 -1 Yes#Yes#$r -1 -1 No#No" #!String
+    Morris_CommunityDevelopmentForm_PlayerFemale: "$q -1 -1#I've got the Joja Community Development Form right here for you, miss. Care to take a look?#$r -1 -1 Yes#Yes#$r -1 -1 No#No" #!String
+    PurchasedItem_1_QualityHigh: "Hey, {0}.#$b# So I stopped by Pierre's the other day and bought {1} {2}. It was the first time I've seen one of those there in a while... #$b#I cooked it up for dinner last night... It filled the house with a {3} smell.. It was a hit!$h#$b#I'm glad Pierre's stock is starting to expand again.#$e# Anyways..." #!String
+    PurchasedItem_1_QualityLow: "Hey, {0}.#$b# So I stopped by Pierre's the other day and bought {1} {2}. It was the first time I've seen one of those there in a while... #$b#I cooked it up for dinner last night... It filled the house with a {3} odor. I don't even want to know where Pierre found that thing.$s#$e# Anyways..." #!String
+    PurchasedItem_2_QualityHigh: "Hi... did you sell {1} {2} to the general store the other day? I think I bought it...#$e#It was pretty high-quality stuff. I'm impressed." #!String
+    PurchasedItem_2_QualityHigh_Jodi: "Hi... did you sell {1} {2} to the general store the other day? I think I bought it...#$e#It was pretty high-quality stuff. As soon as I smelled it I was back in Granny's old cottage..." #!String
+    PurchasedItem_2_QualityLow: "Hi... did you sell {1} {2} to the general store the other day? I think I bought it...#$e#The quality was decent." #!String
+    PurchasedItem_3_QualityLow_Rude: "I went shopping last night and picked up {1} {2} on sale for only {3}g.#$e# It was {4}! No wonder Pierre was selling that {5} for so cheap..." #!String
+    PurchasedItem_3_QualityHigh_Rude: "I went shopping last night and picked up {1} {2} on sale for only{3}g.#$e# It was actually pretty {4}." #!String
+    PurchasedItem_3_NonRude: "I went shopping last night and picked up {1} {2} on sale for only {3}g.#$e# I couldn't pass up that great price." #!String
+    PurchasedItem_4: "So I was at the store the other day and Pierre showed me {1} {2} you brought in.#$e#I bought it.$h" #!String
+    PurchasedItem_5_VegetableOrFruit: "I bought the tastiest {2} from Pierre's shop the other day. #$b#He said that he grew the thing in his own backyard. I didn't know Pierre was such a talented farmer!$h#$b#Looks like you might have some competition, huh?" #!String
+    PurchasedItem_5_Cooking: "I bought the tastiest {2} from Pierre's shop the other day. #$b#He said he cooked the thing himself using local ingredients. I didn't know Pierre was such {3} {4} chef!" #!String
+    PurchasedItem_5_Foraged: "I bought the tastiest {2} from Pierre's shop the other day. He said he found it himself while exploring the mountains. I didn't know Pierre was such a talented forager!" #!String
+    PurchasedItem_Teen: "Hey, so I picked up {2} at the store last night. My mom wanted something good for dinner." #!String
+    PurchasedItem_Abigail_QualityLow: "Hey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my Dad couldn't bear to throw it out.$h#$bUnfortunately it tasted like {3}.$s" #!String
+    PurchasedItem_Abigail_QualityHigh: "Hey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my Dad couldn't bear to throw it out.$h#$bIt was still pretty good, though." #!String
+    PurchasedItem_Caroline_QualityLow: "Oh, @... This is embarrassing. I threw one of your {2}s you sold us into my compost bin.$s#$b#Now the whole thing smells horrendous. Where did you find that thing again?" #!String
+    PurchasedItem_Caroline_QualityHigh: "Oh, @... This is embarrassing. I threw one of your {2}s you sold us into my compost bin.$s#$b#But on the bright side, the worms are really loving it! They've never looked happier!" #!String
+    PurchasedItem_Pierre_QualityLow: "Hey, remember that {2} you sold me the other day? I ended up serving it to the family for a special dinner.#$b#I can't say it was a hit... $s#$b#... well,... back to business, huh?" #!String
+    PurchasedItem_Pierre_QualityHigh: "Hey, remember that {2} you sold me the other day? I ended up serving it to the family for a special dinner.#$b#My wife loved it! ...And Abby even started going to town on it after I smothered the thing in hoisin sauce. $h#$b#... well,... back to business, huh?" #!String
+    PurchasedItem_Haley: "Emily tried to serve me {1} {2} for dinner last night... I threw it away when she wasn't looking.#$e#I don't like health food...$s" #!String
+    PurchasedItem_Elliott: "I saw that Pierre had fresh {2} in the shop the other day! Marvelous. It smelled just perfect... and firm, too!" #!String
+    PurchasedItem_Alex: "Hey, so I picked up {1} {2} at the store last night. Grandma made her special casserole..." #!String
+    PurchasedItem_Leah: "The other day I bought {1} {2} at Pierre's. It was perfect on a bed of greens and a dash of my 'special' vinaigrette." #!String
+    Town_DumpsterDiveComment_Child: "Eww... What are you doing?$s" #!String
+    Town_DumpsterDiveComment_Teen: "Um... Why are you digging in the trash?$s" #!String
+    Town_DumpsterDiveComment_Adult: "Hey, Stop that! ...Yuck!$s" #!String
+    Robin_UpgradeConstruction_Festival: "Okay, I'll start working on your {1} upgrade the day after tomorrow. I always take festivals off.$h" #!String
+    Robin_UpgradeConstruction: "Okay, I'll start working on your {1} upgrade first thing tomorrow morning!$h" #!String
+    Robin_NewConstruction_Festival: "Okay, I'll start working on your new {0} the day after tomorrow. I always take festivals off.$h" #!String
+    Robin_NewConstruction: "Okay, I'll start working on your new {0} first thing tomorrow morning!$h" #!String
+    Morris_JojaCDConfirm: "Excellent! We'll get our workers on it tonight. It should be ready for you by tomorrow." #!String
+

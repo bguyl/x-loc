@@ -1,0 +1,112 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h" #!String
+    danceRejection: "Ew... No." #!String
+    divorced: "I'll be fine on my own...$7#$e#Thanks for the memories.$7#$e#Why are you still clinging to me? Go live your own life.$7" #!String
+    Mon: "This town is so small. It sucks.$u#$e#I have to drive, like, twenty miles to buy any decent clothes.$s#$e#That's why I usually just order online.#$e#What?" #!String
+    Tue: "Nice shoes.^Nice makeup.#$b#Are those made out of plastic?^Or wait... Are you even wearing any?#$e#I'm bored." #!String
+    Wed: "The only thing I like about this town is the beach.$u" #!String
+    Thu: "#$1 HaleyClothes#I've decided I am going to organize my clothes today. I'll have to throw out all of last year's styles to make room for the new ones!#$e#*sigh* I could really go for a cupcake right now.#$e#Do you need something?" #!String
+    Fri: "%Haley is ignoring you." #!String
+    Fri2: "Don't you get tired of running around on that farm all day, or whatever it is you do?#$e#I couldn't stand getting all dirty like that.#$e#You probably get a nice tan, though." #!String
+    Sat: "I'm feeling an urge to go shopping. Ugh! I wish there was a mall here." #!String
+    Sun: "My sister is so weird. Sometimes I wonder if we're actually related.$u#$b#" #!String
+    Wed8: "There are only two things I like about this town.#$b#One of them is the beach.#$e#The other one is a secret! *giggle*$h" #!String
+    Tue2: "I wonder if any nice shells washed up on the beach this morning?#$e#This isn't the best time of year for shells, though." #!String
+    Wed4: "I'm glad that the flowers are starting to bloom.#$e#Those pink ones smell so good.$h" #!String
+    Fri6: "I need to find some kind of hobby other than shopping.#$e#I've decided I want to expand my horizons.#$e#Maybe I should learn to play the mini-harp?" #!String
+    Mon6: "I used to complain about this town being so small, but I've grown to like it.#$e#If it was much bigger it wouldn't feel like a community." #!String
+    Thu6: "I cooked dinner last night. It actually turned out okay!#$e#But I did make a huge mess in the kitchen..." #!String
+    Sun6: "I'm thinking about donating a bunch of clothes... I must have a hundred pairs of shoes." #!String
+    Sat8: "#$1 haleySeagull#Yesterday I found a seagull with her wing caught in a net. I set her free, of course. She looked so helpless, the poor thing.$k$s#$e#You know, I should probably start exercising more... this youthful metabolism won't last forever." #!String
+    Fri10: "@, can we go on a camping trip someday?#$e#The most exotic place I've been is Zuzu city." #!String
+    Event_clean1: "*sigh*...$u" #!String
+    Event_clean2: "NO!! I'm not going to do it!$a#$b#You guys are both stupid!%fork$a" #!String
+    Event_clean3: "She should take the 'high road'? What's that supposed to mean?$u#$b#You think I'm being a baby, huh?%fork$a" #!String
+    Event_jar1: "Great, then you shouldn't have any problem opening this jar for me!$h" #!String
+    Event_jar2: "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?" #!String
+    Event_darkroom1: "Aw, thanks!$h" #!String
+    Event_darkroom2: "Oh! I thought you knew.#$b#This room's for developing photos." #!String
+    Event_darkroom3: "Is that so...?$s" #!String
+    Event_darkroom4: "Aw, thanks!$h" #!String
+    Event_darkroom5: "Oh! I thought you knew.#$b#This room's for developing photos." #!String
+    Event_darkroom6: "Is that so...?$s" #!String
+    Event_beach1: "No, you won't! This bracelet was passed down to me by my great-grandmother!$a" #!String
+    Event_beach2: "*sigh*$s#$b#...Maybe it'll wash up on another shore. I can't bear to think of it at the bottom of the ocean.$s" #!String
+    Event_room1: "Him? No!#$b#...Well, I guess I used to like Alex. But not anymore! He's immature." #!String
+    Event_room2: "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..." #!String
+    Event_room3: "Huh? What's an android?" #!String
+    summer_Mon: "I'm going to get such a nice tan this summer." #!String
+    summer_Tue: "Ew, you're all dirty." #!String
+    summer_Wed: "Um... Yes?#$e#I didn't hear you, I'm thinking about something else." #!String
+    summer_10: "Do you have baby bunnies on your farm? Bunnies are SO cute! <" #!String
+    summer_Thu: "If you stay in the sun a lot it'll make your hair lighter.#$e#It's a good thing to know!" #!String
+    summer_Fri: "I wonder what Alex is doing today...#$e#Huh? I didn't notice you standing there." #!String
+    summer_Sat: "Farming sounds so boring...#$q 42/43 summer_Sat_old#What do you even do all day?#$r 42 10 summer_Sat_12#Care for plants#$r 42 10 summer_Sat_12#Explore the caves#$r 43 -10 summer_Sat_13#Snoop around in your room#$r 42 10 summer_Sat_12#Dig for treasure" #!String
+    summer_Sat_old: "#$p 43#Hey, you better not be snooping around in my room anymore!$a|But I guess it could get you in pretty good shape." #!String
+    summer_Sat_12: "Hmm... sounds like a lot of work." #!String
+    summer_Sat_13: "What? You'd better not be doing that!$a" #!String
+    summer_Sun: "Emily usually cooks dinner... But she makes weird stuff like quinoa." #!String
+    summer_Tue2: "Do you wear those clothes every day?" #!String
+    summer_Tue4: "$p 47#Hey I found this new tool to open jars with. So you won't need to help me anymore.$h|There's not a cloud in the sky today.$h" #!String
+    summer_Wed4: "It's so hot today!#$e#I wish I had some ice cream.$s" #!String
+    summer_Fri4: "I spent 3 hours practicing my signature today.#$e#I guess that's pretty silly, huh?" #!String
+    summer_Thu6: "If you stay in the sun a lot it will make your hair lighter... But you don't want to get sunburnt, either.#$e#I just want a healthy amount of sunlight. Everything in moderation, right?" #!String
+    summer_Mon6: "I should start reading some books instead of magazines.#$e#It's good to learn things, isn't it?#$e#I only ever look at the pictures." #!String
+    summer_Sun6: "#$1 HaleySister#I talked to my sister for a while last night. I actually enjoyed it quite a bit.#$e#You know, Emily's not actually that weird. I guess we have more in common than I used to think.#$e#Don't tell her I said so." #!String
+    summer_Sat6: "It seems like a good day to go swimming." #!String
+    summer_Tue8: "I guess living in the country isn't so bad.#$e#If I lived in the city I might start to miss all the trees.#$e#@, I think I've been hanging out with you too much.$h" #!String
+    summer_Fri10: "Oh, hi @!#$e#Do you like kids?$l" #!String
+    fall_1: "It's fall already?$s" #!String
+    fall_Mon: "It's gross when all these fallen leaves get slimy." #!String
+    fall_Tue: "Hmm... Something smells weird...#$e#You've been working on the farm, huh?" #!String
+    fall_Wed: "Oh, hi. Did you want something?" #!String
+    fall_Thu: "I feel the urge to go shopping. *sigh*" #!String
+    fall_Fri: "Is that a grass stain on your knee?#$e#Sorry, I'm allergic to grass." #!String
+    fall_Sat: "It's too cold to go to the beach anymore.#$q 44 fall_Sat_old#*sigh*...what do you think I should do today?#$r 44 10 fall_Sat_12#Watercolor painting#$r 44 20 fall_Sat_12#Relax and read a magazine#$r 44 -30 fall_Sat_13#Stop being a selfish crybaby" #!String
+    fall_Sat_old: "I'll probably take a nap later." #!String
+    fall_Sat_12: "Hmm... That's a pretty good idea, actually." #!String
+    fall_Sat_13: "Get away from me, you stupid jerk.$a" #!String
+    fall_Sun: "I've never been to the forest. It's muddy and I could get a blister on my foot." #!String
+    fall_Tue2: "Something smells earthy...#$b#Oh, right. You work on a farm." #!String
+    fall_Fri4: "You look like you've been doing a lot of hard work.#$b#Why don't you take the rest of the day off?" #!String
+    fall_Wed4: "If you're ever bored, come say hi." #!String
+    fall_Thu6: "Shopping just doesn't sound as fun as it used to.#$e#What's happening to me?#$e#Hmm..." #!String
+    fall_Mon6: "$p 48#Did I ever tell you I found another one of my great-grandma's bracelets in the attic?|See this bracelet? It belonged to my great-grandmother.#$e#She was a really interesting lady." #!String
+    fall_Sun6: "I've never been to the forest, you know.#$e#It might be interesting to explore it some day." #!String
+    fall_Tue8: "I'm starting to like the smell of dirt. Isn't that weird?#$e#I think it's because you're around all the time.$h" #!String
+    fall_Mon10: "@, I'm happy to see you today.$h" #!String
+    winter_Mon: "I want to move somewhere warmer." #!String
+    winter_Tue: "Hi. Do you need something from me?#$e#..." #!String
+    winter_9: "Hmm. What brand is your shirt?#$e#Oh. Um, nevermind." #!String
+    winter_Wed: "I wish someone would bring me a peppermint coffee.$s#$e#Don't even bother, I know you won't be able to make one." #!String
+    winter_Thu: "I'm going to start writing a list of all the clothes I need for next spring." #!String
+    winter_Fri: "Do you have a pony on your farm?$h#$e#Oh. That's disappointing...$s" #!String
+    winter_Sat: "The only good thing about winter is that I get to sleep more.#$e#I like at least 10 hours of sleep every night." #!String
+    winter_Sun: "Will you say hi to Alex for me?#$e#Thanks." #!String
+    winter_Tue2: "Your name is @, right?#$e#I keep forgetting." #!String
+    winter_Tue4: "Hi @.#$e#Is anything exciting happening on your farm?" #!String
+    winter_Wed6: "I think I'm starting to realize that clothes aren't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?" #!String
+    winter_Thu6: "Maybe I'll donate some of my skirts to a charity this spring.#$e#I mean, I do have over 1,000 skirts.$h#$e#...what?" #!String
+    winter_Sun6: "Um, if you see Alex could you tell him I'm busy today?#$e#Thanks." #!String
+    winter_Mon8: "I wish it were warmer here in Stardew Valley.#$e#I could move somewhere else, but..." #!String
+    winter_Fri8: "Do you think you'll ever have a pony on your farm?" #!String
+    winter_Sat8: "I'm glad you have less work to do in the winter.#$e#It must be nice to have a break, huh?" #!String
+    winter_Sun10: "@, you look rugged today. I like it.^@, you look pretty today.#$e#...$h" #!String
+

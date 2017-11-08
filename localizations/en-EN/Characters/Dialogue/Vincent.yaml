@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Oh, a stranger! My name's Vincent.#$b#Momma says not to talk to strangers... But you seem okay." #!String
+    Mon: "I wanna be just like my big brother when I grow up!$h#$e#Okay! Bye!" #!String
+    Mon4: "Dad's not around much... I miss playing with him.$s" #!String
+    Tue: "*sigh*... Mom won't let me have any more gummies today.$s" #!String
+    Tue6: "Can you keep a secret, mister?^Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u" #!String
+    Wed: "I wanna look for bugs, but Mom gets mad when I'm all dirty.$u#$b#It's a tough choice." #!String
+    Thu: "I'm hungry... where's Mom?$s" #!String
+    Thu2: "You're not as boring as most grown-ups!" #!String
+    Fri: "#$c .3#Ew, it's boiled beet night again...$s#$e#Oh no... Mom's making lentil soup tonight.$s" #!String
+    Sat_1: "Dad's coming back soon!#$b#I hope he brings me some toys.$u" #!String
+    Sat: "Miss Penny makes me read a new book every week.$s#$b#At least she lets me pick them, sometimes!" #!String
+    Sat8: "Dad seems weird since he came back. I wonder what happened to him?$s#$b#He doesn't play with me anymore.$s" #!String
+    Sun: "Hi there, mister!^Hi there, miss." #!String
+    Sun10: "Hi Uncle @!^Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h" #!String
+

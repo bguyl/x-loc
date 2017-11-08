@@ -1,0 +1,22 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    Fri: "700 SeedShop 10 20 0/830 SeedShop 4 17 2/1700 Saloon 16 20 0 \"I've been working hard all week. I deserve a little relaxation on a Friday night.\"/2250 SeedShop 24 4 1" #!String
+    spring: "700 SeedShop 10 20 0/830 SeedShop 4 17 2/1700 SeedShop 11 20 0/1900 SeedShop 37 5 0/2100 SeedShop 20 5 0/2300 SeedShop 24 4 1" #!String
+

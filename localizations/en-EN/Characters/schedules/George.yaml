@@ -1,0 +1,24 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    23: "630 JoshHouse 5 21 3 \"Hmmpph... The wife's making me go to the clinic today.\"/1030 Hospital 10 15 0 \"*grumble*... Good for nothing doctors... *grumble*\"/1330 Hospital 4 6 1 \"Well how much longer do I have, Doc?\"/1600 JoshHouse 16 22 0/2000 JoshHouse 3 5 0" #!String
+    rain: "630 JoshHouse 16 22 0/1200 JoshHouse 5 21 3/1500 JoshHouse 16 22 0/2000 JoshHouse 3 5 0" #!String
+    summer_Fri: "630 JoshHouse 16 22 0/1200 Town 52 61 2/1500 JoshHouse 16 22 0/2000 JoshHouse 3 5 0" #!String
+    Sun: "630 JoshHouse 16 22 0/1000 SeedShop 36 22 0 \"I've never been religious but hey... I'm old.\"/1400 JoshHouse 16 22 0/2000 JoshHouse 3 5 0" #!String
+    spring: "630 JoshHouse 16 22 0/1200 JoshHouse 5 21 3/1500 JoshHouse 16 22 0/2000 JoshHouse 3 5 0" #!String
+

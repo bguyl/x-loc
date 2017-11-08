@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Keep it up, kid. I think you're gonna be a star.#$e#Just ask me if you need anything." #!String
+    Tue: "I knew you'd end up here someday. Of course, I had to make it a little difficult so you'd have an incentive to achieve excellence." #!String
+    Wed: "I was born an ordinary boy, but I made a decision early in life that I would become extraordinary." #!String
+    Thu: "Hey. Don't tell anyone about this place, okay? I want to keep it... exclusive.#$e#You'd keep a secret for your friend Mr. Qi, wouldn't you?" #!String
+    Fri: "Never stop striving to achieve perfection.#$e#Settle for nothing less than excellence in everything you do." #!String
+    Sat: "Stop by whenever you wanna relax." #!String
+    Sun: "Keep working hard and maybe you'll end up like me someday." #!String
+

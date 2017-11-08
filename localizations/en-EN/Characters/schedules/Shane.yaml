@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    rain: "GOTO spring" #!String
+    spring: "700 JojaMart 9 17 2 shane_work/1230 JojaMart 5 13 2 shane_work/1330 JojaMart 21 16 2 shane_work/1430 JojaMart 25 12 2 shane_work/1530 JojaMart 17 12 2 shane_work/1630 JojaMart 7 25 1/1700 Saloon 21 17 2 shane_drink/2300 AnimalShop 27 4 1" #!String
+    Sat: "700 AnimalShop 24 15 0/1200 SeedShop 16 29 3/1700 Saloon 21 17 2 shane_drink/2300 AnimalShop 27 4 1" #!String
+    Sun: "700 AnimalShop 24 15 0/1100 37 10 2/1450 AnimalShop 16 13 2/1800 Saloon 21 17 2 shane_drink/2400 AnimalShop 27 4 1" #!String
+    summer_Sun: "700 AnimalShop 24 15 0/1100 37 10 2/1450 AnimalShop 16 13 2/1800 Saloon 21 17 2 shane_drink/2400 AnimalShop 27 4 1" #!String
+    marriage_Mon: "830 AnimalShop 16 13 2 \"Oh, hey @. Miss me already?$6\"/1100 Forest 37 10 2 \"I'm attached to these woods... lots of memories...\"/1700 BusStop -1 23 3" #!String
+    marriage_Fri: "830 Town 33 101 2 \"Don't worry, this is only Joja Cola.\"/1300 SeedShop 2 26 2 \"Hmm... I have to say, JojaMart has a much better selection of frozen dinners.\"/1700 Saloon 21 17 2 shane_drink \"If I don't order a cold one now and then, Gus will go out of business. I'm just doing my civic duty. I'll head home around 10.\"/2200 BusStop -1 23 3" #!String
+    default: "900 AnimalShop 24 17 1/1000 AnimalShop 24 15 0/1100 AnimalShop 24 5 0/1200 AnimalShop 5 14 2/1400 Saloon 11 20 0/1630 Saloon 21 17 2 shane_drink/1900 Saloon 27 23 1/2100 Saloon 24 17 2 shane_drink/2300 AnimalShop 27 4 1" #!String
+
