@@ -1,2 +1,0 @@
-localizations\**.png filter=lfs diff=lfs merge=lfs -text
-*.xnb filter=lfs diff=lfs merge=lfs -text
