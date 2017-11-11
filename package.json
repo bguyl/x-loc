@@ -23,6 +23,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
+    "asar": false,
     "productName": "x-loc",
     "appId": "org.simulatedgreg.electron-vue",
     "directories": {
