@@ -1,11 +1,7 @@
 <template>
-  <div>
+  <div class="foo">
     <button @click="patch" class="waves-effect waves-light btn">Patch</button>
     <button @click="reset" class="waves-effect waves-light btn">Reset</button>
-    <p>{{gamepath}}</p>
-    <ul>
-      <li v-for="filepath in filespaths" :key="filepath">{{filepath}}</li>
-    </ul>
   </div>
 </template>
 
@@ -20,20 +16,26 @@ export default {
     patch() {
       this.filespaths.forEach(relpath => {
         let abspath = path.join(this.gamepath, 'Content', relpath);
-        try {
+        if (!fs.existsSync(abspath.concat('.xloc_bak'))) {
           fs.renameSync(abspath, abspath.concat('.xloc_bak'));
-        } catch (e) {}
+        }
         copyFile(path.join(__static, this.lang, relpath), abspath, () => { /* ignore callback */ });
       });
-      console.log('patched');
+      window.Materialize.toast('Game patched !', 1000);
     },
     reset() {
-      console.log('reset');
+      let frompath = path.join(this.gamepath, 'Content');
+      let filesToReset = find(frompath, '.*xloc_bak');
+      filesToReset.forEach(file => {
+        let currentpath = path.join(frompath, file);
+        fs.renameSync(currentpath, currentpath.split('.xloc_bak')[0]);
+      });
+      window.Materialize.toast('Files reset', 1000);
     }
   }
 };
 /**
- * Cant's use NodeJS 8.5 copy file in Electron
+ * Cant's use NodeJS 8.5 fs.copyFile() in Electron
  */
 function copyFile(source, target, cb) {
   var cbCalled = false;
@@ -58,7 +60,21 @@ function copyFile(source, target, cb) {
     }
   }
 }
+
+/**
+ * Find a list of files with a regex
+ */
+function find (start, regex, dir = start, filelist = []) {
+  var files = fs.readdirSync(dir);
+  files.forEach(function(file) {
+    if (fs.statSync(path.join(dir, file)).isDirectory()) {
+      filelist = find(start, regex, path.join(dir, file), filelist);
+    } else if (file.match(regex)) {
+      filelist.push(path.join(dir.split(start)[1], file));
+    }
+  });
+  return filelist;
+};
 </script>
 
-<style>
-</style>
+<style></style>
