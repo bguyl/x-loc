@@ -2,12 +2,7 @@
   <div class="content">
     <folder-form v-model="gamepath"></folder-form>
     <select-lang v-model="lang"></select-lang> 
-    <patch-reset-buttons></patch-reset-buttons>
-    <p>{{gamepath}}</p>
-    <p>{{lang}}</p>
-    <ul>
-      <li v-for="filepath in filespaths" :key="filepath">{{filepath}}</li>
-    </ul>
+    <patch-reset-buttons :gamepath="gamepath" :lang="lang" :filespaths="filespaths"></patch-reset-buttons>
   </div>
 </template>
 
@@ -30,6 +25,13 @@
         lang: ''
       };
     },
+    watch: {
+      lang: function () {
+        if (this.lang) {
+          this.filespaths = readDataDirectory(this.lang);
+        }
+      }
+    },
     methods: {
       onPathChanged(gamepath) {
         this.gamepath = gamepath;
@@ -38,19 +40,19 @@
     beforeMount: function() {
       getDefaultPath()
         .then(gamepath => { this.gamepath = gamepath; });
-    },
-    mounted: function() {
-      this.filespaths = readDataDirectory();
     }
   };
-  
-  function readDataDirectory (dir = path.join(__static, 'en-EN/'), filelist = []) {
+
+  /**
+   * Return a list of files available for paths
+   */
+  function readDataDirectory (lang, dir = path.join(__static, lang), filelist = []) {
     var files = fs.readdirSync(dir);
     files.forEach(function(file) {
-      if (fs.statSync(dir + file).isDirectory()) {
-        filelist = readDataDirectory(dir + file + '/', filelist);
+      if (fs.statSync(path.join(dir, file)).isDirectory()) {
+        filelist = readDataDirectory(lang, path.join(dir, file), filelist);
       } else {
-        filelist.push(path.join(dir.split('en-EN')[1], file));
+        filelist.push(path.join(dir.split(lang)[1], file));
       }
     });
     return filelist;
