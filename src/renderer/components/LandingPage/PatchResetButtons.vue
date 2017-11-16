@@ -17,7 +17,9 @@ export default {
       this.filespaths.forEach(relpath => {
         let abspath = path.join(this.gamepath, 'Content', relpath);
         if (!fs.existsSync(abspath.concat('.xloc_bak'))) {
-          fs.renameSync(abspath, abspath.concat('.xloc_bak'));
+          try {
+            fs.renameSync(abspath, abspath.concat('.xloc_bak'));
+          } catch (e) {}
         }
         copyFile(path.join(__static, this.lang, relpath), abspath, () => { /* ignore callback */ });
       });
@@ -28,7 +30,9 @@ export default {
       let filesToReset = find(frompath, '.*xloc_bak');
       filesToReset.forEach(file => {
         let currentpath = path.join(frompath, file);
-        fs.renameSync(currentpath, currentpath.split('.xloc_bak')[0]);
+        try {
+          fs.renameSync(currentpath, currentpath.split('.xloc_bak')[0]);
+        } catch (e) {}
       });
       window.Materialize.toast('Files reset', 1000);
     }
