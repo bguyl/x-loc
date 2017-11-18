@@ -25,7 +25,6 @@
 </script>
 
 <style>
-
 @font-face {
   font-family: stardewvalley;
   src: url('assets/Stardew_Valley.ttf');
@@ -51,15 +50,14 @@
   font-size: 0.8em;
 }
 
-#app {
-  min-height: 100vh;
+body {
+  /* min-height: 100vh; */
   font-family: stardewvalley;
   background-color: #0360b9;
   background-image: url('assets/mountainsBgWithCloudsGlowing_websiteBG2.png');
   background-size: cover;
   background-attachment: fixed;
 }
-
 
 #nav-mobile > li {
   width: 75px;
