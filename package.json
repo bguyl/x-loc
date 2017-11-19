@@ -23,7 +23,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "asar": false,
+    "asar": true,
     "productName": "X-loc",
     "appId": "me.guyl.x-loc",
     "directories": {
@@ -49,22 +49,25 @@
     },
     "mac": {
       "icon": "build/icons/icon.icns",
-      "publish": [
-        "github"
-      ]
+      "target": "zip"
     },
     "win": {
       "icon": "build/icons/icon.ico",
-      "publish": [
-        "github"
-      ]
+      "target": "portable"
     },
     "linux": {
-      "icon": "build/icons"
-    }
+      "icon": "build/icons",
+      "target": [
+        {
+          "target": "AppImage"
+        }
+      ]
+    },
+    "appImage": {
+      "systemIntegration": "doNotAsk"
+    } 
   },
   "dependencies": {
-    "electron-updater": "^2.16.1",
     "font-awesome": "^4.7.0",
     "hammerjs": "^2.0.8",
     "jquery": "^3.2.1",

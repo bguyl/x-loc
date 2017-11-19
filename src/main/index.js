@@ -1,5 +1,4 @@
 import { app, BrowserWindow } from 'electron' // eslint-disable-line
-import { autoUpdater } from 'electron-updater';
 
 /**
  * Set `__static` path to static files in production
@@ -54,10 +53,12 @@ app.on('activate', () => {
  * https://simulatedgreg.gitbooks.io/electron-vue/content/en/using-electron-builder.html#auto-updating
  */
 
-autoUpdater.on('update-downloaded', () => {
-  autoUpdater.quitAndInstall();
-});
+// import { autoUpdater } from 'electron-updater';
 
-app.on('ready', () => {
-  if (process.env.NODE_ENV === 'production') autoUpdater.checkForUpdates();
-});
+// autoUpdater.on('update-downloaded', () => {
+//   autoUpdater.quitAndInstall();
+// });
+
+// app.on('ready', () => {
+//   if (process.env.NODE_ENV === 'production') autoUpdater.checkForUpdates();
+// });
