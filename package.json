@@ -64,7 +64,8 @@
       ]
     },
     "appImage": {
-      "systemIntegration": "doNotAsk"
+      "systemIntegration": "doNotAsk",
+      "category": "Utility"
     } 
   },
   "dependencies": {
