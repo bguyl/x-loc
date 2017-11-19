@@ -49,26 +49,23 @@
     },
     "mac": {
       "icon": "build/icons/icon.icns",
-      "target": "zip",
-      "publish": [
-        "github"
-      ]
+      "target": "zip"
     },
     "win": {
       "icon": "build/icons/icon.ico",
-      "target": "portable",
-      "publish": [
-        "github"
-      ]
+      "target": "portable"
     },
     "linux": {
       "icon": "build/icons",
-      "target": "AppImage",
-      "systemIntegration ": "doNotAsk",
-      "publish": [
-        "github"
+      "target": [
+        {
+          "target": "AppImage"
+        }
       ]
-    }
+    },
+    "appImage": {
+      "systemIntegration": "doNotAsk"
+    } 
   },
   "dependencies": {
     "font-awesome": "^4.7.0",

@@ -1,3 +1,0 @@
-files:
-  - source: /localizations/en-EN/**/*.yaml
-    translation: /localizations/%locale%/**/%original_file_name%
