@@ -50,22 +50,27 @@
     "mac": {
       "icon": "build/icons/icon.icns",
       "target": "zip",
-      "publish": ["github"]
+      "publish": [
+        "github"
+      ]
     },
     "win": {
       "icon": "build/icons/icon.ico",
       "target": "portable",
-      "publish": ["github"]
+      "publish": [
+        "github"
+      ]
     },
     "linux": {
       "icon": "build/icons",
       "target": "AppImage",
       "systemIntegration ": "doNotAsk",
-      "publish": ["github"]
+      "publish": [
+        "github"
+      ]
     }
   },
   "dependencies": {
-    "electron-updater": "^2.16.1",
     "font-awesome": "^4.7.0",
     "hammerjs": "^2.0.8",
     "jquery": "^3.2.1",
