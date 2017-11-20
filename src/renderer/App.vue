@@ -15,10 +15,21 @@
       </div>
     </nav>
     <router-view></router-view>
+    <div id="update-modal" class="modal">
+      <div class="modal-content">
+        <h4>Update available !</h4>
+        <p>A new version is available. You can download it <a class="update" v-on:click="open('https://github.com/bguyl/x-loc/releases/latest')">there</a>.</p>
+      </div>
+      <div class="modal-footer">
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
+  import * as https from 'https';
+
   export default {
     name: 'x-loc',
     methods: {
@@ -31,8 +42,51 @@
       close() {
         this.$electron.remote.getCurrentWindow().close();
       }
+    },
+    mounted: function() {
+      window.$('.modal').modal();
+      checkUpdate();
     }
   };
+
+  /**
+   * Check if a new version is available and open modal if true
+   */
+  function checkUpdate() {
+    if (process.env.NODE_ENV === 'development') { window.$('#update-modal').modal('open'); return; }
+    const options = {
+      hostname: 'api.github.com',
+      path: '/repos/bguyl/x-loc/releases/latest',
+      method: 'GET',
+      headers: {
+        'User-Agent': 'xloc-app'
+      }
+    };
+    let req = https.request(options, (res) => {
+      // console.log(`STATUS: ${res.statusCode}`);
+      res.setEncoding('utf8');
+      let datastr = '';
+      res.on('data', (chunk) => {
+        datastr += chunk;
+      });
+      res.on('end', () => {
+        // get versions as arrays to compare
+        let latest = JSON.parse(datastr).tag_name.split('v')[1].split('.');
+        let current = this.version.split('.');
+        // compare version (semver)
+        if ((latest[0] > current[0]) ||
+          (latest[0] === current[0] && latest[1] > current[1]) ||
+          (latest[0] === current[0] && latest[1] === current[1] && latest[2] > current[2])
+        ) {
+          window.$('#update-modal').modal('open');
+        }
+      });
+    });
+    req.on('error', (e) => {
+      // console.error(`problem with request: ${e.message}`);
+    });
+    req.end();
+  }
 </script>
 
 <style>
