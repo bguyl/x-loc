@@ -3,7 +3,6 @@
     <folder-form v-model="gamepath"></folder-form>
     <select-lang v-model="lang"></select-lang> 
     <patch-reset-buttons :gamepath="gamepath" :lang="lang" :filespaths="filespaths"></patch-reset-buttons>
-    <div class="version">Version: {{version}}</div>
   </div>
 </template>
 
@@ -23,8 +22,7 @@
       return {
         filespaths: [],
         gamepath: '',
-        lang: '',
-        version: ''
+        lang: ''
       };
     },
     watch: {
@@ -43,8 +41,6 @@
       }
     },
     beforeMount: function() {
-      // Give the app version on prod, electron version on dev
-      this.version = this.$electron.remote.app.getVersion();
       getDefaultPath()
         .then(gamepath => { this.gamepath = gamepath; });
     }
@@ -113,14 +109,5 @@
 <style scoped>
 .content {
   margin: 40px 30px;
-}
-a.update {
-  cursor: pointer;
-}
-.version {
-  color: white;
-  position: fixed;
-  bottom: 5px;
-  right: 5px;
 }
 </style>
