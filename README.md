@@ -74,4 +74,12 @@ __French localization / Localisation française:__ [Stardew Traduction FR](http:
 >
 >Et surtout, un immense merci à draivin (créateur de xnbnode), sans qui nous n'aurions pas pu faire grand chose.
 
-__Font:__  [Cowsplay](https://www.reddit.com/r/StardewValley/comments/4dtgp7/by_popular_request_a_stardew_valley_font_for_your/)
+__Stardew Valley font:__  [Cowsplay](https://www.reddit.com/r/StardewValley/comments/4dtgp7/by_popular_request_a_stardew_valley_font_for_your/)
+
+I actually no rights on the followings assets but I'll change them when I can:
+
+__Background:__ [Chucklefish Stardew Valley Forum](https://community.playstarbound.com/forums/stardew-valley.72/)
+
+__Icon:__ [gpbrck](https://gpbrck.deviantart.com/art/Pixel-Art-Earth-536316551)
+
+__Drift Type font:__ [TracerTong](https://www.dafont.com/drift-type.font)
