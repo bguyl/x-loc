@@ -97,7 +97,7 @@
     } else if (os.platform() === 'linux') {
       gamepath = path.join(process.env.HOME, '.local', 'share', 'Steam', 'steamapps', 'common', 'Stardew Valley');
     } else if (os.platform() === 'darwin') { // if mac
-      gamepath = path.join(process.env.HOME, 'Library', 'Application Support', 'Steam', 'SteamApps', 'common', 'Stardew Valley');
+      gamepath = path.join(process.env.HOME, 'Library', 'Application Support', 'Steam', 'SteamApps', 'common', 'Stardew Valley', 'Contents', 'Resources');
     }
     if (fs.statSync(gamepath)) {
       return Promise.resolve(gamepath);
