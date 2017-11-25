@@ -53,6 +53,25 @@ npm run lint
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[de85f81](https://github.com/SimulatedGREG/electron-vue/tree/de85f81890c01500113738bfe57bef136f9fbf52) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
 
-#### Resources
+#### Thanks to
 
-Flags : [https://dribbble.com/shots/1211759-Free-195-Flat-Flags](https://dribbble.com/shots/1211759-Free-195-Flat-Flags)
+__French localization / Localisation française:__ [Stardew Traduction FR](http://steamcommunity.com/groups/sdv-fr)
+
+>L'équipe de traduction:  
+>30% [OverGamer]: Traduction, gestion technique  
+>Actionbreaker: Traduction, gestion technique, outil de conversion des sauvegardes
+>
+>LoGeek (loikachu), Sprigan: Traductions   additionnelles, version d'appoint en attendant la 1.2 :)
+>
+>Traductions préliminaires des dialogues et évènements:  
+>Alex [legorn], Globy, ipwnd, kurunohibou, Niflas, NumeroUn, unifinger
+>
+>Corrections: bertrand35170, Touffu64
+>
+>Tests: Beaucoup d'entre vous :) notamment sokhak, Furax-31, F3n3K, Solydgame, Bleuebook, [TG62] BigBoss, Hodiall, mymy8, Smock, Tekllan, Mika94...
+>
+>Merci aussi à Minishoy pour m'avoir mit en contact avec l'équipe de Actionbreaker à l'aube de ce projet :)
+>
+>Et surtout, un immense merci à draivin (créateur de xnbnode), sans qui nous n'aurions pas pu faire grand chose.
+
+__Font:__  [Cowsplay](https://www.reddit.com/r/StardewValley/comments/4dtgp7/by_popular_request_a_stardew_valley_font_for_your/)
