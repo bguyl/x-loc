@@ -2,15 +2,15 @@
   <div id="app">
     <nav>
       <div class="nav-wrapper orange accent-3">
-        <div class="brand-logo black-text">
+        <div class="black-text brand-logo left">
           <router-link to="/" class="title">X-loc</router-link>
           <span class="subtitle">: Extra localizations for Stardew Valley</span>
         </div>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <!-- <li><router-link to="about"><span class="fa fa-2x fa-question black-text"></span></router-link></li> -->
-          <li><a v-on:click="open('http://github.com/bguyl/x-loc')"><span class="fa fa-2x fa-github black-text"></span></a></li>
-          <li><a v-on:click="minimize()"><span class="fa fa-2x fa-minus black-text"></span></a></li>
-          <li><a v-on:click="close()"><span class="fa fa-2x fa-times black-text"></span></a></li>
+        <ul id="nav-mobile" class="right">
+          <li><router-link to="about"><span class="fa fa-px fa-question black-text"></span></router-link></li>
+          <li><a v-on:click="open('http://github.com/bguyl/x-loc')"><span class="fa fa-px fa-github black-text"></span></a></li>
+          <li><a v-on:click="minimize()"><span class="fa fa-minus black-text"></span></a></li>
+          <li><a v-on:click="close()"><span class="fa fa-times black-text"></span></a></li>
         </ul>
       </div>
     </nav>
@@ -114,13 +114,13 @@ router-link, a {
 
 .title {
   font-family: drifttype;
-  font-size: 1.5em;
+  font-size: 32px;
   color: #7d5a1a;
 }
 
 .subtitle {
   font-family: stardewvalley;
-  font-size: 0.8em;
+  font-size: 24px;
 }
 
 body {
@@ -133,7 +133,15 @@ body {
 }
 
 #nav-mobile > li {
-  width: 75px;
+  width: 45px;
   text-align: center;
+}
+
+.fa-px {
+  font-size: 24px
+}
+
+h2 {
+  font-size: 25px; 
 }
 </style>

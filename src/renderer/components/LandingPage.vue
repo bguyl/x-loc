@@ -110,7 +110,7 @@
   }
 </script>
 
-<style>
+<style scoped>
 .content {
   margin: 40px 30px;
 }

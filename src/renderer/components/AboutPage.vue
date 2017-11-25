@@ -8,5 +8,3 @@
     components: { }
   };
 </script>
-
-<style></style>
