@@ -1,6 +1,6 @@
 {
   "name": "x-loc",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Bastien Guyl <bastien@guyl.me>",
   "description": "Extra localizations/translations manager for Stardew Valley",
   "repository": "https://github.com/bguyl/x-loc",
