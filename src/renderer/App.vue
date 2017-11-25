@@ -24,6 +24,7 @@
         <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
       </div>
     </div>
+    <div class="version">Version: {{version}}</div>
   </div>
 </template>
 
@@ -32,6 +33,11 @@
 
   export default {
     name: 'x-loc',
+    data() {
+      return {
+        version: ''
+      };
+    },
     methods: {
       open(link) {
         this.$electron.shell.openExternal(link);
@@ -43,17 +49,25 @@
         this.$electron.remote.getCurrentWindow().close();
       }
     },
+    beforeMount() {
+      // Give the app version on prod, electron version on dev
+      if (process.env.NODE_ENV === 'development') {
+        this.version = '0.0.3';
+      } else {
+        this.version = this.$electron.remote.app.getVersion();
+      }
+    },
     mounted: function() {
       window.$('.modal').modal();
-      checkUpdate();
+      checkUpdate(this.version);
     }
   };
 
   /**
    * Check if a new version is available and open modal if true
    */
-  function checkUpdate() {
-    if (process.env.NODE_ENV === 'development') { window.$('#update-modal').modal('open'); return; }
+  function checkUpdate(current) {
+    current = current.split('.');
     const options = {
       hostname: 'api.github.com',
       path: '/repos/bguyl/x-loc/releases/latest',
@@ -72,7 +86,6 @@
       res.on('end', () => {
         // get versions as arrays to compare
         let latest = JSON.parse(datastr).tag_name.split('v')[1].split('.');
-        let current = this.version.split('.');
         // compare version (semver)
         if ((latest[0] > current[0]) ||
           (latest[0] === current[0] && latest[1] > current[1]) ||
@@ -142,6 +155,16 @@ body {
 }
 
 h2 {
-  font-size: 25px; 
+  font-size: 25px !important; 
+}
+
+a.update {
+  cursor: pointer;
+}
+.version {
+  color: white;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
 }
 </style>
