@@ -35,10 +35,3 @@ export default {
   }
 };
 </script>
-
-<style>
-  h2 {
-    font-size: 1.3em;
-    color: black;
-  }
-</style>

@@ -80,5 +80,3 @@ function find (start, regex, dir = start, filelist = []) {
   return filelist;
 };
 </script>
-
-<style></style>
