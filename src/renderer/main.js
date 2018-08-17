@@ -34,6 +34,8 @@ i18next.init({
       'folder-placeholder': 'Game files folder',
       'patch': 'Patch',
       'reset': 'Reset',
+      'game-patched': 'Game patched !',
+      'game-reset': 'Files reset',
       'select-lang': 'Select your language',
       'select-one': 'Select one'
     } },
@@ -47,6 +49,8 @@ i18next.init({
       'folder-placeholder': 'Dossier des fichiers du jeu',
       'patch': 'Appliquer',
       'reset': 'Réinitialier',
+      'game-patched': 'Correctif appliqué !',
+      'game-reset': 'Fichiers réinitialisés',
       'select-lang': 'Sélectionnez la langue',
       'select-one': 'Selectionnez en une'
     } }
