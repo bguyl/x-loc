@@ -48,7 +48,7 @@ i18next.init({
       'browse': 'Parcourir',
       'folder-placeholder': 'Dossier des fichiers du jeu',
       'patch': 'Appliquer',
-      'reset': 'Réinitialier',
+      'reset': 'Réinitialiser',
       'game-patched': 'Correctif appliqué !',
       'game-reset': 'Fichiers réinitialisés',
       'select-lang': 'Sélectionnez la langue',
