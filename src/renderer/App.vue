@@ -4,7 +4,7 @@
       <div class="nav-wrapper orange accent-3">
         <div class="black-text brand-logo left">
           <span class="title">X-loc</span>
-          <span class="subtitle">: Extra localizations for Stardew Valley</span>
+          <span class="subtitle">: {{$t('description')}}</span>
         </div>
         <ul id="nav-mobile" class="right">
           <li><a v-on:click="open('http://github.com/bguyl/x-loc')"><span class="fa fa-px fa-github black-text"></span></a></li>
@@ -16,8 +16,8 @@
     <landing-page></landing-page>
     <div id="update-modal" class="modal">
       <div class="modal-content">
-        <h4>Update available !</h4>
-        <p>A new version is available. You can download it <a class="update" v-on:click="open('https://github.com/bguyl/x-loc/releases/latest')">there</a>.</p>
+        <h4>{{$t('update-title')}}</h4>
+        <p>{{$t('update-content')}} <a class="update" v-on:click="open('https://github.com/bguyl/x-loc/releases/latest`')"> {{$t('update-there')}}</a>.</p>
       </div>
       <div class="modal-footer">
         <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>

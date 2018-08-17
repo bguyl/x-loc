@@ -1,7 +1,7 @@
 <template>
   <div class="foo">
-    <button @click="patch" class="waves-effect waves-light btn">Patch</button>
-    <button @click="reset" class="waves-effect waves-light btn">Reset</button>
+    <button @click="patch" class="waves-effect waves-light btn">{{$t('patch')}}</button>
+    <button @click="reset" class="waves-effect waves-light btn">{{$t('reset')}}</button>
   </div>
 </template>
 

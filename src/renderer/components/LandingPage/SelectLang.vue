@@ -1,8 +1,8 @@
 <template>
   <div class="input-field col s12">
-    <h2>Select your language</h2>
+    <h2>{{$t('select-lang')}}</h2>
     <material-select @input="onInput" :value="value">
-      <option value="null" disabled>Select one</option>
+      <option value="null" disabled>{{$t('select-one')}}</option>
       <option v-for="lang in langs" :value="lang" :key="lang" v-text="lang"></option>
     </material-select>
   </div>
