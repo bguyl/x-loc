@@ -23,7 +23,7 @@ export default {
         }
         copyFile(path.join(__static, this.lang, relpath), abspath, () => { /* ignore callback */ })
       })
-      window.Materialize.toast('Game patched !', 1000)
+      window.Materialize.toast(this.$t('game-patched'), 1000)
     },
     reset () {
       let frompath = path.join(this.gamepath, 'Content')
@@ -34,7 +34,7 @@ export default {
           fs.renameSync(currentpath, currentpath.split('.xloc_bak')[0])
         } catch (e) {}
       })
-      window.Materialize.toast('Files reset', 1000)
+      window.Materialize.toast(this.$t('game-reset'), 1000)
     }
   }
 }
