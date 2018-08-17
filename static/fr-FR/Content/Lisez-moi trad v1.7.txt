@@ -1,0 +1,51 @@
+
+
+### INSTRUCTIONS D'INSTALLATION ###
+
+Assurez-vous d'avoir une version à jour et inaltérée du jeu (si vous aviez installé notre ancien patch, supprimez "TranslationInject.exe", ainsi que le .config et le .pdb, et "translation-table.json" s'ils sont encore présents dans votre répertoire de jeu; puis vérifiez l'intégrité du cache du jeu avec clic droit sur le jeu > propriétés > onglet fichiers locaux > Vérifier l'intégrité du cache du jeu (ou la manip équivalente sur gog))
+
+1-			Copiez le contenu de l'archive.
+2-			Collez-le dans le dossier "Content" de votre répertoire de jeu (pour Steam/Windows: ...\steamapps\common\Stardew Valley\Content).
+2b-		Sous MAC OS: ne pas copier de dossier, uniquement les fichiers xnb. Il faut donc faire 11 copier/coller, pour chaque dossier et sous-dossier, un par un.
+3-			Confirmez l'écrasement des fichiers qui portent un nom identique.
+4-			Lancez le jeu, cliquez sur le bouton avec les points de suspension en bas à droite, et choisissez la langue française.
+
+
+### COMPATIBILITÉ SAUVEGARDES ###
+
+-	Toutes les sauvegardes créées sur une version 1.1 ou ultérieure sont compatibles avec toutes les langues, à loisir. Vous pouvez donc passer de l'anglais au français, et inversement, ou toute autre langue, autant que vous le voulez.
+-	Les sauvegardes créées sur une version 1.07 et antérieures, sont probablement compatibles SI et SEULEMENT SI elles ont été créées sur un jeu en anglais.
+-	Les sauvegardes que vous créez avec cette traduction seront compatibles avec tous les langages, et toutes les versions du jeu à venir (sous réserve de modifications majeures du système de la part des développeurs, ce qui est très peu probable).
+
+
+### COMPATIBILITÉ MODS ###
+
+-	Tout mod ne modifiant pas les fichiers modifiés par cette traduction sera compatible.
+-	Cela inclut les mods SMAPI.
+-	Certains mods comportent du texte, que ce soit sous la forme de dialogues ou d'éléments d'interface; par définition ces derniers ne seront pas traduits. Vous pouvez faire cette traduction vous-même ! Si vous le faites, n'oubliez pas de publier votre travail sur http://steamcommunity.com/groups/sdv-fr
+-	Cela étant, tout mod, quelle que soit sa langue, fonctionnera avec le jeu réglé en français. Seul le contenu ajouté restera dans la langue du mod.
+
+
+### RAPPORTS D'ERREURS ###
+
+-	Si vous rencontrez des fautes, des maladresses ou des éléments manquants dans cette traduction, nous vous encourageons fortement à les signaler ici: http://steamcommunity.com/groups/sdv-fr/discussions/0/1290690926876791173/ !! C'est aussi grâce à vous que cette traduction a pu voir le jour !
+-	Le plus simple est de faire une capture d'écran quand ça arrive, puis de nous envoyer ces captures, plutôt que d'avoir à écrire tous les détails.
+
+
+### ÉQUIPE DE TRADUCTION & REMERCIEMENTS ###
+
+30% [OverGamer]: Traduction, gestion technique
+Actionbreaker: Traduction, gestion technique, outil de conversion des sauvegardes
+
+LoGeek (loikachu), Sprigan: Traductions additionnelles, version d'appoint en attendant la 1.2 :)
+
+Traductions préliminaires des dialogues et évènements:
+Alex [legorn], Globy, ipwnd, kurunohibou, Niflas, NumeroUn, unifinger
+
+Corrections: bertrand35170, Touffu64, SilverMike (également auteur de la version québécoise)
+
+Tests: Beaucoup d'entre vous :) notamment sokhak, Furax-31, F3n3K, Solydgame, Bleuebook, [TG62] BigBoss, Hodiall, mymy8, Smock, Tekllan, Mika94, Hector le Vépéciste...
+
+Merci aussi à Minishoy pour m'avoir mit en contact avec l'équipe de Actionbreaker à l'aube de ce projet :)
+
+Et surtout, un immense merci à draivin (créateur de xnbnode), sans qui nous n'aurions pas pu faire grand chose.
