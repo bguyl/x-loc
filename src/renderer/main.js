@@ -37,7 +37,8 @@ i18next.init({
       'game-patched': 'Game patched !',
       'game-reset': 'Files reset',
       'select-lang': 'Select your language',
-      'select-one': 'Select one'
+      'select-one': 'Select one',
+      'close': 'Close'
     } },
     fr: { translation: {
       'description': 'Localisations supplémentaires pour Stardew Valley',
@@ -52,7 +53,8 @@ i18next.init({
       'game-patched': 'Correctif appliqué !',
       'game-reset': 'Fichiers réinitialisés',
       'select-lang': 'Sélectionnez la langue',
-      'select-one': 'Selectionnez en une'
+      'select-one': 'Selectionnez en une',
+      'close': 'Fermer'
     } }
   }
 })

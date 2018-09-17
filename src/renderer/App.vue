@@ -20,7 +20,7 @@
         <p>{{$t('update-content')}} <a class="update" v-on:click="open('https://github.com/bguyl/x-loc/releases/latest`')"> {{$t('update-there')}}</a>.</p>
       </div>
       <div class="modal-footer">
-        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">{{$t('close')}}</a>
       </div>
     </div>
     <div class="version">Version: {{version}}</div>
