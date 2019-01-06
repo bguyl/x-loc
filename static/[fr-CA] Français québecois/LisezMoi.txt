@@ -1,0 +1,170 @@
+
+  SSSSSS TTTTTTTT   AAA    RRRRRR   DDDDDD   EEEEEEE WW          WW
+ SS         TT     AA AA   RR   RR  DD   DD  EE      WW          WW
+ SS         TT    AA   AA  RR   RR  DD    DD EE       WW        WW
+  SSSSS     TT    AAAAAAA  RRRRRR   DD    DD EEEEE    WW   WW   WW
+      SS    TT   AA     AA RR  RR   DD    DD EE       WW  WWWW  WW
+      SS    TT   AA     AA RR   RR  DD   DD  EE        WWWW  WWWW
+ SSSSSS     TT   AA     AA RR    RR DDDDDD   EEEEEEE    WW    WW
+
+      VV      VV    AAA    LL      LL      EEEEEEE YY    YY
+      VV      VV   AA AA   LL      LL      EE      YY    YY
+       VV    VV   AA   AA  LL      LL      EE       YY  YY
+       VV    VV   AAAAAAA  LL      LL      EEEEE     YYYY
+        VV  VV   AA     AA LL      LL      EE         YY
+         VVVV    AA     AA LL      LL      EE         YY
+          VV     AA     AA LLLLLLL LLLLLLL EEEEEEE    YY
+
+
+                          Version québécoise
+              par Michaël Châteauneuf alias DragonsLover
+
+                  Dernière mise à jour : 2018-12-18
+
+                      ◙══════════════════════◙
+                      ║     Introduction     ║
+                      ◙══════════════════════◙
+
+Merci d'avoir téléchargé mon patch de langue québécoise! Ce patch s'adresse
+à ceux et celles qui veulent jouer à Stardew Valley en québécois. À l'origine,
+je voulais créer ce patch pour moi ainsi que pour ma soeur qui voulaient le jeu
+en français. J'ai commencé à travailler sur ce projet un peu avant que la
+version 1.2 qui supporte de nouvelles langues soit sortie. Quand j'ai constaté
+que le français n'était pas parmi les langues de bases, j'ai trouvé ça un peu
+inacceptable sur le coup et je me suis donné comme but de réaliser une
+traduction en français dans la langue de la belle province pour combler ce
+besoin. Après quelques mois de travail grâce à la communauté française de
+traduction du jeu, je vous offre aujourd'hui le fruit de mon long labeur.
+
+Il ne vous en coûte absolument rien. Par contre, si vous appréciez mon patch
+et comptez l'utiliser régulièrement, compte tenu des efforts que j'ai fournis
+dessus pour le réaliser et le peaufiner, j'aimerais que vous considérez,
+selon votre entière volonté, de bien vouloir me faire au moins un petit don.
+Pas obligé que ce soit grand-chose. Ce serait grandement apprécié.
+
+Si vous le voulez, merci de faire votre don par PayPal à castlenine@hotmail.com
+
+                      ◙══════════════════════◙
+                      ║       Détails        ║
+                      ◙══════════════════════◙
+
+Ce patch remplace la langue portugaise du jeu en français québécois. Cette langue
+a été choisie car elle se rapproche le plus du français en plus d'éviter des
+contraintes appliquées sur les autres langues, comme l'apparition d'un point
+d'exclamation ou d'interrogation renversé en début de phrase pour l'espagnol ou
+encore l'emploi d'une police de caractères différente pour le russe. À noter que
+ceci est temporaire. Une version française officielle est annoncée pour bientôt
+et lorsqu'elle sera disponible, ce patch viendra se baser sur cette langue au-lieu
+du portugais lorsque viendra le temps.
+
+Pour ce qui est de la qualité de la traduction, je tiens à faire la précision sur le
+fait que ce patch ne contient aucun sacre considérant que c'est un jeu pour tous et
+que le jeu en anglais, à la base, n'en contient déjà pas.
+Toutefois, il peut contenir quelques toutes petites vulgarités dans certains cas.
+De plus, bien que j'ai voulu que les discussions avec les PNJ se reflètent à notre
+parlure, j'ai pris quand même soin de ne pas y aller en "joual" à tout va. Bon nombre
+de dialogues peuvent en contenir avec des termes comme "kekchose", "asteur"... mais
+sans que ce soit, je l'espère, trop dérangeant. Je tiens aussi à mentionner que certains
+dialogues utilisent aussi des anglicismes comme "bon matin", "ça fait du sens"...
+et du coup, mon patch n'est entièrement pas un bon modèle à suivre sur la façon dont
+il faudrait parler.
+
+Le jeu ne supportant pas le genre des noms, certaines phrases n'ont pas eu le choix
+d'avoir l'article "un(e)" devant le mot pour désigner autant un objet masculin que
+féminin. Cela changera probablement une fois la langue française officielle sortie.
+
+Certains termes n'ont pas été traduits car il n'existe pas vraiment de traduction à
+ces termes. C'est le cas notamment de quelques poissons comme "Ice Pip", "Woodskip"...
+
+Ce patch corrige quelques minimes erreurs laissées par le développeur dans la langue
+anglaise à cause de fautes de frappe de sa part. Il apporte aussi quelques petits
+ajouts, comme le panneau "Ferme" au poteau indicateur devant l'arrêt de bus ou la
+mention de construire un silo lors de la quête où il faut élever des animaux.
+
+Ce patch altère également les icônes d'énergie et de santé contenus dans les petites
+fenêtres d'infobulles ainsi que dans le coin inférieur gauche de l'écran pour qu'ils
+reflètent les lettres E et H des barres d'énergie et de santé. J'ose espérer que,
+comme moi, vous apprécierez ces petits changements qui améliorent le jeu un petit peu.
+Du moins, je trouve.
+
+À noter que ce patch traduit non pas seulement textuellement, mais aussi graphiquement.
+
+Autre détail important : chaque mise à jour du jeu a une grande chance d'écraser les
+fichiers du patch, faisant retourner le jeu à la normale. Je m'efforcerai alors de
+fournir rapidement une nouvelle version du patch pour chaque nouvelle version du jeu.
+
+                      ◙══════════════════════◙
+                      ║     Installation     ║
+                      ◙══════════════════════◙
+
+Avant toute chose, assurez d'avoir une version à jour et préférablement inaltérée du jeu.
+Si vous avez Steam, le jeu se trouve dans votre répertoire Steam via le chemin : steamapps\common\Stardew Valley.
+Si vous avez la version GOG, le jeu se trouve dans le répertoire "C:\GOG Games\Stardew Valley" par défaut.
+
+1. Faites un backup du dossier "Content" du jeu. Sait-on jamais...
+2. Copiez le contenu de l'archive (sauf ce lisez-moi).
+3. Collez le tout à l'intérieur du dossier "Content".
+4. Confirmez l'écrasement des fichiers.
+5. Démarrez le jeu. Une fois au menu principal, cliquez sur le bouton de la bulle avec les points
+   de suspension en bas à droite de l'écran et sélectionnez "Québécois". Vous êtes prêt à jouer!
+
+           ◙════════════════════════════════════════════◙
+           ║     Compatibilité avec les sauvegardes     ║
+           ◙════════════════════════════════════════════◙
+
+Toutes les sauvegardes créées à partir de la version 1.1 sont compatibles avec ce patch.
+Vous pouvez donc passer de l'anglais au français ou à toute autre langue autant de fois que vous le voulez.
+
+Pour les sauvegardes inférieures ou égales à la version 1.07, elle sont probablement compatibles UNIQUEMENT
+si elles ont été créées sur un jeu en anglais, ce qui devrait normalement être le cas.
+
+Les sauvegardes que vous créez avec cette traduction seront compatibles avec toutes les langues et toutes
+les versions du jeu à venir, à moins de changements au niveau du développeur.
+
+              ◙═════════════════════════════════════◙
+              ║     Compatibilité avec les mods     ║
+              ◙═════════════════════════════════════◙
+
+Tout mod qui ne modifie pas les fichiers modifiés par cette traduction sera compatible. Cela inclus les mods SMAPI.
+
+Certains mods comportent du texte en eux-mêmes, que ce soit sous la forme de dialogues ou d'éléments d'interface.
+Ce texte n'est évidemment pas traduit par mon patch, mais il est toujours possible de le faire par vous-même.
+
+Tout mod, quelle que soit sa langue, fonctionnera avec le jeu réglé en français. Seul le contenu ajouté restera dans la langue du mod.
+
+                      ◙═══════════════════════◙
+                      ║     Bogues connus     ║
+                      ◙═══════════════════════◙
+
+Si vous sauvegardez votre partie avec 1g, le 'g' ne s'affichera pas au menu de chargement.
+Il s'agit d'une contrainte liée au portugais dont j'ignore la raison.
+
+Le "rocher solitaire" ne produit aucun son en cliquant dessus sur l'écran de la carte.
+Ceci est un bogue présent sur toutes les langues autres que l'anglais. C'est à ConcernedApe de le corriger.
+
+Dans les deux cas, il s'agit de bogues mineurs et insignifiants qui ne devraient pas affecter le gameplay.
+
+                    ◙═══════════════════════════◙
+                    ║     Rapport d'erreurs     ║
+                    ◙═══════════════════════════◙
+
+Mon patch est loin d'être parfait et peut ne pas plaire à tous, on s'entend. J'ai fait toute la traduction du mieux que je pouvais de manière volontaire.
+
+S'il y a des choses que vous jugez inacceptable, si vous découvrez des bogues causés par la traduction,
+des fautes de frappe, des éléments non traduits ou si vous avez des suggestions d'amélioration ou des questions,
+n'hésitez pas à me faire part de vos commentaires par courriel à castlenine@hotmail.com ou sur le forum
+de discussion de Steam du projet de traduction française à l'adresse : http://steamcommunity.com/groups/sdv-fr/discussions/0/1290690926876791173/
+
+Pour montrer un bogue, le plus simple est de faire une capture d'écran quand ça arrive, puis d'envoyer cette capture plutôt que d'avoir à écrire tous les détails.
+
+                      ◙═══════════════════════◙
+                      ║     Remerciements     ║
+                      ◙═══════════════════════◙
+
+Je remercie évidemment 30% [OverGamer] qui m'a beaucoup aidé à rendre ce projet possible en me fournissant tout ce dont j'avais de besoin
+et en m'indiquant tout ce dont je devais savoir pour réaliser ce patch. Merci infiniment!
+
+Un grand merci aussi à Draivin, le créateur de xnbnode, pour permettre la manipulation des fichiers de Stardew Valley. Thanks Draivin!
+
+                          Amusez-vous bien!
+						  
