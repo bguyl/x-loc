@@ -33,7 +33,7 @@
 
   export default {
     name: 'x-loc',
-    components: {LandingPage},
+    components: { LandingPage },
     data () {
       return {
         version: ''
