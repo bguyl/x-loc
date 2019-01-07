@@ -28,6 +28,7 @@ install:
 - source ~/.bashrc
 - npm install -g xvfb-maybe
 script:
+- npm i
 - npm run build
 branches:
   only:
